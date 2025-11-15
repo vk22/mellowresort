@@ -1,0 +1,745 @@
+{
+    "title": [
+        {
+            "type": "paragraph",
+            "text": "Discover our place in the true wildlife",
+            "spans": [
+                {
+                    "start": 13,
+                    "end": 18,
+                    "type": "em"
+                },
+                {
+                    "start": 19,
+                    "end": 30,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "location_text": [
+        {
+            "type": "heading6",
+            "text": "Lost between mountains and sea ",
+            "spans": []
+        }
+    ],
+    "location_link": {
+        "link_type": "Any"
+    },
+    "header": {
+        "dimensions": {
+            "width": 3714,
+            "height": 2089
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/296fe426-3fe2-4874-bb20-e8b221659ea1_Our+Place_Overlay.jpg?auto=compress,format",
+        "id": "ZSQ1LRAAACQApLzT",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "design_title": [
+        {
+            "type": "heading1",
+            "text": "Design Matters",
+            "spans": []
+        }
+    ],
+    "design_description": [
+        {
+            "type": "paragraph",
+            "text": "We deeply value the importance of every little detail. We have gone to great lengths to create a design that is not only visually appealing but also environmentally sustainable and locally inspired. We are humbled by the opportunity to collaborate with the local community, who played an integral role in building the project from the ground up.",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "Our design team comprises a local architect, local carpenters, and local builders as well as talented european students. Together, they have come to weave a cultural and artistic bond that has resulted in a unique and authentic design. By incorporating traditional local building styles - like the rancho -  we've managed to seamlessly infuse the resort with the essence of the local culture while incorporating modern design elements.",
+            "spans": [
+                {
+                    "start": 298,
+                    "end": 305,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "design_image": {
+        "dimensions": {
+            "width": 3200,
+            "height": 4000
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/9b5b1236-c80d-48b9-9255-ff9855e631f0_Balcony.jpg?auto=compress,format",
+        "id": "ZSQ0tBAAACIApLqS",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "grid": [
+        {
+            "image_1": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 4000
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/cfed783e-b199-4e33-8707-0782d69be9bc_o+tejado+caba%C3%B1as.jpg?auto=compress,format",
+                "id": "ZDBV5RAAACMA105K",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_2": {
+                "dimensions": {
+                    "width": 2745,
+                    "height": 3431
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/d1f8b426-d392-4c55-8cfa-ef6e3d2242ca_Bathroom.jpg?auto=compress,format",
+                "id": "ZSUdSBAAACUAqN_e",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_3": {
+                "dimensions": {
+                    "width": 3895,
+                    "height": 4869
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/ad60f24c-03e8-4009-be33-74ee53973927_DSC08104.jpg?auto=compress,format",
+                "id": "ZSUePhAAACIAqOSx",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_4": {
+                "dimensions": {
+                    "width": 3897,
+                    "height": 5126
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/87be5191-470d-4453-8d4b-602106440ac0_fotos+decor.jpg?auto=compress,format",
+                "id": "ZDBW7RAAACMA11Lx",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_5": {
+                "dimensions": {
+                    "width": 3926,
+                    "height": 2434
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/704883d0-1c8c-45a1-9625-e456bbde1e95_Outside.jpg?auto=compress,format",
+                "id": "ZSa6xRAAACMAsIVD",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Luxury Cabins",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 7,
+                            "type": "em"
+                        },
+                        {
+                            "start": 7,
+                            "end": 13,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "The cabins offer luxury design and comfortable features such as hot-water and attentive room service.",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "image_1": {
+                "dimensions": {
+                    "width": 1979,
+                    "height": 2986
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/60f5ba6d-e841-43bd-ab42-1b36305f1911_000009400015.jpeg?auto=compress,format",
+                "id": "ZSbEMBAAACIAsLP4",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_2": {
+                "dimensions": {
+                    "width": 3748,
+                    "height": 3516
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/04b5ae27-76fc-44a7-b932-4364446153ce_DSC06682.jpg?auto=compress,format",
+                "id": "ZSbGEhAAACUAsL1s",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_3": {
+                "dimensions": {
+                    "width": 1536,
+                    "height": 1516
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/6551d1c7-96ed-4f34-bb2a-539c2d6a6493_09032023+mellow+edits-5+2.JPG?auto=compress,format",
+                "id": "ZSbFRxAAACUAsLlR",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_4": {
+                "dimensions": {
+                    "width": 3991,
+                    "height": 4989
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/24d537e8-88d0-4054-822d-0ac405fd30ed_DSC06686.jpg?auto=compress,format",
+                "id": "ZSbGeRAAACQAsL90",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_5": {
+                "dimensions": {
+                    "width": 1801,
+                    "height": 1124
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/58a81159-5986-47b1-bd26-a9edb8a3b9e5_11032023+mellow+edits-2+2.jpg?auto=compress,format",
+                "id": "ZSUlHRAAACQAqQYC",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Creative Hub",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 9,
+                            "type": "em"
+                        },
+                        {
+                            "start": 9,
+                            "end": 12,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "A place to discover your creativity and come to rest",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "image_1": {
+                "dimensions": {
+                    "width": 4000,
+                    "height": 6000
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/5422b55f-da03-48b0-9e4d-a65ded964e85_kicaro.jpg?auto=compress,format",
+                "id": "ZCzkPhAAACIA0L2M",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_2": {
+                "dimensions": {
+                    "width": 3727,
+                    "height": 4659
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/1ab820df-07c6-4778-8f9e-19a07080fd5a_DSC05842.jpg?auto=compress,format",
+                "id": "ZSa7ZxAAACIAsIiA",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_3": {
+                "dimensions": {
+                    "width": 4000,
+                    "height": 5000
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/2864aa18-70f6-44d8-845c-88beeac982b3_DSC07612.jpg?auto=compress,format",
+                "id": "ZMjkxBAAACMAQ4pT",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_4": {
+                "dimensions": {
+                    "width": 683,
+                    "height": 1024
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/7e817232-5aa7-4c34-a62c-70e7010ac4b1_d811f7a3-bad3-41f3-9689-487ff2c19f1f.JPG?auto=compress,format",
+                "id": "ZSbHjxAAACQAsMT6",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_5": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3301
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/b3d22a33-7bfd-4e6f-87cc-d051833b5820_pool.jpg?auto=compress,format",
+                "id": "ZDB3VxAAACIA1-Uo",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Infinity Pool",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 9,
+                            "type": "em"
+                        },
+                        {
+                            "start": 9,
+                            "end": 13,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "item_description": []
+        },
+        {
+            "image_1": {
+                "dimensions": {
+                    "width": 2000,
+                    "height": 3000
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/91e8715f-470a-4e34-8e57-2be8e0d914d4_Lamps.jpg?auto=compress,format",
+                "id": "ZSUiFxAAACIAqPfi",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_2": {
+                "dimensions": {
+                    "width": 2000,
+                    "height": 2500
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/12c5db84-b8df-4af2-9bf0-d06ec553feee_Chairs+and+tables.jpg?auto=compress,format",
+                "id": "ZSbCchAAACIAsKvE",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_3": {
+                "dimensions": {
+                    "width": 2442,
+                    "height": 3052
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/da03b63e-9d38-47d7-a4fa-bb272c2c08d7_Restaurant+Bar.jpg?auto=compress,format",
+                "id": "ZSbCRhAAACIAsKsD",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_4": {
+                "dimensions": {
+                    "width": 683,
+                    "height": 1024
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/73f288d5-aa95-45e4-95e0-15eb7f2389d1_2a37dd6b-faea-4a67-a224-b43efe1a0a95.JPG?auto=compress,format",
+                "id": "ZSbDvxAAACMAsLHW",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_5": {
+                "dimensions": {
+                    "width": 682,
+                    "height": 1024
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/dbe0de40-089e-42ca-a29d-def73791e47c_a124bad6-1258-4db7-ba62-3d6d0eeffec4.JPG?auto=compress,format",
+                "id": "ZSbDSRAAACUAsK-H",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Mellow Restaurant",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 7,
+                            "type": "em"
+                        },
+                        {
+                            "start": 7,
+                            "end": 17,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "item_description": []
+        }
+    ],
+    "video_cover": {
+        "dimensions": {
+            "width": 2880,
+            "height": 1920
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/ac0c0bdb-b960-49a3-83aa-b043cbd3d663_Outside+Two+Houses.jpg?auto=compress,format",
+        "id": "ZSUfMBAAACQAqOl2",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "video": {
+        "link_type": "Any"
+    },
+    "our_environment_title": [
+        {
+            "type": "paragraph",
+            "text": "Our environment inspires to disconnect to reconnect",
+            "spans": [
+                {
+                    "start": 16,
+                    "end": 51,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "our_environment_items": [
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 2400,
+                    "height": 3600
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/99416801-0fdd-4d6c-ad5d-6990b7519697_Bed.jpg?auto=compress,format",
+                "id": "ZSUpBxAAACQAqRkn",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading3",
+                    "text": "Premium Cabañas",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Our 50m2 cabins are designed with a seamless blend of concrete and locally sourced teak wood. They have the perfect size for couples or group or friends, accommodating up to three people confortably. \n\nOur cabins are cozy and bright, thanks in part to the large balcony from wich you can enjoy breathtaking ocean views. ",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 3963,
+                    "height": 5182
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/944ec231-6699-4c1f-9fed-9591ea94addc_image00005.jpg?auto=compress,format",
+                "id": "ZCzU9BAAACEA0Kax",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading3",
+                    "text": "Breath-taking Sunset",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "In addition, it is also a great place to engage in creative activities, art workshops, workouts or even brainstorming sessions. Whatever your passion is, the creative hub is a space where you can let your creativity run wild.",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 3839,
+                    "height": 4799
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/d9d64f21-c30a-4e18-a611-ef8ad9c75ba9_DSC08076.jpg?auto=compress,format",
+                "id": "ZSUonRAAACQAqRcm",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading3",
+                    "text": "A place to zone out",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "The entire resort is designed with your wellbeing in mind. Whether you're seeking a peaceful place to unwind and recharge, or a space to connect with loved ones, friends and new people, Mellow has everything you need. \n\nOur resort is the ideal getaway for couples, friends or solo travelers seeking a haven of relaxation and tranquility.",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 3758,
+                    "height": 4698
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/dd1a1759-42cb-4407-9ff6-f83ec695e030_DSC06682.jpg?auto=compress,format",
+                "id": "ZSUjuBAAACQAqP_y",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading3",
+                    "text": "Creative Hub",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "The creative hub is a versatile space that is perfect for a variety of activities. It's an ideal spot to relax and rest, whether you're looking to curl up with a good book in our 8 m2 hammock or stretch your muscles after an intense surf session. \n\nIn addition, it is also a great place to engage in creative activities, art workshops, workouts or even brainstorming sessions. Whatever your passion is, the creative hub is a space where you can let your creativity run wild.",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 3848,
+                    "height": 4810
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/718448e6-43b8-40bd-85ee-d00b8d9ffec8_DSC08026.jpg?auto=compress,format",
+                "id": "ZMkQNhAAACEARFXc",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading3",
+                    "text": "Test 123",
+                    "spans": []
+                }
+            ],
+            "item_description": []
+        }
+    ],
+    "food_title": [
+        {
+            "type": "heading2",
+            "text": "Food Haven",
+            "spans": []
+        }
+    ],
+    "food_description": [
+        {
+            "type": "paragraph",
+            "text": "We believe that food is a vital part of enhancing your experience with us. We make it our top priority to provide healthy and diverse gastronomy during your stay.  We carefully select ingredients based on their nutritional value and origin, ensuring that each meal is beneficial for both your body and mind. As much as possible we use vegetables, herbs and fruits hand-picked from our property or organic local farmers. ",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "Mellow offers a delightful fusion of the Asian, Spanish and Nicaraguan cuisine offering our guests a rich blend of unique flavors. At Mellow we make sure that we got you covered with delicious food so that you are energized and content throughout your entire stay. ",
+            "spans": []
+        }
+    ],
+    "food_image": {
+        "dimensions": {
+            "width": 3764,
+            "height": 4705
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/17588696-d317-4c5c-8548-263cc2129909_DSC06640.jpg?auto=compress,format",
+        "id": "ZMjmKxAAACAAQ5CE",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "meta_title": [
+        {
+            "type": "heading2",
+            "text": "Our place | Mellow Resort ",
+            "spans": [],
+            "direction": "ltr"
+        }
+    ],
+    "meta_description": [
+        {
+            "type": "heading6",
+            "text": "Discover Mellow Resort, a serene haven nestled in Nicaragua's lush nature, offering a unique experience that blends comfort and tranquility.",
+            "spans": [],
+            "direction": "ltr"
+        }
+    ],
+    "meta_image": {}
+}

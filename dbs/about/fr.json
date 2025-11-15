@@ -1,0 +1,286 @@
+{
+    "title": [
+        {
+            "type": "paragraph",
+            "text": "Mellow est le fait de \" s'adoucir et se développer de manière satisfaisante avec le temps\".",
+            "spans": []
+        }
+    ],
+    "description": [
+        {
+            "type": "paragraph",
+            "text": "Au cours de l'été 2020, deux jeunes hommes, Pablo et Kinpok, se sont rencontrés lors d'un surfcamp en Espagne. ",
+            "spans": [
+                {
+                    "start": 90,
+                    "end": 98,
+                    "type": "em"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "\"Bien que nous venions d'environnements différents - Pablo étant le créateur d'un camp de surf et Kinpok venant d'un milieu financier - nous avons tous les deux très bien entendu et sommes devenus amis tout de suite. Au fur et à mesure que notre relation s'est développée, nos rêves grandissaient également et, en l'occurrence, nous voulions tous les deux fusionner le monde de l'hébergement et celui du surf. C'est à partir de cette idée et de ce moment précis que tout a commencé à s'épanouir. ",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "Le hasard a voulu que nous nous retrouvions au Nicaragua à la fin de la même année. Dès notre arrivée, nous sommes tombés amoureux de la nature tropicale, de la culture et de gentillesse des habitants. Après une semaine, nous avons décidé de nous installer au Nicaragua et d'élaborer un projet qui, 3 ans plus tard, est devenu Mellow Resort. L'ensemble du complexe est construit par la communauté locale, qui a été l'une de nos principales sources d'inspiration au cours du processus. Au fil des ans, nous avons mûri et grandi en tant qu'êtres humains, nous avons vécu des aventures et des plaisirs incroyables et inoubliables, et nous avons rencontré des gens extraordinaires. Tout cela - et bien plus encore - nous a permis de devenir les personnes que nous sommes aujourd'hui. C'est en quelque sorte pour cette raison que l'objectif principal de Mellow est de partager notre expérience de vie avec les clients afin que non seulement nous, mais aussi tous ceux qui viennent visiter notre espace, puissent vivre le processus \"mellow\" avec nous\".",
+            "spans": [
+                {
+                    "start": 1027,
+                    "end": 1033,
+                    "type": "em"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+        }
+    ],
+    "slides": [
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 4829,
+                    "height": 3219
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/572ff3c5-01ba-4b3a-b548-1672d1cd87af_pablo+y+lupe.jpg?auto=compress,format",
+                "id": "ZDc0CBAAACMAgG69",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading6",
+                    "text": "Nous promettons",
+                    "spans": []
+                }
+            ],
+            "item_subtitle": [
+                {
+                    "type": "paragraph",
+                    "text": "Forger de relations solides",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 7,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 20,
+                            "end": 27,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "item_hover_text": [
+                {
+                    "type": "paragraph",
+                    "text": "Les vraies amitiés vous enrichissent, vous inspirent et peuvent remplir votre cœur de joie. À Mellow, nous favorisons en même temps les liens avec les autres hôtes,  avec le personnel et avec la communauté locale. ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Ici, vous aurez l'occasion de découvrir la gratitude que suscite établir des relations authentiques et profondes avec les habitants de cette belle région. ",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/b9927684-c43a-436b-91e0-a951916de77f_foto+masaje+1.jpg?auto=compress,format",
+                "id": "ZDc0ChAAACEAgG7F",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading6",
+                    "text": "Nous promettons",
+                    "spans": []
+                }
+            ],
+            "item_subtitle": [
+                {
+                    "type": "paragraph",
+                    "text": "Déconnecter pour réconnecter",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 12,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 12,
+                            "end": 17,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "item_hover_text": [
+                {
+                    "type": "paragraph",
+                    "text": "Dans le monde en constante évolution qui est le nôtre, nous pouvons souvent être submergés par toutes les responsabilités et les situations qui échappent à notre contrôle. C'est pourquoi nous vous proposons un lieu de retrait où vous pourrez vous entourer de nature et de calme.",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5832,
+                    "height": 4000
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/cb647226-8789-40ac-9d89-86761e2204ce_foto+piscina.jpg?auto=compress,format",
+                "id": "ZC0EBhAAAB8A0Owu",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading6",
+                    "text": "Nous voulons que",
+                    "spans": []
+                }
+            ],
+            "item_subtitle": [
+                {
+                    "type": "paragraph",
+                    "text": "Vous découvriez de nouvelles passions et élargissiez vos horizons",
+                    "spans": [
+                        {
+                            "start": 19,
+                            "end": 37,
+                            "type": "em"
+                        },
+                        {
+                            "start": 57,
+                            "end": 65,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "item_hover_text": [
+                {
+                    "type": "paragraph",
+                    "text": "Chez Mellow, nous voulons vous offrir l'opportunité d'explorer le surf, de vivre des aventures et de ressentir la nature comme jamais auparavant.",
+                    "spans": []
+                }
+            ]
+        }
+    ],
+    "our_mission_title": [
+        {
+            "type": "paragraph",
+            "text": "Notre mission est d'inspirer à travers les espaces et d'agir sur la base de notre mentalité orientée vers le localisme.",
+            "spans": [
+                {
+                    "start": 18,
+                    "end": 50,
+                    "type": "strong"
+                },
+                {
+                    "start": 54,
+                    "end": 61,
+                    "type": "strong"
+                },
+                {
+                    "start": 109,
+                    "end": 119,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "our_mission_description": [
+        {
+            "type": "paragraph",
+            "text": "Certaines ambiances sont conçues pour être des lieux parfaits pour inspirer et relier les gens. Notre mission est de créer un environnement unique et chaleureux où les gens peuvent se retrouver. ",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "Lorsque vous entrerez dans notre atmosphère, vous remarquerez immédiatement le mélange créatif de la culture locale avec la touche de modernisme que nous aimons. Nous envisageons que les espaces ont le pouvoir de générer des expériences émotionnelles qui peuvent durer toute une vie.",
+            "spans": []
+        }
+    ],
+    "our_mission_image": {
+        "dimensions": {
+            "width": 4000,
+            "height": 6000
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/840f1d22-8ff2-4ffe-aea0-e982312b8fc8_nachito+y+marliton.jpg?auto=compress,format",
+        "id": "ZDh5YRAAACIAgoqu",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "we_are_mellow_title": [
+        {
+            "type": "paragraph",
+            "text": "Chez Mellow, nous créons des espaces où vous pouvez vous déconnecter et vous reconnecter.",
+            "spans": [
+                {
+                    "start": 13,
+                    "end": 88,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "video_cover": {
+        "dimensions": {
+            "width": 6000,
+            "height": 3376
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/de19d8f4-2978-4bd4-b88a-b37714b67e6d_foto+caballos.jpg?auto=compress,format",
+        "id": "ZCzSkBAAACMA0KMk",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "video": {
+        "link_type": "Any"
+    },
+    "meta_title": [],
+    "meta_description": [],
+    "meta_image": {}
+}

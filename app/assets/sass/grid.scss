@@ -1,0 +1,30 @@
+@use './util/breakpoints' as *;
+
+.container, .small-container{
+  margin-left: auto;
+  margin-right: auto;
+}
+.container {
+  width: calc(100% - 80px * 2);
+}
+.small-container {
+  width: calc(100% - 140px * 2);
+}
+@include respond-to('desktop') {
+  .container {
+    width: calc(100% - 60px * 2);
+  }
+  .small-container {
+    width: calc(100% - 80px * 2);
+  }
+}
+@include respond-to('tablet-big') {
+  .container, .small-container {
+    width: calc(100% - 50px * 2);
+  }
+}
+@include respond-to('mobile-medium') {
+  .container, .small-container {
+    width: calc(100% - 30px * 2);
+  }
+}

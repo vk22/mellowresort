@@ -1,0 +1,563 @@
+{
+    "_id": "special-retreats-info",
+    "slug": "special-retreats-info",
+    "translations": {
+        "en": {
+            "title": [
+                {
+                    "type": "paragraph",
+                    "text": "We also offer limited edition retreats with a special guest",
+                    "spans": [
+                        {
+                            "start": 30,
+                            "end": 46,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 46,
+                            "end": 59,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "description": [
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                }
+            ],
+            "image_1": {},
+            "image_2": {},
+            "story_title": [
+                {
+                    "type": "heading3",
+                    "text": "Retreat with a special story",
+                    "spans": []
+                }
+            ],
+            "story_description": [
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                }
+            ],
+            "story_image": {
+                "dimensions": {
+                    "width": 3925,
+                    "height": 5180
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/cfaf48f0-3a42-4bbd-9830-6e1fdd74a6ab_aereo+surf+foto.jpg?auto=compress,format",
+                "id": "ZC7mshAAACIA1DK5",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "retreats_title": [
+                {
+                    "type": "heading6",
+                    "text": "Browse our Special Retreats",
+                    "spans": []
+                }
+            ],
+            "retreats_subtitle": [
+                {
+                    "type": "paragraph",
+                    "text": "Get Inspired",
+                    "spans": [
+                        {
+                            "start": 4,
+                            "end": 12,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "retreats_description": [
+                {
+                    "type": "paragraph",
+                    "text": "This is a one in a life time experiences you don’t want to miss out!",
+                    "spans": []
+                }
+            ],
+            "icons_title": [
+                {
+                    "type": "paragraph",
+                    "text": "An unforgetable trip with a positive impact",
+                    "spans": []
+                }
+            ],
+            "icons": [
+                {
+                    "item_icon": {
+                        "dimensions": {
+                            "width": 172,
+                            "height": 172
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/2334811c-d9d1-4a20-a187-442056dceaec_Giving+back.svg",
+                        "id": "YqgbxxAAACAAhyar",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading5",
+                            "text": "Giving back",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Lodges and camps chosen for their sustainability credentials and initiatives.",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "item_icon": {
+                        "dimensions": {
+                            "width": 172,
+                            "height": 172
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/bb3d2075-a41b-4ca7-8403-0e4d98fae515_Sustainability.svg",
+                        "id": "Yqgb0RAAAB8Ahyba",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading5",
+                            "text": "Sustainability",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Lodges and camps chosen for their sustainability credentials and initiatives.",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "item_icon": {
+                        "dimensions": {
+                            "width": 172,
+                            "height": 172
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/04fbe256-01e7-4d17-88ec-2b905c175071_Community+%26+Local.svg",
+                        "id": "Yqgb2hAAACIAhycB",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading5",
+                            "text": "Community & Local",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Properties and experiences that uplift and empower local communities.",
+                            "spans": []
+                        }
+                    ]
+                }
+            ],
+            "video_cover": {},
+            "video": {
+                "link_type": "Any"
+            }
+        },
+        "es": {
+            "title": [
+                {
+                    "type": "paragraph",
+                    "text": "También ofrecemos retiros de edición limitada con invitados especiales",
+                    "spans": [
+                        {
+                            "start": 37,
+                            "end": 45,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 60,
+                            "end": 70,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "description": [
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                }
+            ],
+            "image_1": {},
+            "image_2": {},
+            "story_title": [
+                {
+                    "type": "heading3",
+                    "text": "",
+                    "spans": []
+                }
+            ],
+            "story_description": [
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                }
+            ],
+            "story_image": {},
+            "retreats_title": [
+                {
+                    "type": "heading6",
+                    "text": "Descubre nuestros Retiros Especiales",
+                    "spans": []
+                }
+            ],
+            "retreats_subtitle": [
+                {
+                    "type": "paragraph",
+                    "text": "Déjate inspirar",
+                    "spans": []
+                }
+            ],
+            "retreats_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Esta experiencia es única. ¡No te la puedes perder!",
+                    "spans": []
+                }
+            ],
+            "icons_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Un viaje inolvidable con un impacto positivo",
+                    "spans": [
+                        {
+                            "start": 9,
+                            "end": 21,
+                            "type": "em"
+                        },
+                        {
+                            "start": 36,
+                            "end": 44,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "icons": [
+                {
+                    "item_icon": {
+                        "dimensions": {
+                            "width": 172,
+                            "height": 172
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/2334811c-d9d1-4a20-a187-442056dceaec_Giving+back.svg",
+                        "id": "YqgbxxAAACAAhyar",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading5",
+                            "text": "Contribución ",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "item_icon": {
+                        "dimensions": {
+                            "width": 172,
+                            "height": 172
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/bb3d2075-a41b-4ca7-8403-0e4d98fae515_Sustainability.svg",
+                        "id": "Yqgb0RAAAB8Ahyba",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading5",
+                            "text": "Sostenibilidad",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "item_icon": {
+                        "dimensions": {
+                            "width": 172,
+                            "height": 172
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/04fbe256-01e7-4d17-88ec-2b905c175071_Community+%26+Local.svg",
+                        "id": "Yqgb2hAAACIAhycB",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading5",
+                            "text": "La comunidad",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "",
+                            "spans": []
+                        }
+                    ]
+                }
+            ],
+            "video_cover": {},
+            "video": {
+                "link_type": "Any"
+            }
+        },
+        "fr": {
+            "title": [
+                {
+                    "type": "paragraph",
+                    "text": "Nous procurons également des retraits en édition limitée avec un invité spécial",
+                    "spans": [
+                        {
+                            "start": 49,
+                            "end": 57,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 65,
+                            "end": 79,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "description": [
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                }
+            ],
+            "image_1": {},
+            "image_2": {},
+            "story_title": [
+                {
+                    "type": "heading3",
+                    "text": "",
+                    "spans": []
+                }
+            ],
+            "story_description": [
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                }
+            ],
+            "story_image": {},
+            "retreats_title": [
+                {
+                    "type": "heading6",
+                    "text": "Déouvrez nos retraits spéciaux",
+                    "spans": []
+                }
+            ],
+            "retreats_subtitle": [
+                {
+                    "type": "paragraph",
+                    "text": "Se laisser inspirer",
+                    "spans": []
+                }
+            ],
+            "retreats_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Il s'agit d'une expérience unique à ne pas manquer !",
+                    "spans": []
+                }
+            ],
+            "icons_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Un voyage inoubliable avec un impact positif",
+                    "spans": []
+                }
+            ],
+            "icons": [
+                {
+                    "item_icon": {
+                        "dimensions": {
+                            "width": 172,
+                            "height": 172
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/2334811c-d9d1-4a20-a187-442056dceaec_Giving+back.svg",
+                        "id": "YqgbxxAAACAAhyar",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading5",
+                            "text": "Contribution",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "item_icon": {
+                        "dimensions": {
+                            "width": 172,
+                            "height": 172
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/bb3d2075-a41b-4ca7-8403-0e4d98fae515_Sustainability.svg",
+                        "id": "Yqgb0RAAAB8Ahyba",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading5",
+                            "text": "Durabilité",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "item_icon": {
+                        "dimensions": {
+                            "width": 172,
+                            "height": 172
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/04fbe256-01e7-4d17-88ec-2b905c175071_Community+%26+Local.svg",
+                        "id": "Yqgb2hAAACIAhycB",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading5",
+                            "text": "La communauté",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "",
+                            "spans": []
+                        }
+                    ]
+                }
+            ],
+            "video_cover": {},
+            "video": {
+                "link_type": "Any"
+            }
+        }
+    },
+    "published": true,
+    "createdAt": "2025-05-09T13:38:43.090+00:00",
+    "updatedAt": "2025-05-09T13:38:43.090+00:00"
+}

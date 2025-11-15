@@ -1,0 +1,459 @@
+{
+     "_id": "menu",
+     "data": {
+    "main_items": [
+        {
+            "image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/d450c099-0df1-4282-ac23-05811150e7ee_foto+nahua+.jpg?auto=compress,format",
+                "id": "ZCw06BAAACMAz5On",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "title": [
+                {
+                    "type": "heading2",
+                    "text": "Surfing",
+                    "spans": []
+                }
+            ],
+            "link": {
+                "id": "Yuy5JBAAACcAyNAm",
+                "type": "surfing",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "surfing",
+                "first_publication_date": "2022-08-05T06:39:22+0000",
+                "last_publication_date": "2024-11-04T19:56:01+0000",
+                "link_type": "Document",
+                "key": "68b011e9-6827-4888-94d5-502ea61d1905",
+                "isBroken": false
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 2017,
+                    "height": 3043
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/7f899a48-43cf-4474-9786-6aa03c75b890_000009400021.jpeg?auto=compress,format",
+                "id": "ZK0KLhIAACUA-Xok",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "title": [
+                {
+                    "type": "heading2",
+                    "text": "Our Place",
+                    "spans": []
+                }
+            ],
+            "link": {
+                "id": "YteLxhAAACAAoX4F",
+                "type": "our_place",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "our-place",
+                "first_publication_date": "2022-07-20T04:59:54+0000",
+                "last_publication_date": "2024-11-04T19:54:25+0000",
+                "link_type": "Document",
+                "key": "ecda4a5a-c550-491c-a4ea-262f9df3fd1d",
+                "isBroken": false
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/29987d3b-b7a4-4cbf-b92f-4b8c1a3cbef0_kinsoennnn.jpg?auto=compress,format",
+                "id": "ZEw4JhEAACkAo1EP",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "title": [
+                {
+                    "type": "heading2",
+                    "text": "Our 7-day Package",
+                    "spans": []
+                }
+            ],
+            "link": {
+                "id": "YwvvhhAAACMAttbH",
+                "type": "standard_retreat",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "standard-retreat",
+                "first_publication_date": "2022-08-28T23:41:55+0000",
+                "last_publication_date": "2024-11-04T19:27:19+0000",
+                "link_type": "Document",
+                "key": "2ebfdac0-dfdf-437a-b70f-613cfd8541d0",
+                "isBroken": false
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 4835,
+                    "height": 3445
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/d09d9549-25da-4eb1-bf32-f8ce1b995e87_PABLO+Y+NAHCO.jpg?auto=compress,format",
+                "id": "ZC3IEhAAACMA0kll",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "title": [
+                {
+                    "type": "heading2",
+                    "text": "About us",
+                    "spans": []
+                }
+            ],
+            "link": {
+                "id": "YtDqnhEAAB0AYRKU",
+                "type": "about",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "about",
+                "first_publication_date": "2022-07-15T04:18:42+0000",
+                "last_publication_date": "2023-04-13T23:00:56+0000",
+                "link_type": "Document",
+                "key": "9d403c07-8d17-4539-9dd5-cf967d1766cb",
+                "isBroken": false
+            }
+        }
+    ],
+    "social_items": [
+        {
+            "social_link": {
+                "link_type": "Web",
+                "key": "9ea9e0b6-9039-40fa-8eca-ee1e35c3630e",
+                "url": "https://instagram.com"
+            }
+        },
+        {
+            "social_link": {
+                "link_type": "Web",
+                "key": "95967b02-3860-46d2-ab67-e8643db21066",
+                "url": "https://twitter.com"
+            }
+        }
+    ],
+    "footer_left": [
+        {
+            "type": "heading6",
+            "text": "©2022",
+            "spans": []
+        }
+    ],
+    "footer_center": [
+        {
+            "type": "heading6",
+            "text": "Mellow",
+            "spans": []
+        }
+    ],
+    "footer_right": [
+        {
+            "type": "heading6",
+            "text": "All rights preserved",
+            "spans": []
+        }
+    ],
+    "secondary_items_title": [
+        {
+            "type": "heading3",
+            "text": "Our Foundations",
+            "spans": []
+        }
+    ],
+    "secondary_items": [
+        {
+            "title": [
+                {
+                    "type": "heading6",
+                    "text": "Sustainability",
+                    "spans": []
+                }
+            ],
+            "link": {
+                "id": "Y0HABBEAACEAleMx",
+                "type": "sustainability",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "sustainability",
+                "first_publication_date": "2022-10-08T18:28:57+0000",
+                "last_publication_date": "2024-11-04T19:52:44+0000",
+                "link_type": "Document",
+                "key": "395adf9e-103c-44fa-9ae4-499744ed459a",
+                "isBroken": false
+            }
+        },
+        {
+            "title": [
+                {
+                    "type": "heading6",
+                    "text": "Giving Back",
+                    "spans": []
+                }
+            ],
+            "link": {
+                "id": "Y0GlmBEAACEAlW4T",
+                "type": "giving_back",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "giving-back",
+                "first_publication_date": "2022-10-08T16:33:34+0000",
+                "last_publication_date": "2023-11-03T17:45:10+0000",
+                "link_type": "Document",
+                "key": "0ad1fa1e-cf49-4888-b1fe-77bd2716783e",
+                "isBroken": false
+            }
+        },
+        {
+            "title": [
+                {
+                    "type": "heading6",
+                    "text": "Meet the Team",
+                    "spans": []
+                }
+            ],
+            "link": {
+                "id": "YwBo8BAAACQAg64A",
+                "type": "team",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "team",
+                "first_publication_date": "2022-08-20T04:54:11+0000",
+                "last_publication_date": "2025-01-06T18:09:19+0000",
+                "link_type": "Document",
+                "key": "c5f9f50a-dc71-404b-8121-0300eb53e129",
+                "isBroken": false
+            }
+        },
+        {
+            "title": [
+                {
+                    "type": "heading6",
+                    "text": "Mellow Journal",
+                    "spans": []
+                }
+            ],
+            "link": {
+                "id": "YzoAnhEAAFREup4h",
+                "type": "journal",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "journal",
+                "first_publication_date": "2022-10-02T21:20:38+0000",
+                "last_publication_date": "2022-10-02T21:20:38+0000",
+                "link_type": "Document",
+                "key": "3f5e9493-b7ac-49fc-9634-c6c071473e7a",
+                "isBroken": false
+            }
+        }
+    ],
+    "support_items_title": [
+        {
+            "type": "heading2",
+            "text": "Support",
+            "spans": []
+        }
+    ],
+    "support_items": [
+        {
+            "title": [
+                {
+                    "type": "heading6",
+                    "text": "Help Center",
+                    "spans": []
+                }
+            ],
+            "link": {
+                "id": "YyVhLREAACIAXjQw",
+                "type": "help_center",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "help-center",
+                "first_publication_date": "2022-09-17T05:57:06+0000",
+                "last_publication_date": "2024-11-04T19:50:43+0000",
+                "link_type": "Document",
+                "key": "eda42998-936b-492d-954e-51f91cd50ac3",
+                "isBroken": false
+            }
+        },
+        {
+            "title": [
+                {
+                    "type": "heading6",
+                    "text": "Contact Us",
+                    "spans": []
+                }
+            ],
+            "link": {
+                "id": "YqgXyRAAACEAhxQw",
+                "type": "home",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "home",
+                "first_publication_date": "2022-06-14T05:26:15+0000",
+                "last_publication_date": "2024-11-04T19:24:51+0000",
+                "link_type": "Document",
+                "key": "47f14a2d-610f-40fe-b0fe-d4509de551e1",
+                "isBroken": false
+            }
+        }
+    ],
+    "book_title": [
+        {
+            "type": "paragraph",
+            "text": "Contact Us",
+            "spans": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "contact_title": [
+        {
+            "type": "paragraph",
+            "text": "Get in touch by ...",
+            "spans": [
+                {
+                    "start": 0,
+                    "end": 3,
+                    "type": "strong"
+                },
+                {
+                    "start": 7,
+                    "end": 12,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "contact_items": [
+        {
+            "item_title": [
+                {
+                    "type": "heading6",
+                    "text": "Whatsapp",
+                    "spans": []
+                }
+            ],
+            "item_link": {
+                "link_type": "Web",
+                "key": "07df0ef0-09a2-4c47-a5e4-b7e23843c7fa",
+                "url": "https://wa.me/50582145599",
+                "target": "_blank"
+            }
+        },
+        {
+            "item_title": [
+                {
+                    "type": "heading6",
+                    "text": "Phone",
+                    "spans": []
+                }
+            ],
+            "item_link": {
+                "link_type": "Web",
+                "key": "8b31ce65-b8f4-4e8c-b53d-b26d752bd418",
+                "url": "tel:+573137292792",
+                "target": "_blank"
+            }
+        },
+        {
+            "item_title": [
+                {
+                    "type": "heading6",
+                    "text": "Email",
+                    "spans": []
+                }
+            ],
+            "item_link": {
+                "link_type": "Web",
+                "key": "93f52356-492d-4386-a1ca-10b3dfd5ab0e",
+                "url": "mailto:info@mellowresort.com",
+                "target": "_blank"
+            }
+        },
+        {
+            "item_title": [
+                {
+                    "type": "heading6",
+                    "text": "Help center",
+                    "spans": []
+                }
+            ],
+            "item_link": {
+                "id": "YyVhLREAACIAXjQw",
+                "type": "help_center",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "help-center",
+                "first_publication_date": "2022-09-17T05:57:06+0000",
+                "last_publication_date": "2024-11-04T19:50:43+0000",
+                "link_type": "Document",
+                "key": "3dadb3fe-732b-4c77-b18e-5363376ff069",
+                "isBroken": false
+            }
+        }
+    ],
+    "book_button": [
+        {
+            "type": "paragraph",
+            "text": "Book Now",
+            "spans": [
+                {
+                    "start": 0,
+                    "end": 4,
+                    "type": "em"
+                },
+                {
+                    "start": 5,
+                    "end": 8,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "book_button_link": {
+        "link_type": "Web",
+        "key": "d49fc189-4089-49a2-8f86-7c891068d3af",
+        "url": "https://www.wetravel.com/trips/mellow-7-night-all-inclusive-package-mellow-resort-el-viejo-30684572"
+    }
+}
+}
+

@@ -1,0 +1,83 @@
+@use './util/fonts' as *;
+
+@include importFont('Editorial New', 'Editorial-New-Regular', normal);
+@include importFont('Editorial New', 'Editorial-New-Italic', normal, italic);
+@include importFont('Editorial New', 'Editorial-New-Ultrabold', bold);
+@include importFont('Editorial New', 'Editorial-New-Ultrabold-Italic', bold, italic);
+
+@include importFont('Neue Montreal', 'Neue-Montreal-Book', normal);
+@include importFont('Neue Montreal', 'Neue-Montreal-Italic', normal, italic);
+@include importFont('Neue Montreal', 'Neue-Montreal-Bold', bold);
+
+body {
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: normal;
+}
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-weight: 400;
+  margin: 0;
+  line-height: 1.1;
+}
+.h1 {
+  font-size: 85px;
+}
+.h2 {
+  font-size: 38px;
+}
+.h3 {
+  font-size: 32px;
+}
+@media (min-width: 1920px) {
+  body {
+    font-size: 1.1vw;
+  }
+  .h1 {
+    font-size: 5.9vw;
+  }
+  .h2 {
+    font-size: 2.63vw;
+  }
+  .h3 {
+    font-size: 2.22vw;
+  }
+}
+@media (max-width: 1180px) {
+  .h1 {
+    font-size: 85px * 0.8;
+  }
+  .h2 {
+    font-size: 38px * 0.8;
+  }
+  .h3 {
+    font-size: 32px * 0.8;
+  }
+}
+@media (max-width: 1024px) {
+  body {
+    font-size: 15.5px;
+  }
+  .h1 {
+    font-size: 85px * 0.7;
+  }
+  .h2 {
+    font-size: 38px * 0.7;
+  }
+  .h3 {
+    font-size: 32px * 0.7;
+  }
+}
+@media (max-width: 868px) {
+  .h1 {
+    font-size: 38px;
+  }
+  .h2 {
+    font-size: 28px;
+  }
+  .h3, .h4 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 580px) {
+  
+}

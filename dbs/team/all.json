@@ -1,0 +1,912 @@
+{
+    "_id": "team",
+    "slug": "team",
+    "translations": {
+        "en": {
+            "title": [
+                {
+                    "type": "paragraph",
+                    "text": "From all over the world with one mission, meet our team",
+                    "spans": [
+                        {
+                            "start": 14,
+                            "end": 32,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 47,
+                            "end": 55,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "members": [
+                {
+                    "image": {
+                        "dimensions": {
+                            "width": 3911,
+                            "height": 5866
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/987ad97c-eb90-4b1e-8bf5-2a44b4044d0c_black+and+white.jpg?auto=compress,format",
+                        "id": "ZD4FNBAAACAAmM8U",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Pablo Garcerá",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "CO-FOUNDER",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Born and raised in Spain, Pablo has always been a dreamer in life. At the age of 16 he discovered surfing and fell in love with it instantly. Since then he's been traveling around the world to surf and to be inspired by the world around him. \n\nPablo is a true visionary that is capable of making visual dreams into reality. People close to him know him as a generous and warm person and with a drive that truly inspires.",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {
+                        "dimensions": {
+                            "width": 3558,
+                            "height": 4000
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/ac4f115f-a248-4533-af6c-726aad51f2ca_nacho+retrato.jpg?auto=compress,format",
+                        "id": "ZEBMgBAAACIAo4Mc",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Kinpok Xiong",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "CO-FOUNDER",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Born and raised in the Netherlands as a son of Chinese immigrants, Kinpok has always been in between two cultures and in search for identity by traveling from a young age. He has spent about 2 years in China and with his jobs he used to travel all around the world to discover new cultures and his identity. \n\nIn Nicaragua Kinpok found his identity in Jesus Christ as he found transformative change and power through faith. In his leadership at Mellow his primary focus is to be fair and leave a good impact as a business to all stakeholders involved as well as to provide the people around him the opportunity to experience God's love. \n",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {
+                        "dimensions": {
+                            "width": 6000,
+                            "height": 3376
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/f3777b18-2b95-453b-846b-e3ef59ae9873_retrato+kinsoen.jpg?auto=compress,format",
+                        "id": "ZEbz7BQAACcAtEKj",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Kinsoen Xiong",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "CREATIVE DIRECTOR",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Kinsoen is the person that brings structure and concreteness in a place full of dreamers. He was part of the Mellow project from the beginning and helped shaped Mellow through the creation of the Mellow brand, interior and website design. \n\nHis immense creative output and attention to detail played a huge role in the completion of the Mellow project. Asides, Kinsoen is the perfect person to have a deep and philosophical conversation with. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {
+                        "dimensions": {
+                            "width": 4000,
+                            "height": 5819
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/ec705db6-a7a6-410a-b278-74c9a0c34402_foto+lupe+.jpg?auto=compress,format",
+                        "id": "ZD3P_BAAACIAl970",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Lupe",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "CARPENTER  AND CONSTRUCTOR",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Lupe is not only one of the most talented carpenters in the world, he is also one of the kindest ones. Through the Mellow building process, we identified his talent not only through his handcrafted carpentry work but also the ability to manage and to lead projects. \n\nOver time we have put him in charge to finish the entire construction project and the work displays his talent and ability. We recommend him for any construction projects. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {},
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Mari de Ruiter ",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "DESIGNER",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Mari arrived at Mellow to complete her design bachelor thesis with the assignment to build a aesthetic and multifunctional bedframe. \n\nNow, she is taking charge of many different interior designs that are visible in our Mellow project, from parts of interior design in our cabins to furniture, her talent has contributed great success to the details of Mellow resort. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {},
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Herman Gellegos Frixione",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "ARCHITECT",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Herman was a superman that saved us with his beautiful redesigns of the cabins that are truly inspirational. With his extensive experience he can deliver unique designs that are perfectly suitable for the Nicaraguan environment whilst also aiding in the construction processes so that they can be smoothly implemented. \n\nHerman is truly the best architect that we have found in Nicaragua. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {
+                        "dimensions": {
+                            "width": 3835,
+                            "height": 5752
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/f8bd79f9-9834-4344-9e73-eb8cc0c85169_retrato+dani.jpg?auto=compress,format",
+                        "id": "ZD3P2hAAACMAl95X",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Dani Serra",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "ARCHITECT",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Dani is a talented Spanish architect that took on the Mellow project at the beginning. His ideation and creativity is visible in our main ranch building and creative hub. His initial designs were fundamental to strike the balance between modern design and local inspiration. ",
+                            "spans": []
+                        }
+                    ]
+                }
+            ],
+            "video_cover": {
+                "dimensions": {
+                    "width": 5818,
+                    "height": 3827
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/cd737706-b47c-4813-8036-98e214dc2c0a_FOTO+RANCHO+RESTAURANTE.jpg?auto=compress,format",
+                "id": "ZD3P_BAAACIAl971",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "video": {
+                "link_type": "Any"
+            },
+            "meta_title": [
+                {
+                    "type": "heading2",
+                    "text": "Meet the Team | Mellow Resort Nicaragua",
+                    "spans": [],
+                    "direction": "ltr"
+                }
+            ],
+            "meta_description": [
+                {
+                    "type": "heading6",
+                    "text": "Discover the dedicated professionals behind Mellow Resort, committed to delivering exceptional hospitality and creating unforgettable experiences in Nicaragua's tropical paradise.",
+                    "spans": [],
+                    "direction": "ltr"
+                }
+            ],
+            "meta_image": {}
+        },
+        "es": {
+            "title": [
+                {
+                    "type": "paragraph",
+                    "text": "From all over the world with one mission, meet our team",
+                    "spans": [
+                        {
+                            "start": 14,
+                            "end": 32,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 47,
+                            "end": 55,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "members": [
+                {
+                    "image": {
+                        "dimensions": {
+                            "width": 3911,
+                            "height": 5866
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/987ad97c-eb90-4b1e-8bf5-2a44b4044d0c_black+and+white.jpg?auto=compress,format",
+                        "id": "ZD4FNBAAACAAmM8U",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Pablo Garcerá",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "CO-FOUNDER",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Born and raised in Spain, Pablo has always been a dreamer in life. At the age of 16 he discovered surfing and fell in love with it instantly. Since then he's been traveling around the world to surf and to be inspired by the world around him. \n\nPablo is a true visionary that is capable of making visual dreams into reality. People close to him know him as a generous and warm person and with a drive that truly inspires.",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {
+                        "dimensions": {
+                            "width": 3558,
+                            "height": 4000
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/ac4f115f-a248-4533-af6c-726aad51f2ca_nacho+retrato.jpg?auto=compress,format",
+                        "id": "ZEBMgBAAACIAo4Mc",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Kinpok Xiong",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "CO-FOUNDER",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Born and raised in the Netherlands as a son of Chinese immigrants, Kinpok has always been in between two cultures and in search for identity by traveling from a young age. He has spent about 2 years in China and with his jobs he used to travel all around the world to discover new cultures and his identity. \n\nIn Nicaragua Kinpok found his identity in Jesus Christ as he found transformative change and power through faith. In his leadership at Mellow his primary focus is to be fair and leave a good impact as a business to all stakeholders involved as well as to provide the people around him the opportunity to experience God's love. \n",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {
+                        "dimensions": {
+                            "width": 6000,
+                            "height": 3376
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/f3777b18-2b95-453b-846b-e3ef59ae9873_retrato+kinsoen.jpg?auto=compress,format",
+                        "id": "ZEbz7BQAACcAtEKj",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Kinsoen Xiong",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "CREATIVE DIRECTOR",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Kinsoen is the person that brings structure and concreteness in a place full of dreamers. He was part of the Mellow project from the beginning and helped shaped Mellow through the creation of the Mellow brand, interior and website design. \n\nHis immense creative output and attention to detail played a huge role in the completion of the Mellow project. Asides, Kinsoen is the perfect person to have a deep and philosophical conversation with. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {
+                        "dimensions": {
+                            "width": 4000,
+                            "height": 5819
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/ec705db6-a7a6-410a-b278-74c9a0c34402_foto+lupe+.jpg?auto=compress,format",
+                        "id": "ZD3P_BAAACIAl970",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Lupe",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "CARPENTER  AND CONSTRUCTOR",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Lupe is not only one of the most talented carpenters in the world, he is also one of the kindest ones. Through the Mellow building process, we identified his talent not only through his handcrafted carpentry work but also the ability to manage and to lead projects. \n\nOver time we have put him in charge to finish the entire construction project and the work displays his talent and ability. We recommend him for any construction projects. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {},
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Mari de Ruiter ",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "DESIGNER",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Mari arrived at Mellow to complete her design bachelor thesis with the assignment to build a aesthetic and multifunctional bedframe. \n\nNow, she is taking charge of many different interior designs that are visible in our Mellow project, from parts of interior design in our cabins to furniture, her talent has contributed great success to the details of Mellow resort. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {},
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Herman Gellegos Frixione",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "ARCHITECT",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Herman was a superman that saved us with his beautiful redesigns of the cabins that are truly inspirational. With his extensive experience he can deliver unique designs that are perfectly suitable for the Nicaraguan environment whilst also aiding in the construction processes so that they can be smoothly implemented. \n\nHerman is truly the best architect that we have found in Nicaragua. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {
+                        "dimensions": {
+                            "width": 3835,
+                            "height": 5752
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/f8bd79f9-9834-4344-9e73-eb8cc0c85169_retrato+dani.jpg?auto=compress,format",
+                        "id": "ZD3P2hAAACMAl95X",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Dani Serra",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "ARCHITECT",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Dani is a talented Spanish architect that took on the Mellow project at the beginning. His ideation and creativity is visible in our main ranch building and creative hub. His initial designs were fundamental to strike the balance between modern design and local inspiration. ",
+                            "spans": []
+                        }
+                    ]
+                }
+            ],
+            "video_cover": {
+                "dimensions": {
+                    "width": 5818,
+                    "height": 3827
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/cd737706-b47c-4813-8036-98e214dc2c0a_FOTO+RANCHO+RESTAURANTE.jpg?auto=compress,format",
+                "id": "ZD3P_BAAACIAl971",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "video": {
+                "link_type": "Any"
+            },
+            "meta_title": [
+                {
+                    "type": "heading2",
+                    "text": "Meet the Team | Mellow Resort Nicaragua",
+                    "spans": [],
+                    "direction": "ltr"
+                }
+            ],
+            "meta_description": [
+                {
+                    "type": "heading6",
+                    "text": "Discover the dedicated professionals behind Mellow Resort, committed to delivering exceptional hospitality and creating unforgettable experiences in Nicaragua's tropical paradise.",
+                    "spans": [],
+                    "direction": "ltr"
+                }
+            ],
+            "meta_image": {}
+        },
+        "fr": {
+            "title": [
+                {
+                    "type": "paragraph",
+                    "text": "From all over the world with one mission, meet our team",
+                    "spans": [
+                        {
+                            "start": 14,
+                            "end": 32,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 47,
+                            "end": 55,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "members": [
+                {
+                    "image": {
+                        "dimensions": {
+                            "width": 3911,
+                            "height": 5866
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/987ad97c-eb90-4b1e-8bf5-2a44b4044d0c_black+and+white.jpg?auto=compress,format",
+                        "id": "ZD4FNBAAACAAmM8U",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Pablo Garcerá",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "CO-FOUNDER",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Born and raised in Spain, Pablo has always been a dreamer in life. At the age of 16 he discovered surfing and fell in love with it instantly. Since then he's been traveling around the world to surf and to be inspired by the world around him. \n\nPablo is a true visionary that is capable of making visual dreams into reality. People close to him know him as a generous and warm person and with a drive that truly inspires.",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {
+                        "dimensions": {
+                            "width": 3558,
+                            "height": 4000
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/ac4f115f-a248-4533-af6c-726aad51f2ca_nacho+retrato.jpg?auto=compress,format",
+                        "id": "ZEBMgBAAACIAo4Mc",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Kinpok Xiong",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "CO-FOUNDER",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Born and raised in the Netherlands as a son of Chinese immigrants, Kinpok has always been in between two cultures and in search for identity by traveling from a young age. He has spent about 2 years in China and with his jobs he used to travel all around the world to discover new cultures and his identity. \n\nIn Nicaragua Kinpok found his identity in Jesus Christ as he found transformative change and power through faith. In his leadership at Mellow his primary focus is to be fair and leave a good impact as a business to all stakeholders involved as well as to provide the people around him the opportunity to experience God's love. \n",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {
+                        "dimensions": {
+                            "width": 6000,
+                            "height": 3376
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/f3777b18-2b95-453b-846b-e3ef59ae9873_retrato+kinsoen.jpg?auto=compress,format",
+                        "id": "ZEbz7BQAACcAtEKj",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Kinsoen Xiong",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "CREATIVE DIRECTOR",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Kinsoen is the person that brings structure and concreteness in a place full of dreamers. He was part of the Mellow project from the beginning and helped shaped Mellow through the creation of the Mellow brand, interior and website design. \n\nHis immense creative output and attention to detail played a huge role in the completion of the Mellow project. Asides, Kinsoen is the perfect person to have a deep and philosophical conversation with. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {
+                        "dimensions": {
+                            "width": 4000,
+                            "height": 5819
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/ec705db6-a7a6-410a-b278-74c9a0c34402_foto+lupe+.jpg?auto=compress,format",
+                        "id": "ZD3P_BAAACIAl970",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Lupe",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "CARPENTER  AND CONSTRUCTOR",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Lupe is not only one of the most talented carpenters in the world, he is also one of the kindest ones. Through the Mellow building process, we identified his talent not only through his handcrafted carpentry work but also the ability to manage and to lead projects. \n\nOver time we have put him in charge to finish the entire construction project and the work displays his talent and ability. We recommend him for any construction projects. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {},
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Mari de Ruiter ",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "DESIGNER",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Mari arrived at Mellow to complete her design bachelor thesis with the assignment to build a aesthetic and multifunctional bedframe. \n\nNow, she is taking charge of many different interior designs that are visible in our Mellow project, from parts of interior design in our cabins to furniture, her talent has contributed great success to the details of Mellow resort. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {},
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Herman Gellegos Frixione",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "ARCHITECT",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Herman was a superman that saved us with his beautiful redesigns of the cabins that are truly inspirational. With his extensive experience he can deliver unique designs that are perfectly suitable for the Nicaraguan environment whilst also aiding in the construction processes so that they can be smoothly implemented. \n\nHerman is truly the best architect that we have found in Nicaragua. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "image": {
+                        "dimensions": {
+                            "width": 3835,
+                            "height": 5752
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/f8bd79f9-9834-4344-9e73-eb8cc0c85169_retrato+dani.jpg?auto=compress,format",
+                        "id": "ZD3P2hAAACMAl95X",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "name": [
+                        {
+                            "type": "heading2",
+                            "text": "Dani Serra",
+                            "spans": []
+                        }
+                    ],
+                    "role": [
+                        {
+                            "type": "heading6",
+                            "text": "ARCHITECT",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Dani is a talented Spanish architect that took on the Mellow project at the beginning. His ideation and creativity is visible in our main ranch building and creative hub. His initial designs were fundamental to strike the balance between modern design and local inspiration. ",
+                            "spans": []
+                        }
+                    ]
+                }
+            ],
+            "video_cover": {
+                "dimensions": {
+                    "width": 5818,
+                    "height": 3827
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/cd737706-b47c-4813-8036-98e214dc2c0a_FOTO+RANCHO+RESTAURANTE.jpg?auto=compress,format",
+                "id": "ZD3P_BAAACIAl971",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "video": {
+                "link_type": "Any"
+            },
+            "meta_title": [
+                {
+                    "type": "heading2",
+                    "text": "Meet the Team | Mellow Resort Nicaragua",
+                    "spans": [],
+                    "direction": "ltr"
+                }
+            ],
+            "meta_description": [
+                {
+                    "type": "heading6",
+                    "text": "Discover the dedicated professionals behind Mellow Resort, committed to delivering exceptional hospitality and creating unforgettable experiences in Nicaragua's tropical paradise.",
+                    "spans": [],
+                    "direction": "ltr"
+                }
+            ],
+            "meta_image": {}
+        }
+    },
+    "published": true,
+    "createdAt": "2025-05-09T13:38:43.090+00:00",
+    "updatedAt": "2025-05-09T13:38:43.090+00:00"
+}

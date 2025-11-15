@@ -1,0 +1,1733 @@
+{
+    "_id": "standard",
+    "slug": "standard",
+    "translations": {
+        "en": {
+            "title": [
+                {
+                    "type": "paragraph",
+                    "text": "Epic adventures awaits you at Mellow ",
+                    "spans": [
+                        {
+                            "start": 16,
+                            "end": 37,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "duration": [
+                {
+                    "type": "heading6",
+                    "text": "7-day Package -- from 1,300$",
+                    "spans": []
+                }
+            ],
+            "location": [
+                {
+                    "type": "heading6",
+                    "text": "",
+                    "spans": []
+                }
+            ],
+            "location_link": {
+                "link_type": "Web",
+                "key": "bae785e0-81a1-4670-bf56-7c1669bdc128",
+                "url": "https://www.google.com/maps/dir/12.6689261,-87.3792794/mellow+resort/@12.6694041,-87.381145,17z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x8f708f804385923d:0x85561d13f2fb5d74!2m2!1d-87.3792629!2d12.6688941"
+            },
+            "book_text": [
+                {
+                    "type": "heading1",
+                    "text": "Standard All-in 7 day Retreat - from $2250 pp",
+                    "spans": [
+                        {
+                            "start": 9,
+                            "end": 15,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 32,
+                            "end": 37,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 43,
+                            "end": 45,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "book_text_mobile": [
+                {
+                    "type": "paragraph",
+                    "text": " from $2500 pp",
+                    "spans": [
+                        {
+                            "start": 12,
+                            "end": 14,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "header_image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/72b38bd7-257d-495a-afce-cbab6b47845c_foto+islaaa.jpg?auto=compress,format",
+                "id": "ZDnNlBAAACIAhfOA",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "map_title": [
+                {
+                    "type": "paragraph",
+                    "text": "An inspiring getaway to remember",
+                    "spans": [
+                        {
+                            "start": 3,
+                            "end": 12,
+                            "type": "em"
+                        },
+                        {
+                            "start": 13,
+                            "end": 24,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "map_description": [
+                {
+                    "type": "paragraph",
+                    "text": "We offer 7-days stays where you can live according to the clock of nature. In the early morning you wake up with the sounds of birds and the smell of the freshness  of the garden. After a nice cappuccino or Nicaraguan coffee and a extensive breakfast we take you to the beach to surf and enjoy the beach. ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Throughout your entire stay we will organize unforgettable adventures such as horse-back riding, barbecues, live music shows or fishing mornings. The aim is for you to allow yourself a moment of pause and relaxation, of enjoyment, and to experience all that Nicaragua has to offer. The program is tailored to suit everyone and has both intense and wind down moments to recharge. ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "What makes us most happy is that you return home with an even bigger smile on your face than when you arrived.",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                }
+            ],
+            "map_location_title": [
+                {
+                    "type": "heading6",
+                    "text": "Playa Nahualapa",
+                    "spans": []
+                }
+            ],
+            "map_location": {
+                "latitude": 12.678760492832618,
+                "longitude": -87.37663960253968
+            },
+            "highlights_image": {
+                "dimensions": {
+                    "width": 3434,
+                    "height": 5151
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/181fb5fd-d9c1-4be5-9669-d6886c718477_piscina+sunset.jpg?auto=compress,format",
+                "id": "ZD8eLBAAACAAngHm",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "highlights_subtitle": [
+                {
+                    "type": "heading6",
+                    "text": "Things you don’t have to worry about",
+                    "spans": []
+                }
+            ],
+            "highlights_title": [
+                {
+                    "type": "paragraph",
+                    "text": "What’s Included",
+                    "spans": [
+                        {
+                            "start": 7,
+                            "end": 15,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "highlights_items": [
+                {
+                    "type": "list-item",
+                    "text": "6 nights stay at our luxury accommodation with breakfast included",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "All day water, tea and coffee included",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Sunset horseback ride on the beach",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Fishing or surfing boat trip at the estuary ",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Relaxation massage ",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Spaces for you to wind down, relax and to reflect",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Moments intended to making long lasting connection with people",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Amazing surf sessions with beautiful waves",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Live music, bonfires and barbecues",
+                    "spans": []
+                }
+            ],
+            "what_is_included_subtitle": [
+                {
+                    "type": "heading6",
+                    "text": "Things that can make your stay even more pleasant",
+                    "spans": []
+                }
+            ],
+            "what_is_included_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Optional add-ons",
+                    "spans": []
+                }
+            ],
+            "what_is_included_items": [
+                {
+                    "type": "list-item",
+                    "text": "Surf lessons ",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Fusion food, smoothies and alcoholic drinks ",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Additional massages",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Motorbike rental",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Surf trips",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Other adventures and activities such as visit to volcanos and other places",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "A private photographer that capture your experience",
+                    "spans": []
+                }
+            ],
+            "features_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Presenting what our retreat offers",
+                    "spans": [
+                        {
+                            "start": 28,
+                            "end": 34,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "features": [
+                {
+                    "item_image": {
+                        "dimensions": {
+                            "width": 4000,
+                            "height": 6000
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/462bbcfa-2bc1-41a9-aa8a-4dd780c2fc6b_foto+restaurante+2.jpg?auto=compress,format&rect=311,707,2610,3915&w=4000&h=6000",
+                        "id": "ZD3srRAAACEAmGDj",
+                        "edit": {
+                            "x": -476,
+                            "y": -1083,
+                            "zoom": 1.532608171179891,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading4",
+                            "text": "Premium resort",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "At our resort, you can experience the best of both worlds. On one hand, you can immerse yourself in the breathtaking wilderness of Nicaragua nature, while on the other hand, our excellent cabins and spaces guarantee a comfortable and pleasant stay so you don't have to worry about a thing.",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "item_image": {
+                        "dimensions": {
+                            "width": 3217,
+                            "height": 3980
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/13440364-f859-4ee2-b0dd-bc0b34d6bb0f_special+retreat+3.jpeg?auto=compress,format",
+                        "id": "ZEAWtxAAACAAooni",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading4",
+                            "text": "A place to reconnect",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Not only our resort but the whole environment of Nicaragua gives the perfect space to relax and to unwind from whatever stresses you.  With the 7-day stays we give you the time you need for yourself and a space where you can engage in meaningful relationships and conversations that can have a good impact on each other. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "item_image": {
+                        "dimensions": {
+                            "width": 5009,
+                            "height": 3376
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/5a15891d-8c2e-47b6-8853-ee7453ce22fa_gonzalo+y+pablo.jpg?auto=compress,format",
+                        "id": "ZDBI8xAAACEA1xQH",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading4",
+                            "text": "Amazing adventures",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Our packages  are not complete without an array of amazing adventures that are sure to bring a smile to your face. Whether it's a boat trip, a volcano hike, or a horseback ride, we have carefully planned and organized everything so that you can have an unforgettable experience in Nicaragua.",
+                            "spans": []
+                        }
+                    ]
+                }
+            ],
+            "special_retreats_title": [
+                {
+                    "type": "paragraph",
+                    "text": "We also offer limited edition retreats with a special guest",
+                    "spans": []
+                }
+            ],
+            "cta_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Start your adventure here",
+                    "spans": [
+                        {
+                            "start": 6,
+                            "end": 10,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 11,
+                            "end": 20,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "cta_subtitle": [
+                {
+                    "type": "heading6",
+                    "text": "Standard all-inclusive 7 days retreat",
+                    "spans": []
+                }
+            ],
+            "shared_title": [
+                {
+                    "type": "heading6",
+                    "text": "Shared Cabaña",
+                    "spans": []
+                }
+            ],
+            "shared_price": [
+                {
+                    "type": "paragraph",
+                    "text": "$2250 pp",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 5,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "private_title": [
+                {
+                    "type": "heading6",
+                    "text": "Private Cabaña",
+                    "spans": []
+                }
+            ],
+            "private_price": [
+                {
+                    "type": "paragraph",
+                    "text": "$2750 pp",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 5,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "bottom_book_text": [
+                {
+                    "type": "heading6",
+                    "text": "Coming Soon",
+                    "spans": []
+                }
+            ],
+            "popup_content": [
+                {
+                    "type": "heading1",
+                    "text": "Standard All-in Retreat",
+                    "spans": [
+                        {
+                            "start": 16,
+                            "end": 23,
+                            "type": "em"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Starting from $2190",
+                    "spans": [
+                        {
+                            "start": 14,
+                            "end": 19,
+                            "type": "em"
+                        }
+                    ]
+                },
+                {
+                    "type": "heading6",
+                    "text": "-",
+                    "spans": []
+                },
+                {
+                    "type": "heading2",
+                    "text": "Level",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Our standard retreats is for all surf levels",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "heading2",
+                    "text": "Group",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "A maximum of 10 people",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "heading2",
+                    "text": "Date",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Our standard retreats are usually from Saturday to Saturday.",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "heading1",
+                    "text": "What’s Included",
+                    "spans": []
+                },
+                {
+                    "type": "heading6",
+                    "text": "-",
+                    "spans": []
+                },
+                {
+                    "type": "heading2",
+                    "text": "Food: All meals included",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "This means that you do not have to worry about your food and (non-alcoholic) drinks. All of that is taken care of. ",
+                    "spans": []
+                }
+            ],
+            "meta_title": [
+                {
+                    "type": "heading2",
+                    "text": "Standard Retreat | Mellow Resort Nicaragua",
+                    "spans": [],
+                    "direction": "ltr"
+                }
+            ],
+            "meta_description": [
+                {
+                    "type": "heading6",
+                    "text": "Explore our Standard Retreat at Mellow Resort, providing the perfect balance of comfort and nature for an unforgettable experience in Nicaragua.",
+                    "spans": [],
+                    "direction": "ltr"
+                }
+            ],
+            "meta_image": {}
+        },
+        "es": {
+            "title": [
+                {
+                    "type": "paragraph",
+                    "text": "Te esperan aventuras increíbles en nuestros retiros",
+                    "spans": [
+                        {
+                            "start": 3,
+                            "end": 11,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 21,
+                            "end": 32,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 44,
+                            "end": 51,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "duration": [
+                {
+                    "type": "heading6",
+                    "text": "7 días de retiro ·Todo incluido·",
+                    "spans": []
+                }
+            ],
+            "location": [
+                {
+                    "type": "heading6",
+                    "text": "",
+                    "spans": []
+                }
+            ],
+            "location_link": {
+                "link_type": "Web",
+                "key": "c655f116-50a8-40ab-9c06-ad7e1b6e546d",
+                "url": "https://https://www.google.com/maps/dir/12.6689261,-87.3792794/mellow+resort/@12.6694041,-87.381145,17z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x8f708f804385923d:0x85561d13f2fb5d74!2m2!1d-87.3792629!2d12.6688941"
+            },
+            "book_text": [
+                {
+                    "type": "heading1",
+                    "text": "Retiro Estándar de 7 días ·Todo incluido· \ndesde $2500 pp",
+                    "spans": [
+                        {
+                            "start": 55,
+                            "end": 57,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "book_text_mobile": [
+                {
+                    "type": "paragraph",
+                    "text": "desde $2500 pp",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 6,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 12,
+                            "end": 14,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "header_image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/72b38bd7-257d-495a-afce-cbab6b47845c_foto+islaaa.jpg?auto=compress,format",
+                "id": "ZDnNlBAAACIAhfOA",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "map_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Una escapada inspiradora y para recordar",
+                    "spans": [
+                        {
+                            "start": 4,
+                            "end": 13,
+                            "type": "em"
+                        },
+                        {
+                            "start": 13,
+                            "end": 25,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 32,
+                            "end": 40,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "map_description": [
+                {
+                    "type": "paragraph",
+                    "text": "En las escapadas que tenemos preparadas, el ritmo de la naturaleza será tu principal guía. Te podrás despertar con el sonido de los pájaros y sintiendo el olor fresco de la naturaleza que rodea nuestro resort. Después de un buen café de origen nicaragüense y  de un buen desayuno, te llevaremos a la playa para que surfees y disfrutes del mar. ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "A lo largo del retiro organizaremos aventuras inolvidables:  escaladas al volcán, barbacoas, espectáculos de música en vivo o mañanas de pesca. El objetivo es que te des un respiro a ti mismo, un momento de relajación, de disfrute y que seas consciente de todo lo que el viaje a Nicaragua te puede enseñar. El programa se adecúa a cada uno y tiene tanto momentos intensos como relajados. ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Lo que más felices nos hace es que regreses a casa con una sonrisa aún más grande que con la que llegaste. ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                }
+            ],
+            "map_location_title": [
+                {
+                    "type": "heading6",
+                    "text": "Playa Nahualapa",
+                    "spans": []
+                }
+            ],
+            "map_location": {
+                "latitude": 12.6697162496777,
+                "longitude": -87.38667189087502
+            },
+            "highlights_image": {
+                "dimensions": {
+                    "width": 3434,
+                    "height": 5151
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/181fb5fd-d9c1-4be5-9669-d6886c718477_piscina+sunset.jpg?auto=compress,format",
+                "id": "ZD8eLBAAACAAngHm",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "highlights_subtitle": [
+                {
+                    "type": "heading6",
+                    "text": "Todas las cosas que podrás experimentar",
+                    "spans": []
+                }
+            ],
+            "highlights_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Lo mas destacado de nuestras experiencias",
+                    "spans": [
+                        {
+                            "start": 3,
+                            "end": 17,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "highlights_items": [
+                {
+                    "type": "list-item",
+                    "text": "Increíbles sesiones de surf con olas perfectas",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Paseo a caballo por la playa al atardecer",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Excursión por el volcán y paseos en el barco por el estero",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Momentos para la relajación y la reflexión ",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Momentos destinados a crear vínculos duraderos con otras personas",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Música en directo, hogueras y barbacoas",
+                    "spans": []
+                }
+            ],
+            "what_is_included_subtitle": [
+                {
+                    "type": "heading6",
+                    "text": "Cosas de las que no hará falta preocuparse",
+                    "spans": []
+                }
+            ],
+            "what_is_included_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Lo que está incluido",
+                    "spans": [
+                        {
+                            "start": 12,
+                            "end": 20,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "what_is_included_items": [
+                {
+                    "type": "list-item",
+                    "text": "6 noches de alojamiento de lujo con agua caliente",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Emocionantes clases de surf",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Aventuras, excursiones y otras actividades ",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Uso ilimitado del equipo: tablas de surf, esterillas, etc.",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Un fotógrafo privado que capturará toda tu experiencia",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Comida fusión y bebidas (sin alcohol)",
+                    "spans": []
+                }
+            ],
+            "features_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Nuestras escapadas ofrecen...",
+                    "spans": []
+                }
+            ],
+            "features": [
+                {
+                    "item_image": {
+                        "dimensions": {
+                            "width": 4000,
+                            "height": 6000
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/462bbcfa-2bc1-41a9-aa8a-4dd780c2fc6b_foto+restaurante+2.jpg?auto=compress,format",
+                        "id": "ZD3srRAAACEAmGDj",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading4",
+                            "text": "Resort premium",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "En nuestro resort, podrás experimentar lo mejor de ambos mundos. Por un lado, podrás sumergirte en la impresionante naturaleza salvaje de Nicaragua y, por otro, nuestras excelentes cabañas y espacios garantizan una estancia cómoda y placentera para que no tengas que preocuparte de nada. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "item_image": {
+                        "dimensions": {
+                            "width": 3217,
+                            "height": 3980
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/13440364-f859-4ee2-b0dd-bc0b34d6bb0f_special+retreat+3.jpeg?auto=compress,format",
+                        "id": "ZEAWtxAAACAAooni",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading4",
+                            "text": "Un lugar perfecto para desconectar",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Tanto nuestro resort como el paisaje nicaragüense son el lugar perfecto para relajarte y destensarte. Con los retiros te cedemos un espacio para estar contigo mismo y creamos el clima ideal para entablar relaciones y conversaciones que te beneficiarán en todos los sentidos. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "item_image": {
+                        "dimensions": {
+                            "width": 5009,
+                            "height": 3376
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/5a15891d-8c2e-47b6-8853-ee7453ce22fa_gonzalo+y+pablo.jpg?auto=compress,format",
+                        "id": "ZDBI8xAAACEA1xQH",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading4",
+                            "text": "Aventuras asombrosas",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Nuestros retiros no están completos sin una serie de aventuras que seguro que terminarán con una sonrisa en tu boca. Ya se trate de un viaje en barco, de escalar un volcán o de dar paseos a caballo, hemos planeado cuidadosamente todo para que puedas tener una experiencia inolvidable en Nicaragua. ",
+                            "spans": []
+                        }
+                    ]
+                }
+            ],
+            "special_retreats_title": [
+                {
+                    "type": "paragraph",
+                    "text": "También ofrecemos retiros de edición limitada con un invitado especial",
+                    "spans": []
+                }
+            ],
+            "cta_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Empieza tu aventura aquí",
+                    "spans": [
+                        {
+                            "start": 8,
+                            "end": 11,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 11,
+                            "end": 20,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "cta_subtitle": [
+                {
+                    "type": "heading6",
+                    "text": "Retiro Estándar ·Todo incluido· de 7 días",
+                    "spans": []
+                }
+            ],
+            "shared_title": [
+                {
+                    "type": "heading6",
+                    "text": "Cabaña compartida ",
+                    "spans": []
+                }
+            ],
+            "shared_price": [
+                {
+                    "type": "paragraph",
+                    "text": "$2150 pp",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 5,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "private_title": [
+                {
+                    "type": "heading6",
+                    "text": "Cabaña privada",
+                    "spans": []
+                }
+            ],
+            "private_price": [
+                {
+                    "type": "paragraph",
+                    "text": "$2950 pp",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 5,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "bottom_book_text": [
+                {
+                    "type": "heading6",
+                    "text": "Reserva ahora",
+                    "spans": []
+                }
+            ],
+            "popup_content": [
+                {
+                    "type": "heading1",
+                    "text": "Retiro Estándar ·Todo incluido· ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Desde $2190",
+                    "spans": [
+                        {
+                            "start": 6,
+                            "end": 11,
+                            "type": "em"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "- ",
+                    "spans": []
+                },
+                {
+                    "type": "heading2",
+                    "text": "Nivel",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Nuestros retiros estándar son para todos los niveles de surf\n\n",
+                    "spans": []
+                },
+                {
+                    "type": "heading2",
+                    "text": "Grupo",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Máximo de 20 personas ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "heading2",
+                    "text": "Fechas",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Nuestros retiros Estándar se desarrollan normalmente de Sábado a Sábado.",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "heading1",
+                    "text": "El retiro incluye",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "-",
+                    "spans": []
+                },
+                {
+                    "type": "heading2",
+                    "text": "Comida: todas las comidas están incluidas ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "No tendrás que preocuparte ni por las comidas ni por las bebidas (no alcohólicas) ya que todas ellas están incluidas. De todo ello, nos ocupamos nosotros. \n\n\n\n\n\n\n",
+                    "spans": []
+                },
+                {
+                    "type": "heading2",
+                    "text": "\n\n",
+                    "spans": []
+                }
+            ],
+            "meta_title": [
+                {
+                    "type": "heading2",
+                    "text": "Retiro Estándar | Mellow Resort Nicaragua",
+                    "spans": [],
+                    "direction": "ltr"
+                }
+            ],
+            "meta_description": [
+                {
+                    "type": "heading6",
+                    "text": "Descubre nuestro Retiro Estándar en Mellow Resort, que ofrece el equilibrio perfecto entre comodidad y naturaleza para una experiencia inolvidable en Nicaragua.",
+                    "spans": [],
+                    "direction": "ltr"
+                }
+            ],
+            "meta_image": {}
+        },
+        "fr": {
+            "title": [
+                {
+                    "type": "paragraph",
+                    "text": "Des aventures incroyables vous attendent dans nos retraites",
+                    "spans": [
+                        {
+                            "start": 4,
+                            "end": 14,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 14,
+                            "end": 26,
+                            "type": "em"
+                        },
+                        {
+                            "start": 50,
+                            "end": 59,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "duration": [
+                {
+                    "type": "heading6",
+                    "text": "7 jours de retrait ·Tout compris·",
+                    "spans": []
+                }
+            ],
+            "location": [
+                {
+                    "type": "heading6",
+                    "text": "",
+                    "spans": []
+                }
+            ],
+            "location_link": {
+                "link_type": "Web",
+                "key": "d7933129-8c71-46af-bb22-c559c07941da",
+                "url": "https://https://www.google.com/maps/dir/12.6689261,-87.3792794/mellow+resort/@12.6694041,-87.381145,17z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x8f708f804385923d:0x85561d13f2fb5d74!2m2!1d-87.3792629!2d12.6688941"
+            },
+            "book_text": [
+                {
+                    "type": "heading1",
+                    "text": "Retrait de 7 jours ·Tout compris·\n à partir de $2500 pp",
+                    "spans": []
+                }
+            ],
+            "book_text_mobile": [
+                {
+                    "type": "paragraph",
+                    "text": "dès $2500 pp",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 4,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 10,
+                            "end": 12,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "header_image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/72b38bd7-257d-495a-afce-cbab6b47845c_foto+islaaa.jpg?auto=compress,format",
+                "id": "ZDnNlBAAACIAhfOA",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "map_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Une escapade inspirante et à ne pas oublier",
+                    "spans": [
+                        {
+                            "start": 4,
+                            "end": 13,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "map_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Dans les séjours que nous avons préparé, le rythme de la nature sera la ligne directrice de vos jours. Vous vous reveillerez au son des oiseaux et à l'odeur fraîche de la nature qui entoure notre complexe. Après un bon café nicaraguayen et un petit-déjeuner, nous vous emmènerons à la plage pour surfer et profiter de la mer. ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Tout au long du retrait, nous organiserons des aventures inoubliables: escalade de volcans, barbecues, spectacles de musique en direct ou matinées de pêche. L'objectif est que vous vous accordiez un moment répit, de détente, de plaisir et de prise de conscience de tout ce que le voyage au Nicaragua peut vous apprendre. Le programme est adapté à chaque individu et comporte des moments intenses et des moments plus paisibles. ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Ce qui nous rend le plus heureux, c'est que vous rentriez chez vous avec un sourire encore plus grand qu'à votre arrivée.",
+                    "spans": []
+                }
+            ],
+            "map_location_title": [
+                {
+                    "type": "heading6",
+                    "text": "Playa Nahualapa",
+                    "spans": []
+                }
+            ],
+            "map_location": {
+                "latitude": 12.666429804752573,
+                "longitude": -87.3855865613406
+            },
+            "highlights_image": {
+                "dimensions": {
+                    "width": 3434,
+                    "height": 5151
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/181fb5fd-d9c1-4be5-9669-d6886c718477_piscina+sunset.jpg?auto=compress,format",
+                "id": "ZD8eLBAAACAAngHm",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "highlights_subtitle": [
+                {
+                    "type": "heading6",
+                    "text": "Tout ce que vous aller vivre",
+                    "spans": []
+                }
+            ],
+            "highlights_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Points forts de nos aventures",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 13,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "highlights_items": [
+                {
+                    "type": "list-item",
+                    "text": "Séances de surf incroyables avec des vagues parfaites",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Randonnée à cheval sur la plage au coucher du soleil",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Randonnée sur le volcan et balade en bateau dans l'estuaire",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Temps de relaxation et de réflexion ",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Des moments pour créer des liens de longue durée avec d'autres personnes",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Musique live, feux de joie et barbecues",
+                    "spans": []
+                }
+            ],
+            "what_is_included_subtitle": [
+                {
+                    "type": "heading6",
+                    "text": "Les choses dont vous ne devez pas vous préoccuper",
+                    "spans": []
+                }
+            ],
+            "what_is_included_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Ce qui vous est inclus",
+                    "spans": [
+                        {
+                            "start": 16,
+                            "end": 22,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "what_is_included_items": [
+                {
+                    "type": "list-item",
+                    "text": "6 nuits d'hébergement de luxe avec eau chaude",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Cours de surf passionnants",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Aventures, excursions et autres activités ",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Utilisation illimitée du matériel: planches de surf, matelas, etc.",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Un photographe privé pour immortaliser votre expérience",
+                    "spans": []
+                },
+                {
+                    "type": "list-item",
+                    "text": "Nourriture et boissons Fusion (non alcoolisées)",
+                    "spans": []
+                }
+            ],
+            "features_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Nos escapades sont enrichies par",
+                    "spans": [
+                        {
+                            "start": 4,
+                            "end": 14,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 19,
+                            "end": 28,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "features": [
+                {
+                    "item_image": {
+                        "dimensions": {
+                            "width": 4000,
+                            "height": 6000
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/462bbcfa-2bc1-41a9-aa8a-4dd780c2fc6b_foto+restaurante+2.jpg?auto=compress,format",
+                        "id": "ZD3srRAAACEAmGDj",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading4",
+                            "text": "Un hôtel premium",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Dans notre hôtel, vous pourrez profiter du meilleur des deux mondes. D'une part, vous pouvez vous immerger dans la nature sauvage du Nicaragua et, d'autre part, nos excellents chalets et espaces vous garantissent un séjour confortable et agréable, sans que vous ayez à vous soucier de quoi que ce soit.",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "item_image": {
+                        "dimensions": {
+                            "width": 3217,
+                            "height": 3980
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/13440364-f859-4ee2-b0dd-bc0b34d6bb0f_special+retreat+3.jpeg?auto=compress,format",
+                        "id": "ZEAWtxAAACAAooni",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading4",
+                            "text": "Un milieu parfait pour la déconnection",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Notre espace et le paysage nicaraguayen sont l'endroit idéal pour se détendre et se reposer. Avec les retraits, nous vous donnons un espace pour vous-même et nous tentons de créer le climat idéal pour encourager des relations et des conversations qui vous seront bénéfiques à tous points de vue.",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "item_image": {
+                        "dimensions": {
+                            "width": 5009,
+                            "height": 3376
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/5a15891d-8c2e-47b6-8853-ee7453ce22fa_gonzalo+y+pablo.jpg?auto=compress,format",
+                        "id": "ZDBI8xAAACEA1xQH",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading4",
+                            "text": "Des aventures incroyables",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Nos retraits ne sont pas complets sans des aventures qui vous laisseront certainement le sourire aux lèvres. Qu'il s'agisse d'une excursion en bateau, de l'ascension d'un volcan ou d'une randonée à cheval, nous avons tout prévu pour que vous viviez une expérience inoubliable au Nicaragua.",
+                            "spans": []
+                        }
+                    ]
+                }
+            ],
+            "special_retreats_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Nous proposons également des retraits en édition limitée avec un invité spécial.",
+                    "spans": []
+                }
+            ],
+            "cta_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Commencez votre aventure ici",
+                    "spans": [
+                        {
+                            "start": 10,
+                            "end": 16,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 16,
+                            "end": 25,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "cta_subtitle": [
+                {
+                    "type": "heading6",
+                    "text": "Retrait ·Tout compris· de 7 días",
+                    "spans": []
+                }
+            ],
+            "shared_title": [
+                {
+                    "type": "heading6",
+                    "text": "Cabine partagée",
+                    "spans": []
+                }
+            ],
+            "shared_price": [
+                {
+                    "type": "paragraph",
+                    "text": "$2150 pp",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 5,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "private_title": [
+                {
+                    "type": "heading6",
+                    "text": "Cabine privée",
+                    "spans": []
+                }
+            ],
+            "private_price": [
+                {
+                    "type": "paragraph",
+                    "text": "$2950 pp",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 5,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ],
+            "bottom_book_text": [
+                {
+                    "type": "heading6",
+                    "text": "Reservez dès maintenant",
+                    "spans": []
+                }
+            ],
+            "popup_content": [
+                {
+                    "type": "heading1",
+                    "text": "Retrait ·Tout compris· ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Dès $2190",
+                    "spans": [
+                        {
+                            "start": 4,
+                            "end": 9,
+                            "type": "em"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "- ",
+                    "spans": []
+                },
+                {
+                    "type": "heading2",
+                    "text": "Niveau",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Nos retraits s'adressent à tous les niveaux de surf.\n\n",
+                    "spans": []
+                },
+                {
+                    "type": "heading2",
+                    "text": "Groupe",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Máximum de 20 personnes ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "heading2",
+                    "text": "Dates",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Nos retraits se déroulent normalement du samedi au samedi.\n\n",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "heading1",
+                    "text": "Le retrait comprend ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "heading2",
+                    "text": "Nourriture: tous le repas sont inclus",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Vous n'avez pas à vous soucier des repas ou des boissons (non alcoolisées) car tous les repas sont inclus. Nous nous occupons de tout cela pour vous.\n\n\n\n\n\n\n",
+                    "spans": []
+                },
+                {
+                    "type": "heading2",
+                    "text": "\n\n",
+                    "spans": []
+                }
+            ],
+            "meta_title": [
+                {
+                    "type": "heading2",
+                    "text": "Retraite Standard | Mellow Resort Nicaragua",
+                    "spans": [],
+                    "direction": "ltr"
+                }
+            ],
+            "meta_description": [
+                {
+                    "type": "heading6",
+                    "text": "Découvrez notre Retraite Standard au Mellow Resort, offrant un équilibre parfait entre confort et nature, pour une expérience inoubliable au Nicaragua.",
+                    "spans": [],
+                    "direction": "ltr"
+                }
+            ],
+            "meta_image": {}
+        }
+    },
+    "published": true,
+    "createdAt": "2025-05-09T13:38:43.090+00:00",
+    "updatedAt": "2025-05-09T13:38:43.090+00:00"
+}

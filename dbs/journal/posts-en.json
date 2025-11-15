@@ -1,0 +1,1487 @@
+{
+    "page": 1,
+    "results_per_page": 100,
+    "results_size": 4,
+    "total_results_size": 4,
+    "total_pages": 1,
+    "next_page": null,
+    "prev_page": null,
+    "results": [
+        {
+            "id": "ZvR45RIAACAAy8SI",
+            "uid": "is-northern-nicaragua-safe",
+            "url": null,
+            "type": "journal_post",
+            "href": "https://mellow-sa.cdn.prismic.io/api/v2/documents/search?ref=Z3wcTxEAACAAQtnK&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZvR45RIAACAAy8SI%22%29+%5D%5D",
+            "tags": [],
+            "first_publication_date": "2024-09-25T21:02:50+0000",
+            "last_publication_date": "2024-11-04T19:22:47+0000",
+            "slugs": [
+                "date"
+            ],
+            "linked_documents": [],
+            "lang": "en-us",
+            "alternate_languages": [],
+            "data": {
+                "title": [
+                    {
+                        "type": "paragraph",
+                        "text": "Is Northern Nicaragua Safe?",
+                        "spans": [
+                            {
+                                "start": 0,
+                                "end": 27,
+                                "type": "strong"
+                            }
+                        ],
+                        "direction": "ltr"
+                    }
+                ],
+                "description": [],
+                "header_items": [
+                    {
+                        "item_title": [
+                            {
+                                "type": "heading4",
+                                "text": "Date",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ],
+                        "item_subtitle": [
+                            {
+                                "type": "heading6",
+                                "text": "25.09.24",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ]
+                    },
+                    {
+                        "item_title": [
+                            {
+                                "type": "heading4",
+                                "text": "Author",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ],
+                        "item_subtitle": [
+                            {
+                                "type": "heading6",
+                                "text": "Megane Bélanger",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ]
+                    },
+                    {
+                        "item_title": [
+                            {
+                                "type": "heading4",
+                                "text": "Visuals",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ],
+                        "item_subtitle": [
+                            {
+                                "type": "heading6",
+                                "text": "Nathan Xiong",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ]
+                    },
+                    {
+                        "item_title": [
+                            {
+                                "type": "heading4",
+                                "text": "Reading Time",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ],
+                        "item_subtitle": [
+                            {
+                                "type": "heading6",
+                                "text": "4 min",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ]
+                    }
+                ],
+                "cover_image": {
+                    "dimensions": {
+                        "width": 6000,
+                        "height": 3376
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/b93207f3-db12-484d-97cb-afbea5ac5df6_chicos+surfers.jpg?auto=format%2Ccompress&rect=1890%2C565%2C4109%2C2312&w=6000&h=3376",
+                    "id": "ZDSO6RAAACIA6iWW",
+                    "edit": {
+                        "x": 1890,
+                        "y": 565,
+                        "zoom": 1.46,
+                        "background": "transparent"
+                    }
+                },
+                "body": [
+                    {
+                        "primary": {
+                            "large_title": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "It’s perfectly normal to have concerns about safety when traveling to a new country. At Mellow Resort, we understand these concerns, and we’re here to put your mind at ease. Our goal is to provide you with a safe and peaceful experience, allowing you to explore Nicaragua with complete peace of mind.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                }
+                            ],
+                            "small_title": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Understanding the Realities and Embracing the Beauty",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 52,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                }
+                            ],
+                            "text": [
+                                {
+                                    "type": "heading1",
+                                    "text": "Safety at Mellow Resort",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 23,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "At Mellow Resort, your safety is our top priority. We maintain 24/7 security, ensuring a peaceful and worry-free stay. The resort is nestled in a quiet, tranquil neighborhood surrounded by nature, offering not only a serene escape but also a secure environment. Our employees are locals, deeply connected to the small community where the resort is situated. This close relationship fosters mutual respect and strong ties with our neighbors, who are always happy to welcome visitors.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "heading1",
+                                    "text": "A Supportive and Welcoming Community",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 36,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Mellow Resort plays an active role in supporting the local community. By providing jobs and contributing to local projects, we help uplift the area and build lasting, positive relationships. The locals appreciate the presence of tourists who come to discover the beauty of their country, and they take pride in sharing their culture and traditions with you. If you haven’t heard it yet, you’ll soon experience it for yourself: the true beauty of Nicaragua lies in its people.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "heading1",
+                                    "text": "Common-Sense Precautions",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 24,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "As with traveling anywhere, it’s important to take standard precautions. This includes being aware of your surroundings, avoiding isolated areas at night, and securing your belongings. Nicaragua, like many other countries, is generally safe when these simple guidelines are followed. The tranquility of the area around Mellow Resort adds an extra layer of comfort, as it is a quiet, nature-filled haven far from the hustle and bustle of city life.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "heading1",
+                                    "text": "Experiencing the True Nicaragua",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 31,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Beyond the safety measures, what truly sets Nicaragua apart is its people. The kindness, hospitality, and genuine warmth of the Nicaraguan people are what make this country special. Whether you’re exploring local markets, enjoying a community event, or simply chatting with a neighbor, you’ll find that the people here are eager to share the beauty of their homeland with you.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "heading1",
+                                    "text": "Final Thoughts",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 14,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Nicaragua is a safe and welcoming destination, especially when you approach your travels with the same care and attention you would anywhere else. At Mellow Resort, we’re dedicated to ensuring your stay is both safe and memorable. Come and experience the beauty of Nicaragua—not just its stunning landscapes, but its incredible people, who are the true heart of this beautiful country.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                }
+                            ]
+                        },
+                        "items": [],
+                        "id": "text_section$639ef35a-fd8d-422e-ad18-a0ff718f4112",
+                        "slice_type": "text_section",
+                        "slice_label": null
+                    }
+                ],
+                "meta_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Is Northern Nicaragua safe?",
+                        "spans": [],
+                        "direction": "ltr"
+                    }
+                ],
+                "meta_description": [
+                    {
+                        "type": "heading6",
+                        "text": "Understanding the Realities and Embracing the Beauty of Northern Nicaragua ",
+                        "spans": [],
+                        "direction": "ltr"
+                    }
+                ],
+                "meta_image": {}
+            }
+        },
+        {
+            "id": "ZvR1MxIAACEAy789",
+            "uid": "when-to-visit-nicaragua",
+            "url": null,
+            "type": "journal_post",
+            "href": "https://mellow-sa.cdn.prismic.io/api/v2/documents/search?ref=Z3wcTxEAACAAQtnK&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZvR1MxIAACEAy789%22%29+%5D%5D",
+            "tags": [],
+            "first_publication_date": "2024-09-25T20:49:16+0000",
+            "last_publication_date": "2024-11-04T19:23:12+0000",
+            "slugs": [
+                "date"
+            ],
+            "linked_documents": [],
+            "lang": "en-us",
+            "alternate_languages": [],
+            "data": {
+                "title": [
+                    {
+                        "type": "paragraph",
+                        "text": "When To Visit Nicaragua?",
+                        "spans": [
+                            {
+                                "start": 0,
+                                "end": 24,
+                                "type": "strong"
+                            }
+                        ],
+                        "direction": "ltr"
+                    }
+                ],
+                "description": [],
+                "header_items": [
+                    {
+                        "item_title": [
+                            {
+                                "type": "heading4",
+                                "text": "Date",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ],
+                        "item_subtitle": [
+                            {
+                                "type": "heading6",
+                                "text": "25.09.24",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ]
+                    },
+                    {
+                        "item_title": [
+                            {
+                                "type": "heading4",
+                                "text": "Author",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ],
+                        "item_subtitle": [
+                            {
+                                "type": "heading6",
+                                "text": "Megane Bélanger",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ]
+                    },
+                    {
+                        "item_title": [
+                            {
+                                "type": "heading4",
+                                "text": "Visuals",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ],
+                        "item_subtitle": [
+                            {
+                                "type": "heading6",
+                                "text": "Nathan Xiong",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ]
+                    },
+                    {
+                        "item_title": [
+                            {
+                                "type": "heading4",
+                                "text": "Reading Time",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ],
+                        "item_subtitle": [
+                            {
+                                "type": "heading6",
+                                "text": "4 min",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ]
+                    }
+                ],
+                "cover_image": {
+                    "dimensions": {
+                        "width": 6000,
+                        "height": 3376
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/d9aaceee-e35f-45d5-bf59-62b646b82ff6_pblo+.jpg?auto=format,compress",
+                    "id": "ZDSPKBAAACMA6ia_",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "transparent"
+                    }
+                },
+                "body": [
+                    {
+                        "primary": {
+                            "large_title": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Nicaragua, with its stunning landscapes and rich biodiversity, offers a unique experience depending on the time of year. At Mellow Resort, understanding the seasons can help you choose the perfect time for your visit, whether you’re a surfer seeking the ultimate wave or a relaxation enthusiast yearning for tranquility. Here’s a guide to the seasons at Mellow Resort, so you can make the most of your stay.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                }
+                            ],
+                            "small_title": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Seasons at Mellow Resort",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                }
+                            ],
+                            "text": [
+                                {
+                                    "type": "heading1",
+                                    "text": "Embrace the Wet Season: May to October",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 38,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "May to July: This period marks the beginning of Nicaragua’s wet season. While the rain is more frequent, bringing lush greenery and vibrant flora, it’s also a quieter time for tourism. The heavy showers transform the landscape into a tropical paradise, with the resort’s surroundings bursting into life. For those who don't mind getting a bit wet and love nature in full bloom, this is an ideal time to experience the true essence of Nicaragua’s jungle-meets-sea setting.",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 13,
+                                            "type": "em"
+                                        },
+                                        {
+                                            "start": 0,
+                                            "end": 13,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "August: Known locally as the \"canícula\" or \"little summer,\" August is a month of transition. The rain decreases significantly, often just a brief shower or evening drizzle. Despite the humidity, the landscapes are strikingly green and the surf conditions are excellent. This period also sees a modest increase in visitors, making it a great time for those who enjoy a balance of lush scenery and a bit of social activity.",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 7,
+                                            "type": "em"
+                                        },
+                                        {
+                                            "start": 0,
+                                            "end": 7,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "September and October: These months bring heavier rains, but also the most rewarding surf conditions. For the experienced surfer, the wet season's swell creates optimal waves. The increased precipitation may deter some travelers, but for those who seek adventure and are eager to embrace the raw, untamed beauty of Nicaragua, this time of year offers a unique and exhilarating experience.",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 23,
+                                            "type": "em"
+                                        },
+                                        {
+                                            "start": 0,
+                                            "end": 22,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "heading1",
+                                    "text": "Enjoy the Dry Season: November to April",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 39,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "November: As the dry season begins, the landscape retains much of its verdant beauty from the wet season, but the weather is much more comfortable. This is a fantastic time to visit if you want to enjoy Nicaragua’s natural beauty without the intensity of the rain. The surf is still active, but with a slightly different character compared to the wet season, providing varied experiences for surfers.",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 9,
+                                            "type": "em"
+                                        },
+                                        {
+                                            "start": 0,
+                                            "end": 9,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "December: December marks the onset of the high season, and the resort begins to buzz with more activity. The weather is dry and pleasant, and while the surroundings are still green, the lack of rain brings a different ambiance. This is a great time for visitors who want to experience the resort's full range of amenities and activities, with a lively atmosphere and all services in full swing.",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 9,
+                                            "type": "em"
+                                        },
+                                        {
+                                            "start": 0,
+                                            "end": 9,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "January to April: These months represent the peak of the dry season, characterized by clear skies and warm temperatures. The high season continues, with a vibrant atmosphere at the resort and in nearby attractions. Whether you're looking to bask in the sun, enjoy leisurely beach days, or explore the local culture and attractions, this is the prime time to visit. The surf is also excellent, making it a perfect period for both relaxation and adventure.",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 17,
+                                            "type": "em"
+                                        },
+                                        {
+                                            "start": 0,
+                                            "end": 17,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "heading1",
+                                    "text": "Choosing Your Perfect Time to Visit",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 35,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Whether you are drawn to the lush, vibrant landscapes of the wet season or the dry season’s lively and clear conditions, Mellow Resort offers a unique experience tailored to each time of year. Surfers will find their ideal waves in both seasons, while those seeking peace and luxury can enjoy the resort’s serene ambience year-round. By understanding the seasonal variations, you can select the best time to match your preferences and make the most of your stay at Mellow Resort.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "No matter when you choose to visit, Nicaragua’s beauty and Mellow Resort’s exclusivity ensure a memorable and enriching experience. So pack your bags, and get ready to explore paradise!",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                }
+                            ]
+                        },
+                        "items": [],
+                        "id": "text_section$639ef35a-fd8d-422e-ad18-a0ff718f4112",
+                        "slice_type": "text_section",
+                        "slice_label": null
+                    }
+                ],
+                "meta_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Where to Visit Nicaragua?",
+                        "spans": [],
+                        "direction": "ltr"
+                    }
+                ],
+                "meta_description": [
+                    {
+                        "type": "heading6",
+                        "text": "Seasons at Mellow Resort, boutique surf resort in North Nicaragua",
+                        "spans": [],
+                        "direction": "ltr"
+                    }
+                ],
+                "meta_image": {}
+            }
+        },
+        {
+            "id": "ZvRzBRIAAB8Ay7wO",
+            "uid": "where-to-surf-in-nicaragua-near-mellow-resort",
+            "url": null,
+            "type": "journal_post",
+            "href": "https://mellow-sa.cdn.prismic.io/api/v2/documents/search?ref=Z3wcTxEAACAAQtnK&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZvRzBRIAAB8Ay7wO%22%29+%5D%5D",
+            "tags": [],
+            "first_publication_date": "2024-09-25T20:31:06+0000",
+            "last_publication_date": "2024-11-04T19:21:38+0000",
+            "slugs": [
+                "date"
+            ],
+            "linked_documents": [],
+            "lang": "en-us",
+            "alternate_languages": [],
+            "data": {
+                "title": [
+                    {
+                        "type": "paragraph",
+                        "text": "Where to Surf in Nicaragua Near Mellow Resort?",
+                        "spans": [
+                            {
+                                "start": 0,
+                                "end": 46,
+                                "type": "strong"
+                            }
+                        ],
+                        "direction": "ltr"
+                    }
+                ],
+                "description": [],
+                "header_items": [
+                    {
+                        "item_title": [
+                            {
+                                "type": "heading4",
+                                "text": "Date",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ],
+                        "item_subtitle": [
+                            {
+                                "type": "heading6",
+                                "text": "25.09.24",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ]
+                    },
+                    {
+                        "item_title": [
+                            {
+                                "type": "heading4",
+                                "text": "Author",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ],
+                        "item_subtitle": [
+                            {
+                                "type": "heading6",
+                                "text": "Megane Bélanger",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ]
+                    },
+                    {
+                        "item_title": [
+                            {
+                                "type": "heading4",
+                                "text": "Visuals",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ],
+                        "item_subtitle": [
+                            {
+                                "type": "heading6",
+                                "text": "Nathan Xiong",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ]
+                    },
+                    {
+                        "item_title": [
+                            {
+                                "type": "heading4",
+                                "text": "Reading Time",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ],
+                        "item_subtitle": [
+                            {
+                                "type": "heading6",
+                                "text": "4 min",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ]
+                    }
+                ],
+                "cover_image": {
+                    "dimensions": {
+                        "width": 2000,
+                        "height": 2600
+                    },
+                    "alt": "Two man surfing near Mellow Resort",
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/d8a141ba-6e1a-49ce-91c8-2277d619213f_Surf+1.jpg?auto=format,compress",
+                    "id": "ZSbQghAAACUAsO_p",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "transparent"
+                    }
+                },
+                "body": [
+                    {
+                        "primary": {
+                            "large_title": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Just a short 5-minute drive from Mellow Resort, you’ll find a selection of world-class surf spots that cater to all skill levels. Whether you’re a seasoned surfer chasing the perfect barrel or a beginner eager to catch your first wave, these local breaks offer something special.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                }
+                            ],
+                            "small_title": [],
+                            "text": []
+                        },
+                        "items": [],
+                        "id": "text_section$c6c76120-54df-47db-b6d5-a4f0419edd42",
+                        "slice_type": "text_section",
+                        "slice_label": null
+                    },
+                    {
+                        "primary": {
+                            "image": {
+                                "dimensions": {
+                                    "width": 6000,
+                                    "height": 3376
+                                },
+                                "alt": null,
+                                "copyright": null,
+                                "url": "https://images.prismic.io/mellow-sa/11f99fd1-6379-4013-9363-f0ac3174e2b5_ola+boom.jpg?auto=format,compress",
+                                "id": "ZDc7IBAAACIAgHks",
+                                "edit": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "zoom": 1,
+                                    "background": "transparent"
+                                }
+                            },
+                            "video": {
+                                "link_type": "Any"
+                            },
+                            "full_width": false
+                        },
+                        "items": [],
+                        "id": "media$fcb3c9f0-d032-49ca-ae10-722dca4f814e",
+                        "slice_type": "media",
+                        "slice_label": null
+                    },
+                    {
+                        "primary": {
+                            "large_title": [],
+                            "small_title": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Here’s a guide to the best surf spots near Mellow Resort",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                }
+                            ],
+                            "text": [
+                                {
+                                    "type": "heading1",
+                                    "text": "Rocky Point",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 11,
+                                            "type": "em"
+                                        },
+                                        {
+                                            "start": 0,
+                                            "end": 11,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Rocky Point, located on a reef north of Nahualapa Bay, may seem daunting at first glance, but it offers an exhilarating experience. This reef, shaped like a triangle, features a fantastic left-hander with a thrilling barrel, and a decent right-hander. The right-hander delivers a fast, hollow wave that flattens out as it nears the sandy area where you paddle out. The left-hander is particularly impressive, providing a powerful barrel before releasing you just in time to avoid the reef. For the best experience, surf during mid to high tide when conditions are optimal.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "heading1",
+                                    "text": "Nahualapa Bay",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 13,
+                                            "type": "em"
+                                        },
+                                        {
+                                            "start": 0,
+                                            "end": 13,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Just a stone’s throw from Mellow Resort, Nahualapa Bay is ideal for surfers of all skill levels. The bay offers several peaks, allowing for extended rides and plenty of opportunities to showcase your skills. The right-hander off the North reef is especially noteworthy, performing like a machine when conditions are right. To get the most out of this spot, aim to surf around high tide.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "heading1",
+                                    "text": "Coco Loco",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 9,
+                                            "type": "em"
+                                        },
+                                        {
+                                            "start": 0,
+                                            "end": 9,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "A bit further south of Nahualapa Bay lies Coco Loco, a reef break that caters well to intermediate surfers. This left-hander comes alive with medium to large swells, providing ample chances to refine your turning skills. Although the right can be thrilling, it can also be tricky—be cautious, as the reef can be quite harsh. For beginners, the second point at Coco Loco to the north offers a gentler wave that's perfect for learning. Surf this spot from two hours before high tide until two hours after for the best conditions.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "heading1",
+                                    "text": "Playa Santa María del Mar",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 25,
+                                            "type": "em"
+                                        },
+                                        {
+                                            "start": 0,
+                                            "end": 25,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Playa Santa María del Mar, located just north of Aposentillo and south of Coco Loco, features a long stretch of sandy beach with numerous peaks. The waves here are a step up from those at Aposentillo—steeper and faster, but still suitable for learning and improving your turns. To make the most of Playa Santa María, aim to surf from mid to high tide.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "heading1",
+                                    "text": "Aposentillo",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 11,
+                                            "type": "em"
+                                        },
+                                        {
+                                            "start": 0,
+                                            "end": 11,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Situated a bit north of The Boom, around the corner from Punta Aposentillo, Aposentillo is perfect for beginners. With easy drops and mellow waves, it’s an ideal spot for those learning to surf. More advanced surfers will also enjoy the long rides and the opportunity to hone their turns. Due to its secluded nature, Aposentillo is a great choice when other spots are crowded or maxing out. Surfing is best from two hours before high tide to two hours after.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "heading1",
+                                    "text": "The Boom",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 8,
+                                            "type": "em"
+                                        },
+                                        {
+                                            "start": 0,
+                                            "end": 8,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "The Boom is arguably the most famous break in the area and is located directly north of the estuary. Known for its fast, barreling A-frame waves, it’s renowned for delivering some of the most thrilling rides around. The peaks in front of Chancletas Beach Resort are the heaviest, but walking a bit further south or north will lead you to slightly easier waves and often more solitude. The Boom is best surfed around high tide and is ideal for intermediate to advanced surfers. It’s a must-visit for those seeking the ride of a lifetime.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "heading1",
+                                    "text": "Surf and Stay at Mellow Resort",
+                                    "spans": [
+                                        {
+                                            "start": 0,
+                                            "end": 30,
+                                            "type": "em"
+                                        },
+                                        {
+                                            "start": 0,
+                                            "end": 30,
+                                            "type": "strong"
+                                        }
+                                    ],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "With these incredible surf spots just minutes away from Mellow Resort, you’re perfectly positioned to enjoy some of the best waves Nicaragua has to offer. Whether you’re chasing barrels or looking for a relaxing session, these local breaks provide a variety of experiences to match your surfing desires. At Mellow Resort, we look forward to welcoming you and helping you make the most of your surfing adventure. Pack your board and get ready for an unforgettable surf experience!",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                }
+                            ]
+                        },
+                        "items": [],
+                        "id": "text_section$639ef35a-fd8d-422e-ad18-a0ff718f4112",
+                        "slice_type": "text_section",
+                        "slice_label": null
+                    }
+                ],
+                "meta_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Where to Surf in Nicaragua Near Mellow Resort?",
+                        "spans": [],
+                        "direction": "ltr"
+                    }
+                ],
+                "meta_description": [
+                    {
+                        "type": "heading6",
+                        "text": "Explore the top surf spots near Mellow Resort in Nicaragua, featuring waves suitable for all skill levels, from beginners to seasoned surfers.",
+                        "spans": [],
+                        "direction": "ltr"
+                    }
+                ],
+                "meta_image": {}
+            }
+        },
+        {
+            "id": "ZvR6wxIAAB8Ay8cu",
+            "uid": "a-tranquil-escape-mellow-through-meganes-eyes",
+            "url": null,
+            "type": "journal_post",
+            "href": "https://mellow-sa.cdn.prismic.io/api/v2/documents/search?ref=Z3wcTxEAACAAQtnK&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZvR6wxIAAB8Ay8cu%22%29+%5D%5D",
+            "tags": [],
+            "first_publication_date": "2024-09-25T21:06:30+0000",
+            "last_publication_date": "2024-11-04T19:22:27+0000",
+            "slugs": [
+                "date"
+            ],
+            "linked_documents": [],
+            "lang": "en-us",
+            "alternate_languages": [],
+            "data": {
+                "title": [
+                    {
+                        "type": "paragraph",
+                        "text": "A tranquil escape: Mellow through Megane’s eyes",
+                        "spans": [],
+                        "direction": "ltr"
+                    }
+                ],
+                "description": [],
+                "header_items": [
+                    {
+                        "item_title": [
+                            {
+                                "type": "heading4",
+                                "text": "Date",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ],
+                        "item_subtitle": [
+                            {
+                                "type": "heading6",
+                                "text": "25.09.24",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ]
+                    },
+                    {
+                        "item_title": [
+                            {
+                                "type": "heading4",
+                                "text": "Author",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ],
+                        "item_subtitle": [
+                            {
+                                "type": "heading6",
+                                "text": "Megane Bélanger",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ]
+                    },
+                    {
+                        "item_title": [
+                            {
+                                "type": "heading4",
+                                "text": "Visuals",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ],
+                        "item_subtitle": [
+                            {
+                                "type": "heading6",
+                                "text": "Nathan Xiong",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ]
+                    },
+                    {
+                        "item_title": [
+                            {
+                                "type": "heading4",
+                                "text": "Reading Time",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ],
+                        "item_subtitle": [
+                            {
+                                "type": "heading6",
+                                "text": "5 min",
+                                "spans": [],
+                                "direction": "ltr"
+                            }
+                        ]
+                    }
+                ],
+                "cover_image": {
+                    "dimensions": {
+                        "width": 380,
+                        "height": 500
+                    },
+                    "alt": "Mellow room",
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/35ebf6ed-83d7-4549-bf25-036ec39bb1ea_Untitled-1.jpg?auto=format,compress",
+                    "id": "ZKahSBIAACUA3Qey",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "transparent"
+                    }
+                },
+                "body": [
+                    {
+                        "primary": {
+                            "image": {
+                                "dimensions": {
+                                    "width": 1801,
+                                    "height": 1124
+                                },
+                                "alt": null,
+                                "copyright": null,
+                                "url": "https://images.prismic.io/mellow-sa/58a81159-5986-47b1-bd26-a9edb8a3b9e5_11032023+mellow+edits-2+2.jpg?auto=format,compress",
+                                "id": "ZSUlHRAAACQAqQYC",
+                                "edit": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "zoom": 1,
+                                    "background": "transparent"
+                                }
+                            },
+                            "video": {
+                                "link_type": "Any"
+                            },
+                            "full_width": false
+                        },
+                        "items": [],
+                        "id": "media$d55ada0d-7882-4082-b14f-e0341a140006",
+                        "slice_type": "media",
+                        "slice_label": null
+                    },
+                    {
+                        "primary": {
+                            "large_title": [],
+                            "small_title": [],
+                            "text": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "It’s hard to imagine a place more removed from the noise of modern life than Mellow Resort, nestled in the unspoiled northern region of Nicaragua. From the moment I arrived, I was enveloped by a rare serenity, the kind only an untouched natural setting can offer. The familiar sounds of city life were replaced by the songs of birds and the gentle rustling of leaves in the tropical breeze.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "After winding my way through quiet villages and lush landscapes, I found this extraordinary place. Mellow Resort immediately stood out for its intimate, almost secretive atmosphere. This isn’t a place you stumble upon by chance, but a hidden gem you seek out when looking for refuge—a place where nature and luxury come together in perfect harmony.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "As I settled into one of the five cabanas, I couldn’t help but admire the attention to detail. The recycled materials, transformed by local artisans, told a story of their own. The simple yet elegant design allowed nature to take center stage. The boho-chic decor and local touches gave the feeling of being in a world apart, where every element seemed crafted to bring peace to the soul.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "I made my way to the infinity pool, where the view of the ocean left me breathless. Standing at the edge of the water, I felt an overwhelming sense of calm. Few places manage to blend sophistication with simplicity as effortlessly as Mellow. There was no need for excess here—the sea and nature did all the work. Just a few steps away, an open pavilion welcomed yoga enthusiasts, travelers seeking relaxation, or anyone wishing to simply gaze at the world from a peaceful space.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "The next morning, the sound of birds gently woke me, and I headed to the resort’s open-air restaurant. Alejandro, always smiling, already knew my morning preferences after just one conversation the day before. A perfectly brewed coffee awaited me. In that moment, I realized that Mellow wasn’t just a place to rest; it was a place where I truly felt at home, thanks to the small gestures that made all the difference.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Every moment at Mellow was an invitation to slow down and embrace authenticity. A ten-minute walk led me to a striking black sand beach, where the dramatic contrast between the deep blue water and the lush greenery left me in awe. Further down, I could see herds of cows wandering leisurely along the shore—a scene that seemed almost frozen in time, a dream for any nature lover.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "For the more adventurous, the surroundings of Mellow offer a multitude of activities. Surfing on wild beaches, hiking through the jungle, or simply watching the breathtaking sunsets are all experiences that help you reconnect with nature. Yet, it was the simplicity of the place that brought me the greatest comfort: nature, raw and beautiful, was always present, but never overwhelming.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "What touched me beyond the beauty of the landscape was Mellow Resort’s commitment to the local community. In conversations with Nathan and Dirk, the 2 owners, I learned how the resort had actively participated in essential projects, like building wells to provide clean water to nearby villages. They didn’t just offer luxury accommodation to travelers—they were truly contributing to improving the lives of the local people. It was responsible tourism in its purest form.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Every moment spent at Mellow was infused with this connection: between humans and nature, between understated luxury and ethical engagement. The simple, sincere gestures of the team reminded me that true luxury often lies in the most human of touches.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "As I prepared to leave, a part of me knew that this stay at Mellow would remain etched in my memory. It wasn’t just a place—it was an experience. A place where every detail, from the design of the cabanas to the beauty of the landscape, was crafted to offer visitors more than just a getaway: it was a true reconnection with oneself and the natural world.",
+                                    "spans": [],
+                                    "direction": "ltr"
+                                }
+                            ]
+                        },
+                        "items": [],
+                        "id": "text_section$639ef35a-fd8d-422e-ad18-a0ff718f4112",
+                        "slice_type": "text_section",
+                        "slice_label": null
+                    }
+                ],
+                "meta_title": [
+                    {
+                        "type": "heading2",
+                        "text": "A tranquil escape: Mellow through Megane’s eyes",
+                        "spans": [],
+                        "direction": "ltr"
+                    }
+                ],
+                "meta_description": [
+                    {
+                        "type": "heading6",
+                        "text": "Immerse yourself in Megane's serene experience at Mellow Resort, where luxury and nature converge to offer an unforgettable retreat in Nicaragua.",
+                        "spans": [],
+                        "direction": "ltr"
+                    }
+                ],
+                "meta_image": {}
+            }
+        }
+    ],
+    "version": "3f9f504",
+    "license": "All Rights Reserved"
+}

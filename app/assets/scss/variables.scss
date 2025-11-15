@@ -1,0 +1,68 @@
+
+//@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&display=swap');
+
+@mixin for-small-phone-only {
+  @media (max-width: 320px) { @content; }
+}
+@mixin for-phone-only {
+  @media (max-width: 599px) { @content; }
+}
+@mixin for-tablet-portrait-up {
+  @media (min-width: 600px) { @content; }
+}
+@mixin for-tablet-landscape-up {
+  @media (min-width: 900px) { @content; }
+}
+@mixin for-desktop-up {
+  @media (min-width: 1200px) { @content; }
+}
+@mixin for-big-desktop-up {
+  @media (min-width: 1800px) { @content; }
+}
+@mixin for-700-height-only {
+  @media (max-height: 699px) { @content; }
+}
+@mixin for-800-height-only {
+  @media (max-height: 790px) and (min-height: 700px) { @content; }
+}
+@mixin for-all-height-up {
+  @media (min-height: 800px) { @content; }
+}
+
+
+:root {
+  --primary-color: #0071fe;
+  --error-color: #de172b;
+  --error-bg-color: #fddfe2;
+  --success-color: #21a67a;
+  --success-bg-color: #e0eee4;
+}
+
+
+$font-sans: 'Inter', sans-serif;
+$font-serif: 'Melodrama', "Libre Caslon Display", serif;
+$mainColor: #111;
+$mainColorHover: #0c1a2f; 
+$colorBlue: #12223b;
+$colorBrown: #5B4A3F;
+$colorBrownL: #af8e72;
+$colorGreen: #323E3C;
+$colorGreenL: #607d8b;
+$grey: #9B9B9B;
+
+//// Forms colors
+$colorPrimary: #0071fe;
+$colorError: #de172b;
+$colorErrorHover: #c81123;
+$colorErrorBg: #fddfe2;
+$colorSuccess: #21a67a;
+$colorSuccessBg: #e0eee4;
+
+$text-color: #111;
+
+
+@mixin base-transition ($property: all, $dur: 0.5s, $delay: 0s){
+  transition: $property $dur ease-in-out $delay;
+}
+

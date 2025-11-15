@@ -1,0 +1,553 @@
+{
+    "title": [
+        {
+            "type": "paragraph",
+            "text": "Nous nous engageons à améliorer l'avenir de la communauté locale",
+            "spans": [
+                {
+                    "start": 10,
+                    "end": 20,
+                    "type": "strong"
+                },
+                {
+                    "start": 22,
+                    "end": 41,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "body": [
+        {
+            "primary": {
+                "section_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Notre regard",
+                        "spans": []
+                    }
+                ],
+                "section_description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Nous voulons mettre en pratique notre état d'esprit fondé sur la population locale en commençant par le voisinage. L'objectif est de renforcer la communauté qui nous entoure en nous engageant directement auprès d'elle, en prenant conscience de ses besoins et en identifiant les possibilités de croissance.  Notre propos est que nos efforts s'intensifient et que petit a petit nous soyons en mesure de répondre à certains de leurs besoins en matière d'économie, d'éducation et/ou de santé. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Nous visons à créer des opportunités d'emploi, à fournir un accès à l'éducation et à offrir un mentorat aux talents locaux. Nous croyons vraiment qu'une approche basée sur la proactivité et la coopération peut être efficace et gagner en indépendance, en force et en autonomie au fil du temps.  ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": " Tout en continuant à réfléchir à la meilleure façon d'entreprendre des projets fondés sur notre philosophie, toutes nos actions actuelles restent axées sur un impact positif et durable.",
+                        "spans": []
+                    }
+                ],
+                "button_text": [],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": false,
+                "is_dark": true,
+                "section_image": {
+                    "dimensions": {
+                        "width": 3947,
+                        "height": 5921
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/1ab17a71-5aee-4864-b69b-23fefe9b3efa_constructor.jpg?auto=compress,format",
+                    "id": "ZDngzxAAACAAhke4",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                }
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$958804cc-1e15-4362-a0e4-64901f6d7da0",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [
+                    {
+                        "type": "heading2",
+                        "text": "Notre regard",
+                        "spans": []
+                    }
+                ],
+                "sectionDescription": [
+                    {
+                        "type": "paragraph",
+                        "text": "Nous voulons mettre en pratique notre état d'esprit fondé sur la population locale en commençant par le voisinage. L'objectif est de renforcer la communauté qui nous entoure en nous engageant directement auprès d'elle, en prenant conscience de ses besoins et en identifiant les possibilités de croissance.  Notre propos est que nos efforts s'intensifient et que petit a petit nous soyons en mesure de répondre à certains de leurs besoins en matière d'économie, d'éducation et/ou de santé. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Nous visons à créer des opportunités d'emploi, à fournir un accès à l'éducation et à offrir un mentorat aux talents locaux. Nous croyons vraiment qu'une approche basée sur la proactivité et la coopération peut être efficace et gagner en indépendance, en force et en autonomie au fil du temps.  ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": " Tout en continuant à réfléchir à la meilleure façon d'entreprendre des projets fondés sur notre philosophie, toutes nos actions actuelles restent axées sur un impact positif et durable.",
+                        "spans": []
+                    }
+                ],
+                "buttonText": [],
+                "imagePosition": false,
+                "isDark": true,
+                "sectionImage": {
+                    "dimensions": {
+                        "width": 3947,
+                        "height": 5921
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/1ab17a71-5aee-4864-b69b-23fefe9b3efa_constructor.jpg?auto=compress,format",
+                    "id": "ZDngzxAAACAAhke4",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "title": [
+                    {
+                        "type": "heading2",
+                        "text": "Notre regard",
+                        "spans": []
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Nous voulons mettre en pratique notre état d'esprit fondé sur la population locale en commençant par le voisinage. L'objectif est de renforcer la communauté qui nous entoure en nous engageant directement auprès d'elle, en prenant conscience de ses besoins et en identifiant les possibilités de croissance.  Notre propos est que nos efforts s'intensifient et que petit a petit nous soyons en mesure de répondre à certains de leurs besoins en matière d'économie, d'éducation et/ou de santé. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Nous visons à créer des opportunités d'emploi, à fournir un accès à l'éducation et à offrir un mentorat aux talents locaux. Nous croyons vraiment qu'une approche basée sur la proactivité et la coopération peut être efficace et gagner en indépendance, en force et en autonomie au fil du temps.  ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": " Tout en continuant à réfléchir à la meilleure façon d'entreprendre des projets fondés sur notre philosophie, toutes nos actions actuelles restent axées sur un impact positif et durable.",
+                        "spans": []
+                    }
+                ],
+                "image": {
+                    "dimensions": {
+                        "width": 3947,
+                        "height": 5921
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/1ab17a71-5aee-4864-b69b-23fefe9b3efa_constructor.jpg?auto=compress,format",
+                    "id": "ZDngzxAAACAAhke4",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "reverse": false,
+                "buttonExternal": true
+            },
+            "name": "text-and-image"
+        },
+        {
+            "primary": {
+                "section_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Les enfants représentent l'avenir ",
+                        "spans": []
+                    }
+                ],
+                "section_description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Comme chacun le sait, les enfants sont la véritable essence de l'avenir. Ils représentent deux des six millions d'habitants du Nicaragua. Nous sommes fermement convaincus qu'offrir des opportunités aux plus jeunes est l'une des clés pour obtenir l'impact positif que nous souhaitons dans la communauté. Grâce a l'apprentissage des compétences générales, des cours d'anglais hebdomadaires et des cours de médecine préventive, nous pouvons progressivement améliorer le bien-être général de tous. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Avec le soutien et les conseils appropriés aux familles locales, il est possible de créer un meilleur avenir pour les jeunes. Plus ils disposent de ressources, plus de possibilités vont surgir pour qu'il puissent poursuivre leurs études et réaliser leurs rêves. La jeunesse est donc l'une de nos priorités car son apprentissage peut profiter à beaucoup d'autres, ils peuvent donc devenir une influence très importane pour la communauté dans son ensemble.",
+                        "spans": []
+                    }
+                ],
+                "button_text": [],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": true,
+                "is_dark": true,
+                "section_image": {
+                    "dimensions": {
+                        "width": 2877,
+                        "height": 1939
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/8b4dc916-84a1-452a-b303-1e501d136e57_foto+nena.jpg?auto=compress,format",
+                    "id": "ZEBN0hAAACAAo4mE",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                }
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$cf6bc88b-1309-43a7-9d4b-daeef8d1231b",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [
+                    {
+                        "type": "heading2",
+                        "text": "Les enfants représentent l'avenir ",
+                        "spans": []
+                    }
+                ],
+                "sectionDescription": [
+                    {
+                        "type": "paragraph",
+                        "text": "Comme chacun le sait, les enfants sont la véritable essence de l'avenir. Ils représentent deux des six millions d'habitants du Nicaragua. Nous sommes fermement convaincus qu'offrir des opportunités aux plus jeunes est l'une des clés pour obtenir l'impact positif que nous souhaitons dans la communauté. Grâce a l'apprentissage des compétences générales, des cours d'anglais hebdomadaires et des cours de médecine préventive, nous pouvons progressivement améliorer le bien-être général de tous. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Avec le soutien et les conseils appropriés aux familles locales, il est possible de créer un meilleur avenir pour les jeunes. Plus ils disposent de ressources, plus de possibilités vont surgir pour qu'il puissent poursuivre leurs études et réaliser leurs rêves. La jeunesse est donc l'une de nos priorités car son apprentissage peut profiter à beaucoup d'autres, ils peuvent donc devenir une influence très importane pour la communauté dans son ensemble.",
+                        "spans": []
+                    }
+                ],
+                "buttonText": [],
+                "imagePosition": true,
+                "isDark": true,
+                "sectionImage": {
+                    "dimensions": {
+                        "width": 2877,
+                        "height": 1939
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/8b4dc916-84a1-452a-b303-1e501d136e57_foto+nena.jpg?auto=compress,format",
+                    "id": "ZEBN0hAAACAAo4mE",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "title": [
+                    {
+                        "type": "heading2",
+                        "text": "Les enfants représentent l'avenir ",
+                        "spans": []
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Comme chacun le sait, les enfants sont la véritable essence de l'avenir. Ils représentent deux des six millions d'habitants du Nicaragua. Nous sommes fermement convaincus qu'offrir des opportunités aux plus jeunes est l'une des clés pour obtenir l'impact positif que nous souhaitons dans la communauté. Grâce a l'apprentissage des compétences générales, des cours d'anglais hebdomadaires et des cours de médecine préventive, nous pouvons progressivement améliorer le bien-être général de tous. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Avec le soutien et les conseils appropriés aux familles locales, il est possible de créer un meilleur avenir pour les jeunes. Plus ils disposent de ressources, plus de possibilités vont surgir pour qu'il puissent poursuivre leurs études et réaliser leurs rêves. La jeunesse est donc l'une de nos priorités car son apprentissage peut profiter à beaucoup d'autres, ils peuvent donc devenir une influence très importane pour la communauté dans son ensemble.",
+                        "spans": []
+                    }
+                ],
+                "image": {
+                    "dimensions": {
+                        "width": 2877,
+                        "height": 1939
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/8b4dc916-84a1-452a-b303-1e501d136e57_foto+nena.jpg?auto=compress,format",
+                    "id": "ZEBN0hAAACAAo4mE",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "reverse": true,
+                "buttonExternal": true
+            },
+            "name": "text-and-image"
+        },
+        {
+            "primary": {
+                "section_title": [],
+                "section_description": [],
+                "button_text": [],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": false,
+                "is_dark": true,
+                "section_image": {
+                    "dimensions": {
+                        "width": 6000,
+                        "height": 4000
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/85161730-9054-4bb8-acc1-f7598eb918d1_kids+are+the+future.jpg?auto=compress,format",
+                    "id": "ZEBMsxAAACIAo4QH",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                }
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$7e35e15d-03e3-4330-a7ad-fb863e5a8149",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [],
+                "sectionDescription": [],
+                "buttonText": [],
+                "imagePosition": false,
+                "isDark": true,
+                "sectionImage": {
+                    "dimensions": {
+                        "width": 6000,
+                        "height": 4000
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/85161730-9054-4bb8-acc1-f7598eb918d1_kids+are+the+future.jpg?auto=compress,format",
+                    "id": "ZEBMsxAAACIAo4QH",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "title": [],
+                "description": [],
+                "image": {
+                    "dimensions": {
+                        "width": 6000,
+                        "height": 4000
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/85161730-9054-4bb8-acc1-f7598eb918d1_kids+are+the+future.jpg?auto=compress,format",
+                    "id": "ZEBMsxAAACIAo4QH",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "reverse": false,
+                "buttonExternal": true
+            },
+            "name": "text-and-image"
+        },
+        {
+            "primary": {
+                "section_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Nos projets en cours",
+                        "spans": []
+                    }
+                ],
+                "section_description": [
+                    {
+                        "type": "paragraph",
+                        "text": "A ce jour, nous offrons des cours d'anglais gratuits à une vingtaine d'étudiants. En fait, ces cours d'anglais commencent déjà à porter leurs fruits.  On constate des améliorations notables dans les compétences linguistiques des enfants ainsi que dans leur confiance à communiquer et à s'exprimer avec les autres. Nos élèves sont âgés de 4 à 18 ans, mais nous avons l'intention d'étendre ces cours et d'autres activités à un plus grand nombre d'habitants de la région. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "",
+                        "spans": []
+                    }
+                ],
+                "button_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Saber más",
+                        "spans": []
+                    }
+                ],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": false,
+                "is_dark": true,
+                "section_image": {}
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$f69f53ed-a3a5-4376-a2c6-2a50069f27c8",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [
+                    {
+                        "type": "heading2",
+                        "text": "Nos projets en cours",
+                        "spans": []
+                    }
+                ],
+                "sectionDescription": [
+                    {
+                        "type": "paragraph",
+                        "text": "A ce jour, nous offrons des cours d'anglais gratuits à une vingtaine d'étudiants. En fait, ces cours d'anglais commencent déjà à porter leurs fruits.  On constate des améliorations notables dans les compétences linguistiques des enfants ainsi que dans leur confiance à communiquer et à s'exprimer avec les autres. Nos élèves sont âgés de 4 à 18 ans, mais nous avons l'intention d'étendre ces cours et d'autres activités à un plus grand nombre d'habitants de la région. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "",
+                        "spans": []
+                    }
+                ],
+                "buttonText": [
+                    {
+                        "type": "heading6",
+                        "text": "Saber más",
+                        "spans": []
+                    }
+                ],
+                "imagePosition": false,
+                "isDark": true,
+                "sectionImage": {},
+                "title": [
+                    {
+                        "type": "heading2",
+                        "text": "Nos projets en cours",
+                        "spans": []
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "A ce jour, nous offrons des cours d'anglais gratuits à une vingtaine d'étudiants. En fait, ces cours d'anglais commencent déjà à porter leurs fruits.  On constate des améliorations notables dans les compétences linguistiques des enfants ainsi que dans leur confiance à communiquer et à s'exprimer avec les autres. Nos élèves sont âgés de 4 à 18 ans, mais nous avons l'intention d'étendre ces cours et d'autres activités à un plus grand nombre d'habitants de la région. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "",
+                        "spans": []
+                    }
+                ],
+                "image": {},
+                "reverse": false,
+                "buttonExternal": true
+            },
+            "name": "text-and-image"
+        },
+        {
+            "primary": {
+                "section_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Repoblación forestal",
+                        "spans": []
+                    }
+                ],
+                "section_description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Parmi tous les pays que nous avons visités, nous pensons sincèrement que le Nicaragua est l'un des plus impressionnants. Sa beauté est tout simplement extraordinaire. Nous voulons contribuer à préserver sa nature et à faire en sorte que les générations futures puissent elles aussi profiter de son charme.\n\nDe ce fait, pour chaque hôte qui séjourne chez nous, nous allons planter un arbre. Cet ainsi que nous contribuons à ce que l'environnement reste aussi riche et luxuriant pour les années à venir.",
+                        "spans": []
+                    }
+                ],
+                "button_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Plantons un arbre ensemble",
+                        "spans": []
+                    }
+                ],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": false,
+                "is_dark": true,
+                "section_image": {}
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$9b4c3eff-ebe1-4ae3-838a-d9f9e59bc464",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [
+                    {
+                        "type": "heading2",
+                        "text": "Repoblación forestal",
+                        "spans": []
+                    }
+                ],
+                "sectionDescription": [
+                    {
+                        "type": "paragraph",
+                        "text": "Parmi tous les pays que nous avons visités, nous pensons sincèrement que le Nicaragua est l'un des plus impressionnants. Sa beauté est tout simplement extraordinaire. Nous voulons contribuer à préserver sa nature et à faire en sorte que les générations futures puissent elles aussi profiter de son charme.\n\nDe ce fait, pour chaque hôte qui séjourne chez nous, nous allons planter un arbre. Cet ainsi que nous contribuons à ce que l'environnement reste aussi riche et luxuriant pour les années à venir.",
+                        "spans": []
+                    }
+                ],
+                "buttonText": [
+                    {
+                        "type": "heading6",
+                        "text": "Plantons un arbre ensemble",
+                        "spans": []
+                    }
+                ],
+                "imagePosition": false,
+                "isDark": true,
+                "sectionImage": {},
+                "title": [
+                    {
+                        "type": "heading2",
+                        "text": "Repoblación forestal",
+                        "spans": []
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Parmi tous les pays que nous avons visités, nous pensons sincèrement que le Nicaragua est l'un des plus impressionnants. Sa beauté est tout simplement extraordinaire. Nous voulons contribuer à préserver sa nature et à faire en sorte que les générations futures puissent elles aussi profiter de son charme.\n\nDe ce fait, pour chaque hôte qui séjourne chez nous, nous allons planter un arbre. Cet ainsi que nous contribuons à ce que l'environnement reste aussi riche et luxuriant pour les années à venir.",
+                        "spans": []
+                    }
+                ],
+                "image": {},
+                "reverse": false,
+                "buttonExternal": true
+            },
+            "name": "text-and-image"
+        }
+    ],
+    "meta_title": [],
+    "meta_description": [],
+    "meta_image": {}
+}

@@ -1,0 +1,364 @@
+{
+    "title": [
+        {
+            "type": "paragraph",
+            "text": "Découvrez notre place en pleine nature ",
+            "spans": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "type": "strong"
+                },
+                {
+                    "start": 25,
+                    "end": 39,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "location_text": [
+        {
+            "type": "heading6",
+            "text": "Perdu entre les montagnes et la mer",
+            "spans": []
+        }
+    ],
+    "location_link": {
+        "link_type": "Any"
+    },
+    "header": {
+        "dimensions": {
+            "width": 5415,
+            "height": 3610
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/7d961c66-24ad-4e9d-ada8-393832a4e580_foto+volcano.jpg?auto=compress,format",
+        "id": "ZCygURAAAB8A0FQD",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "design_title": [
+        {
+            "type": "heading1",
+            "text": "L'Importance du Design",
+            "spans": []
+        }
+    ],
+    "design_description": [
+        {
+            "type": "paragraph",
+            "text": "Nous aprécions énormement chaque petit détail. Nous avons deposé toute notre enérgie afin de concevoir un design qui soit non seulement attrayant sur le plan visuel mais aussi durable sur le plan environnemental et d'inspiration locale. Nous sommes honorés d'avoir eu l'occasion de collaborer avec les habitants de la région, ils ont joué un rôle essentiel dans la création de ce projet. ",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "Notre équipe de conception est composée d'architectes, de charpentiers et de constructeurs locaux ainsi que d'étudiants européens très talentueux. Ensemble, ils ont tissé un lien culturel et artistique qui a donné naissance à un projet authentique et unique. Grâce a la conjonction du style structurel local - tel que le rancho - nous avons réussi à imprégner l'hôtel de l'essence traditionnelle du pays tout en lui conférant un style moderniste.",
+            "spans": []
+        }
+    ],
+    "design_image": {
+        "dimensions": {
+            "width": 3602,
+            "height": 5403
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/b6f702c4-a0ac-44f7-9a5e-c75aba3c977b_detalle+caba%C3%B1as.jpg?auto=compress,format",
+        "id": "ZCzYphAAACIA0KwG",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "grid": [
+        {
+            "image_1": {
+                "dimensions": {
+                    "width": 2620,
+                    "height": 3305
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/5abef8ae-7a5d-41f6-8a38-45e8a23de33b_tejido.jpg?auto=compress,format",
+                "id": "ZDc0CBAAACMAgG67",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_2": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 4000
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/cfed783e-b199-4e33-8707-0782d69be9bc_o+tejado+caba%C3%B1as.jpg?auto=compress,format",
+                "id": "ZDBV5RAAACMA105K",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_3": {
+                "dimensions": {
+                    "width": 2511,
+                    "height": 1596
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/dabf1982-a44a-4755-8ebf-1647fa59906e_FOTO+CABA%C3%91A+PARA+WEB.jpg?auto=compress,format",
+                "id": "ZDhTNRAAACMAgktE",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_4": {
+                "dimensions": {
+                    "width": 3942,
+                    "height": 5168
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/523698fc-ca9d-4a4f-89d9-c0c484ed5843_planta.jpg?auto=compress,format",
+                "id": "ZCwvrxAAAB8Az4kZ",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "image_5": {
+                "dimensions": {
+                    "width": 3897,
+                    "height": 5126
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/87be5191-470d-4453-8d4b-602106440ac0_fotos+decor.jpg?auto=compress,format",
+                "id": "ZDBW7RAAACMA11Lx",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "paragraph",
+                    "text": "Cabnes de luxe",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 7,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 7,
+                            "end": 14,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Situées dans la partie nord du Nicaragua, nos cabanes sont idéales pour ceux qui souhaitent profiter d'une expérience agréable, parfumée par la fraîcheur de l'environnement. Les maisonnettes ont un style élegant et elles sont en mesure de vous fournir des conforts tels que l'eau chaude et un service de chambre attentif.",
+                    "spans": []
+                }
+            ]
+        }
+    ],
+    "video_cover": {
+        "dimensions": {
+            "width": 6024,
+            "height": 4024
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/cc40d2fa-166c-4837-8882-558f89c5e9e8_sol.jpg?auto=compress,format",
+        "id": "ZFFskREAACkAupJ0",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "video": {
+        "link_type": "Any"
+    },
+    "our_environment_title": [
+        {
+            "type": "paragraph",
+            "text": "Notre atmosphère vous invite a déconnecter pour réconnecter",
+            "spans": [
+                {
+                    "start": 42,
+                    "end": 59,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "our_environment_items": [
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 3827,
+                    "height": 2034
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/c4b70d7c-1682-4b83-8144-bf2477585f5f_foto+dr+lado+reder.jpg?auto=compress,format",
+                "id": "ZDhWDBAAACEAgk_J",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading3",
+                    "text": "Cabanes Premium",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Nos cabines de 50 m2 sont conçues sur la base d'une combinaison parfaite de béton et de bois de teck d'origine locale. Elles sont idéales pour les couples ou les groupes d'amis et peuvent accueillir jusqu'à 3 personnes. \n\nLes maisons de Mellow se distinguent par leur confort et leur luminosité, notamment grâce à leur terrasse parfaitement aménagée pour profiter d'une vue exeptionnelle sur l'océan.",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5692,
+                    "height": 3795
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/f04b5d54-7296-475b-ab25-2c70bf6b063e_foto+sol.jpg?auto=compress,format",
+                "id": "ZCw_nxAAACEAz6pS",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading3",
+                    "text": "Un coin de déconnection",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "L'ensemble du complexe est conçu pour votre bien-être et votre contentement. Que vous recherchiez un espace calme pour vous détendre et recharger vos batteries ou un endroit pour vous resserrer de vos proches, de vos amis ou pour interagir avec des nouvelles personnes, Mellow a tout ce qu'il vous faut. \n\nNotre environnement est idéale pour les couples, les amis ou les voyageurs solitaires à la recherche d'un havre de détente et de paix.",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 3749,
+                    "height": 5206
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/f6b1a7a2-ce17-4ed7-9ce3-18ec87eec051_yoga+deck.jpg?auto=compress,format",
+                "id": "ZDhMWhAAACMAgkA_",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading3",
+                    "text": "Hub créatif ",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "L'espace créatif de Mellow se distingue par sa polyvalence, une grande variété d'activités peuvent se réaliser dans cet endroit. Qu'il s'agisse de se lover dans un bon livre dans notre hamac de 8 m2 ou d'étirer ses muscles après une longue séance de surf, ce rancho est idéal pour se laisser aller. \n\nEn outre, c'est aussi l'espace propice pour entreprendre des ateliers artistiques, des séances d'entraînement physique ou même un lieu où peuvent surgir des débats intéressants. Quelle que soit votre passion, le pôle créatif de Mellow vous invite à libérer votre créativité. ",
+                    "spans": [
+                        {
+                            "start": 259,
+                            "end": 266,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "food_title": [
+        {
+            "type": "heading2",
+            "text": "Cuisine divine",
+            "spans": []
+        }
+    ],
+    "food_description": [
+        {
+            "type": "paragraph",
+            "text": "Nous considérons que la nourriture est un élément essentiel pour enrichir votre expérience avec nous. La cuisine est vraiment prioritaire tout comme vous offrir une alimentation saine et variée. Nous sélectionnons soigneusement les ingrédients de notre menu en fonction de leur valeur nutritionnelle et de leur origine, en veillant à ce que chaque plat soit une excellente source de nutriments pour le bon fonctionnement de votre corps et de votre esprit. Autant que possible, nous utilisons les légumes, les herbes et les fruits de nos propres récoltes ou d'agriculteurs biologiques locaux. ",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "Mellow vous procure une délicieuse fusion de cuisines- asiatique, espagnole et nicaraguayenne- présentant à nos hôtes une combinasion de saveurs riches et uniques. Nous nous assurons en outre à vous préparer des plats délicieux pour que vous vous sentiez énergique et heureux tout au long de votre séjour à Mellow.",
+            "spans": []
+        }
+    ],
+    "food_image": {
+        "dimensions": {
+            "width": 3670,
+            "height": 3670
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/c33cac44-b2d8-4a2a-92df-1662dc483e41_comida+rica.jpg?auto=compress,format",
+        "id": "ZEmKPxQAACYAwE8m",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "meta_title": [],
+    "meta_description": [],
+    "meta_image": {}
+}

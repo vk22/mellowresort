@@ -1,0 +1,674 @@
+{
+    "title": [
+        {
+            "type": "paragraph",
+            "text": "We believe that our presence should leave a lasting positive impact to the community",
+            "spans": [
+                {
+                    "start": 35,
+                    "end": 67,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "body": [
+        {
+            "primary": {
+                "section_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Staying Local",
+                        "spans": []
+                    }
+                ],
+                "section_description": [
+                    {
+                        "type": "paragraph",
+                        "text": "We believe that our growth should pair with the growth of our local community. We are deeply committed to supporting and empowering the local community. We recognize that our presence in the area has the potential to leave a lasting impact, and we are determined to make it a positive one. To this end, we have adopted a local-oriented mindset, focusing on job creation, empowerment, and education.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "We prioritize the hiring of local employees and provide them with opportunities to grow within their roles, not just financially, but also in terms of personal and professional development. Through training and mentoring, we aim to empower our staff to reach their full potential. In addition, we are dedicated to promoting education to the local community to allow the community to grow with us.",
+                        "spans": []
+                    }
+                ],
+                "button_text": [],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": false,
+                "is_dark": true,
+                "section_image": {
+                    "dimensions": {
+                        "width": 4000,
+                        "height": 6000
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/bd2389f7-fb32-4b2c-ba77-9c171ffa6715_trabajador+madera.jpg?auto=compress,format",
+                    "id": "ZEAVIhAAACIAooGe",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                }
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$1c370b8d-9a1a-4bec-864b-302941ee4365",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [
+                    {
+                        "type": "heading2",
+                        "text": "Staying Local",
+                        "spans": []
+                    }
+                ],
+                "sectionDescription": [
+                    {
+                        "type": "paragraph",
+                        "text": "We believe that our growth should pair with the growth of our local community. We are deeply committed to supporting and empowering the local community. We recognize that our presence in the area has the potential to leave a lasting impact, and we are determined to make it a positive one. To this end, we have adopted a local-oriented mindset, focusing on job creation, empowerment, and education.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "We prioritize the hiring of local employees and provide them with opportunities to grow within their roles, not just financially, but also in terms of personal and professional development. Through training and mentoring, we aim to empower our staff to reach their full potential. In addition, we are dedicated to promoting education to the local community to allow the community to grow with us.",
+                        "spans": []
+                    }
+                ],
+                "buttonText": [],
+                "imagePosition": false,
+                "isDark": true,
+                "sectionImage": {
+                    "dimensions": {
+                        "width": 4000,
+                        "height": 6000
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/bd2389f7-fb32-4b2c-ba77-9c171ffa6715_trabajador+madera.jpg?auto=compress,format",
+                    "id": "ZEAVIhAAACIAooGe",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "title": [
+                    {
+                        "type": "heading2",
+                        "text": "Staying Local",
+                        "spans": []
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "We believe that our growth should pair with the growth of our local community. We are deeply committed to supporting and empowering the local community. We recognize that our presence in the area has the potential to leave a lasting impact, and we are determined to make it a positive one. To this end, we have adopted a local-oriented mindset, focusing on job creation, empowerment, and education.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "We prioritize the hiring of local employees and provide them with opportunities to grow within their roles, not just financially, but also in terms of personal and professional development. Through training and mentoring, we aim to empower our staff to reach their full potential. In addition, we are dedicated to promoting education to the local community to allow the community to grow with us.",
+                        "spans": []
+                    }
+                ],
+                "image": {
+                    "dimensions": {
+                        "width": 4000,
+                        "height": 6000
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/bd2389f7-fb32-4b2c-ba77-9c171ffa6715_trabajador+madera.jpg?auto=compress,format",
+                    "id": "ZEAVIhAAACIAooGe",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "reverse": false
+            },
+            "name": "text-and-image"
+        },
+        {
+            "primary": {
+                "section_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Opportunities",
+                        "spans": []
+                    }
+                ],
+                "section_description": [
+                    {
+                        "type": "paragraph",
+                        "text": "We believe that everybody deserves an opportunity. We try to not only find the adequate person for each job but also we are committed to be actively involved in the growth of each person involved in our project.",
+                        "spans": []
+                    }
+                ],
+                "button_text": [],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": true,
+                "is_dark": true,
+                "section_image": {
+                    "dimensions": {
+                        "width": 6000,
+                        "height": 3376
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/4d20d999-3b33-4217-8a62-cc7f351fa2a1_foto+traajador.jpg?auto=compress,format",
+                    "id": "ZC70lxAAAB8A1Et0",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                }
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$472063a0-59f9-470d-aa1c-92a95a1646fd",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [
+                    {
+                        "type": "heading2",
+                        "text": "Opportunities",
+                        "spans": []
+                    }
+                ],
+                "sectionDescription": [
+                    {
+                        "type": "paragraph",
+                        "text": "We believe that everybody deserves an opportunity. We try to not only find the adequate person for each job but also we are committed to be actively involved in the growth of each person involved in our project.",
+                        "spans": []
+                    }
+                ],
+                "buttonText": [],
+                "imagePosition": true,
+                "isDark": true,
+                "sectionImage": {
+                    "dimensions": {
+                        "width": 6000,
+                        "height": 3376
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/4d20d999-3b33-4217-8a62-cc7f351fa2a1_foto+traajador.jpg?auto=compress,format",
+                    "id": "ZC70lxAAAB8A1Et0",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "title": [
+                    {
+                        "type": "heading2",
+                        "text": "Opportunities",
+                        "spans": []
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "We believe that everybody deserves an opportunity. We try to not only find the adequate person for each job but also we are committed to be actively involved in the growth of each person involved in our project.",
+                        "spans": []
+                    }
+                ],
+                "image": {
+                    "dimensions": {
+                        "width": 6000,
+                        "height": 3376
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/4d20d999-3b33-4217-8a62-cc7f351fa2a1_foto+traajador.jpg?auto=compress,format",
+                    "id": "ZC70lxAAAB8A1Et0",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "reverse": true
+            },
+            "name": "text-and-image"
+        },
+        {
+            "primary": {
+                "image": {
+                    "dimensions": {
+                        "width": 3077,
+                        "height": 4616
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/df4e9cf8-33b6-49c9-90b1-bab87e1c46a1_foto+palma.jpg?auto=compress,format",
+                    "id": "ZDnjehAAACEAhlKo",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "video": {
+                    "link_type": "Any"
+                },
+                "is_dark": true
+            },
+            "items": [
+                {}
+            ],
+            "id": "media$9d052aea-ab90-46bc-b6fa-c587f4adefab",
+            "slice_type": "media",
+            "slice_label": null,
+            "data": {
+                "image": {
+                    "dimensions": {
+                        "width": 3077,
+                        "height": 4616
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/df4e9cf8-33b6-49c9-90b1-bab87e1c46a1_foto+palma.jpg?auto=compress,format",
+                    "id": "ZDnjehAAACEAhlKo",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "video": {
+                    "link_type": "Any"
+                },
+                "isDark": true
+            },
+            "name": "media-section"
+        },
+        {
+            "primary": {
+                "icons_title": [
+                    {
+                        "type": "paragraph",
+                        "text": "Our principles for making a positive change",
+                        "spans": [
+                            {
+                                "start": 19,
+                                "end": 28,
+                                "type": "strong"
+                            },
+                            {
+                                "start": 28,
+                                "end": 36,
+                                "type": "em"
+                            },
+                            {
+                                "start": 37,
+                                "end": 43,
+                                "type": "strong"
+                            }
+                        ]
+                    }
+                ],
+                "is_dark": true
+            },
+            "items": [
+                {
+                    "item_icon": {
+                        "dimensions": {
+                            "width": 172,
+                            "height": 172
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/04fbe256-01e7-4d17-88ec-2b905c175071_Community+%26+Local.svg",
+                        "id": "Yqgb2hAAACIAhycB",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading5",
+                            "text": "Support our Communities",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "At the core of Mellow is our local community. Our growth should be hand in hand with the growth of the community. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "item_icon": {
+                        "dimensions": {
+                            "width": 172,
+                            "height": 172
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/bb3d2075-a41b-4ca7-8403-0e4d98fae515_Sustainability.svg",
+                        "id": "Yqgb0RAAAB8Ahyba",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading5",
+                            "text": "Being Eco-conscious",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "We are committed to expand our sustainable efforts over time and make sure that Mellow's presence leaves a positive impact on our nature. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "item_icon": {
+                        "dimensions": {
+                            "width": 172,
+                            "height": 172
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/2334811c-d9d1-4a20-a187-442056dceaec_Giving+back.svg",
+                        "id": "YqgbxxAAACAAhyar",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading5",
+                            "text": "Go Local",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "One of the main core at Mellow is to stay as much local as possible. To make sure that the environment benefits from our work. ",
+                            "spans": []
+                        }
+                    ]
+                }
+            ],
+            "id": "icons_section$75537709-5411-48ce-9392-5310919f3a42",
+            "slice_type": "icons_section",
+            "slice_label": null,
+            "data": {
+                "iconsTitle": [
+                    {
+                        "type": "paragraph",
+                        "text": "Our principles for making a positive change",
+                        "spans": [
+                            {
+                                "start": 19,
+                                "end": 28,
+                                "type": "strong"
+                            },
+                            {
+                                "start": 28,
+                                "end": 36,
+                                "type": "em"
+                            },
+                            {
+                                "start": 37,
+                                "end": 43,
+                                "type": "strong"
+                            }
+                        ]
+                    }
+                ],
+                "isDark": true,
+                "title": [
+                    {
+                        "type": "paragraph",
+                        "text": "Our principles for making a positive change",
+                        "spans": [
+                            {
+                                "start": 19,
+                                "end": 28,
+                                "type": "strong"
+                            },
+                            {
+                                "start": 28,
+                                "end": 36,
+                                "type": "em"
+                            },
+                            {
+                                "start": 37,
+                                "end": 43,
+                                "type": "strong"
+                            }
+                        ]
+                    }
+                ],
+                "items": [
+                    {
+                        "item_icon": {
+                            "dimensions": {
+                                "width": 172,
+                                "height": 172
+                            },
+                            "alt": null,
+                            "copyright": null,
+                            "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/04fbe256-01e7-4d17-88ec-2b905c175071_Community+%26+Local.svg",
+                            "id": "Yqgb2hAAACIAhycB",
+                            "edit": {
+                                "x": 0,
+                                "y": 0,
+                                "zoom": 1,
+                                "background": "#fff"
+                            }
+                        },
+                        "item_title": [
+                            {
+                                "type": "heading5",
+                                "text": "Support our Communities",
+                                "spans": []
+                            }
+                        ],
+                        "item_description": [
+                            {
+                                "type": "paragraph",
+                                "text": "At the core of Mellow is our local community. Our growth should be hand in hand with the growth of the community. ",
+                                "spans": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_icon": {
+                            "dimensions": {
+                                "width": 172,
+                                "height": 172
+                            },
+                            "alt": null,
+                            "copyright": null,
+                            "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/bb3d2075-a41b-4ca7-8403-0e4d98fae515_Sustainability.svg",
+                            "id": "Yqgb0RAAAB8Ahyba",
+                            "edit": {
+                                "x": 0,
+                                "y": 0,
+                                "zoom": 1,
+                                "background": "#fff"
+                            }
+                        },
+                        "item_title": [
+                            {
+                                "type": "heading5",
+                                "text": "Being Eco-conscious",
+                                "spans": []
+                            }
+                        ],
+                        "item_description": [
+                            {
+                                "type": "paragraph",
+                                "text": "We are committed to expand our sustainable efforts over time and make sure that Mellow's presence leaves a positive impact on our nature. ",
+                                "spans": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_icon": {
+                            "dimensions": {
+                                "width": 172,
+                                "height": 172
+                            },
+                            "alt": null,
+                            "copyright": null,
+                            "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/2334811c-d9d1-4a20-a187-442056dceaec_Giving+back.svg",
+                            "id": "YqgbxxAAACAAhyar",
+                            "edit": {
+                                "x": 0,
+                                "y": 0,
+                                "zoom": 1,
+                                "background": "#fff"
+                            }
+                        },
+                        "item_title": [
+                            {
+                                "type": "heading5",
+                                "text": "Go Local",
+                                "spans": []
+                            }
+                        ],
+                        "item_description": [
+                            {
+                                "type": "paragraph",
+                                "text": "One of the main core at Mellow is to stay as much local as possible. To make sure that the environment benefits from our work. ",
+                                "spans": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            "name": "icons-section"
+        },
+        {
+            "primary": {
+                "section_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Mellow Farm",
+                        "spans": []
+                    }
+                ],
+                "section_description": [
+                    {
+                        "type": "paragraph",
+                        "text": "At Mellow, we have an exciting plan in the works - the Mellow farm. Our goal is to cultivate organic fruits and vegetables to supply our restaurant and guests with fresh and delicious produce. But that's not all. We also aim to extend our reach to other hotels and families in the area, allowing locals to enjoy locally-grown food.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "While this plan is still in the works, we are planning to make it a reality. We understand the importance of careful planning, and we're taking the time to ensure that everything is just right. Stay tuned for updates on our progress as we work towards this exciting new initiative.",
+                        "spans": []
+                    }
+                ],
+                "button_text": [],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": false,
+                "is_dark": true,
+                "section_image": {}
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$12b3d4fb-f844-4dbf-80d2-5d6900e272c0",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [
+                    {
+                        "type": "heading2",
+                        "text": "Mellow Farm",
+                        "spans": []
+                    }
+                ],
+                "sectionDescription": [
+                    {
+                        "type": "paragraph",
+                        "text": "At Mellow, we have an exciting plan in the works - the Mellow farm. Our goal is to cultivate organic fruits and vegetables to supply our restaurant and guests with fresh and delicious produce. But that's not all. We also aim to extend our reach to other hotels and families in the area, allowing locals to enjoy locally-grown food.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "While this plan is still in the works, we are planning to make it a reality. We understand the importance of careful planning, and we're taking the time to ensure that everything is just right. Stay tuned for updates on our progress as we work towards this exciting new initiative.",
+                        "spans": []
+                    }
+                ],
+                "buttonText": [],
+                "imagePosition": false,
+                "isDark": true,
+                "sectionImage": {},
+                "title": [
+                    {
+                        "type": "heading2",
+                        "text": "Mellow Farm",
+                        "spans": []
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "At Mellow, we have an exciting plan in the works - the Mellow farm. Our goal is to cultivate organic fruits and vegetables to supply our restaurant and guests with fresh and delicious produce. But that's not all. We also aim to extend our reach to other hotels and families in the area, allowing locals to enjoy locally-grown food.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "While this plan is still in the works, we are planning to make it a reality. We understand the importance of careful planning, and we're taking the time to ensure that everything is just right. Stay tuned for updates on our progress as we work towards this exciting new initiative.",
+                        "spans": []
+                    }
+                ],
+                "image": {},
+                "reverse": false
+            },
+            "name": "text-and-image"
+        }
+    ],
+    "meta_title": [],
+    "meta_description": [],
+    "meta_image": {}
+}

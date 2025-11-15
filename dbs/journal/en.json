@@ -1,0 +1,45 @@
+{
+    "title": [
+        {
+            "type": "heading1",
+            "text": "Journal",
+            "spans": []
+        }
+    ],
+    "load_more_button": [
+        {
+            "type": "paragraph",
+            "text": "Load More",
+            "spans": [
+                {
+                    "start": 5,
+                    "end": 9,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "related_articles_title": [
+        {
+            "type": "paragraph",
+            "text": "More Articles",
+            "spans": [
+                {
+                    "start": 5,
+                    "end": 13,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "view_all_button": [
+        {
+            "type": "heading6",
+            "text": "See all",
+            "spans": []
+        }
+    ],
+    "meta_title": [],
+    "meta_description": [],
+    "meta_image": {}
+}

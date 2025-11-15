@@ -1,0 +1,97 @@
+{
+    "_id": "special",
+    "slug": "special",
+    "translations": {
+        "en": {
+            "title": [
+                {
+                    "type": "paragraph",
+                    "text": "The yoga break",
+                    "spans": []
+                }
+            ],
+            "duration": [],
+            "dates": [
+                {
+                    "date": [],
+                    "space_available_shared": null,
+                    "space_available_private": null
+                }
+            ],
+            "book_text": [],
+            "header_image": {
+                "dimensions": {
+                    "width": 5973,
+                    "height": 3361
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/be6d770f-cd0b-4b02-abc8-f602a6d6ea76_foto+yoga+retreat.jpg?auto=compress,format",
+                "id": "ZEAVkRAAACMAooNs",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "header_image_vertical": {
+                "dimensions": {
+                    "width": 5973,
+                    "height": 3361
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/be6d770f-cd0b-4b02-abc8-f602a6d6ea76_foto+yoga+retreat.jpg?auto=compress,format",
+                "id": "ZEAVkRAAACMAooNs",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "features_title": [],
+            "features": [
+                {
+                    "item_image": {},
+                    "item_title": [],
+                    "item_description": []
+                }
+            ],
+            "icons_title": [],
+            "icons": [
+                {
+                    "item_icon": {},
+                    "item_title": [],
+                    "item_description": []
+                }
+            ],
+            "cta_title": [],
+            "cta_subtitle": [],
+            "shared_title": [],
+            "shared_price": [
+                {
+                    "type": "paragraph",
+                    "text": "$250 pp",
+                    "spans": []
+                }
+            ],
+            "private_title": [],
+            "private_price": [],
+            "bottom_book_text": [],
+            "popup_content": [],
+            "book_popup_title": [],
+            "book_popup_description": [],
+            "body": [],
+            "meta_title": [],
+            "meta_description": [],
+            "meta_image": {}
+        },
+        "es": {},
+        "fr": {}
+    },
+    "published": true,
+    "createdAt": "2025-05-09T13:38:43.090+00:00",
+    "updatedAt": "2025-05-09T13:38:43.090+00:00"
+}

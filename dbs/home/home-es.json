@@ -1,0 +1,668 @@
+{
+    "title": [
+        {
+            "type": "paragraph",
+            "text": " Hotel boutique de surf en el norte de Nicaragua",
+            "spans": [
+                {
+                    "start": 1,
+                    "end": 15,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "header_image": {
+        "dimensions": {
+            "width": 6000,
+            "height": 4000
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/260a7894-99e5-489a-ae0c-6c166ba53d0c_foto+hojas+mellow.jpg?auto=compress,format",
+        "id": "ZCzBQRAAACMA0IkQ",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "adventures_title": [
+        {
+            "type": "paragraph",
+            "text": "Decide el tipo de estancia que se adapta mejor a tu estilo de viaje ",
+            "spans": [
+                {
+                    "start": 10,
+                    "end": 27,
+                    "type": "em"
+                },
+                {
+                    "start": 33,
+                    "end": 47,
+                    "type": "strong"
+                },
+                {
+                    "start": 52,
+                    "end": 59,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "adventures": [
+        {
+            "image": {
+                "dimensions": {
+                    "width": 2230,
+                    "height": 2015
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/04b46034-0008-46fb-b35a-c2dd259d6fc4_caba%C3%B1a.jpg?auto=compress,format",
+                "id": "ZDg7UxAAACAAgiPB",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "title": [
+                {
+                    "type": "heading3",
+                    "text": "Quédate en nuestras cabañas",
+                    "spans": []
+                }
+            ],
+            "description": [
+                {
+                    "type": "heading6",
+                    "text": "Reserva una estancia cómoda en nuestras cabañas con vistas al mar y desayuno incluido. Personaliza tu aventura con nosotros. ",
+                    "spans": []
+                }
+            ],
+            "link": {
+                "id": "ZDinQxAAACIAgs6y",
+                "type": "our_place",
+                "tags": [],
+                "lang": "es-es",
+                "slug": "our-place",
+                "first_publication_date": "2023-04-14T01:07:22+0000",
+                "last_publication_date": "2023-05-02T20:05:43+0000",
+                "link_type": "Document",
+                "key": "784cfb24-e096-4ae5-b0c0-4bc6b9223806",
+                "isBroken": false
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/29987d3b-b7a4-4cbf-b92f-4b8c1a3cbef0_kinsoennnn.jpg?auto=compress,format",
+                "id": "ZEw4JhEAACkAo1EP",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "title": [
+                {
+                    "type": "heading3",
+                    "text": "Retiro Estándar ·Todo incluido·",
+                    "spans": []
+                }
+            ],
+            "description": [
+                {
+                    "type": "heading6",
+                    "text": "Nuestro primer retiro ·Todo incluido· dará comienzo en Diciembre de 2023. Tendrás unas vacaciones inolvidables repletas de surf,  aventuras y mucha diversión. ",
+                    "spans": []
+                }
+            ],
+            "link": {
+                "id": "ZDzB1RAAACIAkv_A",
+                "type": "standard_retreat",
+                "tags": [],
+                "lang": "es-es",
+                "slug": "standard-retreat",
+                "first_publication_date": "2023-04-17T16:10:46+0000",
+                "last_publication_date": "2024-11-04T19:27:59+0000",
+                "link_type": "Document",
+                "key": "eb380a91-7070-48d8-9752-31d3ebd1e39b",
+                "isBroken": false
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 5793,
+                    "height": 3862
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/5b82952f-ce44-4311-990a-b269f68c89c0_special+guest.jpg?auto=compress,format",
+                "id": "ZDB6IBAAACMA1_HV",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "title": [
+                {
+                    "type": "heading3",
+                    "text": "Retiro con un Invitado Especial ",
+                    "spans": []
+                }
+            ],
+            "description": [
+                {
+                    "type": "heading6",
+                    "text": "¡Los retiros con invitados especiales llegan pronto! Con la gran variedad de retiros entre los que puedes elegir, sabemos que hay opciones para todos. ",
+                    "spans": []
+                }
+            ],
+            "link": {
+                "link_type": "Document"
+            }
+        }
+    ],
+    "intro_title": [
+        {
+            "type": "paragraph",
+            "text": "La aventura de Mellow \nte espera",
+            "spans": [
+                {
+                    "start": 15,
+                    "end": 21,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "intro_description": [
+        {
+            "type": "paragraph",
+            "text": "Te ofrecemos una escapada perfecta en la Nicaragua tropical. Nuestro resort se alberga entre la frondosa vegetación del norte nicaragüense, a solo unos pocos pasos del vasto océano. Despiértate con los sonidos de la naturaleza en nuestras lujosas cabañas y fúndete con la paz de nuestro entorno. Nuestra labor es cuidar completamente de ti para que puedas centrarte en la emoción del surf, en el calor de las nuevas amistades y en experimentar intensamente todas las aventuras que tenemos preparadas para ti. ",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "Nuestro compromiso en ofrecer una experiencia completa en Nicaragua implica que puedes esperar de todo: desde paseos a caballo hasta sesiones de surf en el atardecer, desde hogueras hasta una comida fusión excepcional, buena música y la acogedora bienvenida de la gente local. Nuestro objetivo final es que tu estancia sea inolvidable. ",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "Además, con tu apoyo y confianza será posible actuar en base a nuestra mentalidad fundamentada en la promoción de la comunidad local. Todo mediante proyectos educativos y programas desarrollados especialmente para ellos, de modo que nuestro crecimiento signifique que la comunidad también crece. ",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+        }
+    ],
+    "intro_button": [
+        {
+            "type": "heading6",
+            "text": "Saber Más",
+            "spans": []
+        }
+    ],
+    "intro_images": [
+        {
+            "image": {
+                "dimensions": {
+                    "width": 4000,
+                    "height": 6000
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/bb077fc9-1013-4dda-8e0d-5243a224cebd_foto+plantas+resrot.jpg?auto=compress,format",
+                "id": "ZC376hAAACEA0p3M",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 3943,
+                    "height": 5914
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/358a3587-8700-4841-9425-deda2c35af5f_foto+resort+verde.jpeg?auto=compress,format",
+                "id": "ZC37pxAAACMA0p1a",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        }
+    ],
+    "retreats_title": [
+        {
+            "type": "paragraph",
+            "text": "Reservate para una escapada inolvidable con un invitado especial",
+            "spans": [
+                {
+                    "start": 19,
+                    "end": 28,
+                    "type": "em"
+                },
+                {
+                    "start": 28,
+                    "end": 40,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "video_cover": {
+        "dimensions": {
+            "width": 4000,
+            "height": 4000
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/37a74323-ee61-4a77-a61f-6ad16e4281d0_mellow+resort.jpg?auto=compress,format",
+        "id": "ZEAVHhAAACIAooGO",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "video": {
+        "link_type": "Any"
+    },
+    "our_place_title": [
+        {
+            "type": "paragraph",
+            "text": "Descubre Nuestro Resort",
+            "spans": [
+                {
+                    "start": 9,
+                    "end": 16,
+                    "type": "em"
+                },
+                {
+                    "start": 17,
+                    "end": 23,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "our_place_images": [
+        {
+            "image": {
+                "dimensions": {
+                    "width": 4000,
+                    "height": 6000
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/e6a91d48-db4f-4cb0-9db9-fcbe40170a27_FOTO+PSICINA+ZOOM.jpg?auto=compress,format",
+                "id": "ZC20axAAACMA0iYX",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 3573,
+                    "height": 5260
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/d230dc5f-e49b-4409-9b09-0d8fd8db52ac_silla+mellow.jpg?auto=compress,format",
+                "id": "ZD8eWBAAACIAngKq",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 3911,
+                    "height": 3911
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/bddc51bc-b1bb-4ba2-a1fe-3e36a9f30000_fotito+del+restaurante.jpg?auto=compress,format",
+                "id": "ZD8fpBAAACAAnggY",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 3685,
+                    "height": 5528
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/5e08a6a0-7f41-4f46-ba28-b452f84c7d09_banano+leave.jpg?auto=compress,format",
+                "id": "ZDc0ChAAACEAgG7E",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 4000
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/ce246249-dae0-4c66-84b6-0394ca5456a8_fondo+de+pantalla.jpg?auto=compress,format",
+                "id": "ZD8eexAAACMAngNG",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 4000,
+                    "height": 6000
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/5422b55f-da03-48b0-9e4d-a65ded964e85_kicaro.jpg?auto=compress,format",
+                "id": "ZCzkPhAAACIA0L2M",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 3921,
+                    "height": 5882
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/282bb3e3-525d-4c6b-8c6d-1c805ec636cf_piscina+sunset+2.jpg?auto=compress,format",
+                "id": "ZD8jgRAAACMAnhoH",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        }
+    ],
+    "surfing_title": [
+        {
+            "type": "heading2",
+            "text": "Surfea con Mellow",
+            "spans": []
+        }
+    ],
+    "surfing_description": [
+        {
+            "type": "paragraph",
+            "text": "Nuestro resort presume de una ubicación excepcional, rodeada de olas de primera clase y surfeables durante todo el año. Atendemos a surferos de todos los niveles y de todos los estilos. La zona goza de olas suaves y perfectas para longboarders y de rompientes aptas para aquellos están aprendiendo a surfear. Para los que acaban de adentrarse en el mundo del surf, no hay de que preocuparse, tenemos profesores excelentes que les ayudarán a coger sus primeras olas. ",
+            "spans": [
+                {
+                    "start": 231,
+                    "end": 243,
+                    "type": "em"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "No podemos olvidarnos mencionar que nos situamos a unos pocos kilómetros de la conocida ola “El boom”, que se encuentra a un corto trayecto en coche de nuestro resort. ",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "¡No podemos esperar a que sientas las olas de Nicaragua! Nos emociona saber que podemos experimentar momentos tan bonitos a tu lado. ",
+            "spans": []
+        }
+    ],
+    "surfing_button": [
+        {
+            "type": "heading6",
+            "text": "Descubre Más",
+            "spans": []
+        }
+    ],
+    "surfing_image": {
+        "dimensions": {
+            "width": 3714,
+            "height": 2799
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/82c0084e-b33c-4562-b402-d3712eb22f02_surfing+with+mellow+2.jpg?auto=compress,format",
+        "id": "ZEcHXhQAACcAtJoi",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "icons_title": [
+        {
+            "type": "paragraph",
+            "text": "Un viaje inolvidable con un impacto positivo",
+            "spans": [
+                {
+                    "start": 3,
+                    "end": 9,
+                    "type": "strong"
+                },
+                {
+                    "start": 21,
+                    "end": 28,
+                    "type": "strong"
+                },
+                {
+                    "start": 28,
+                    "end": 36,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "icons": [
+        {
+            "item_icon": {
+                "dimensions": {
+                    "width": 172,
+                    "height": 172
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/2334811c-d9d1-4a20-a187-442056dceaec_Giving+back.svg",
+                "id": "YqgbxxAAACAAhyar",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading5",
+                    "text": "Cooperación ",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Queremos dejar huella y aprovechar nuestros recursos para respaldar proyectos locales, como por ejemplo ofreciendo clases de inglés a los jóvenes. Nuestra finalidad es identificar otras áreas necesitadas y extender el apoyo creando cada vez más proyectos locales. ",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_icon": {
+                "dimensions": {
+                    "width": 172,
+                    "height": 172
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/bb3d2075-a41b-4ca7-8403-0e4d98fae515_Sustainability.svg",
+                "id": "Yqgb0RAAAB8Ahyba",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading5",
+                    "text": "Sostenibilidad",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Optamos por colaborar con el entorno recurriendo a recursos locales y realizando esfuerzos sostenibles en nuestro resort. ",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_icon": {
+                "dimensions": {
+                    "width": 172,
+                    "height": 172
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://mellow-sa.cdn.prismic.io/mellow-sa/04fbe256-01e7-4d17-88ec-2b905c175071_Community+%26+Local.svg",
+                "id": "Yqgb2hAAACIAhycB",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading5",
+                    "text": "Comunidad",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "El verdadero corazón de Mellow es nuestra mentalidad basada en el colectivo. Nos comprometemos a proporcionar a la comunidad local una educación, oportunidades laborales así como potenciar las virtudes de cada uno.   ",
+                    "spans": []
+                }
+            ]
+        }
+    ],
+    "instagram_title": [
+        {
+            "type": "paragraph",
+            "text": "Sigue nuestra Magia",
+            "spans": [
+                {
+                    "start": 6,
+                    "end": 19,
+                    "type": "em"
+                },
+                {
+                    "start": 14,
+                    "end": 19,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "instagram_feed": [
+        {
+            "type": "heading6",
+            "text": "https://feeds.behold.so/vgYWdhpB9wPn1A2v7XhJ ",
+            "spans": []
+        }
+    ],
+    "meta_title": [
+        {
+            "type": "heading2",
+            "text": "Mellow Resort | Lujo y Naturaleza en Nicaragua | Escapada y Serenidad",
+            "spans": [],
+            "direction": "ltr"
+        }
+    ],
+    "meta_description": [
+        {
+            "type": "heading6",
+            "text": "Descubre Mellow Resort, un refugio exclusivo en Nicaragua donde el lujo, la naturaleza y la serenidad se unen para una experiencia inolvidable.",
+            "spans": [],
+            "direction": "ltr"
+        }
+    ],
+    "meta_image": {}
+}

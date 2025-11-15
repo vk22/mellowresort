@@ -1,0 +1,522 @@
+{
+    "title": [
+        {
+            "type": "paragraph",
+            "text": "Siente la satisfacción de surfear olas",
+            "spans": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "type": "strong"
+                },
+                {
+                    "start": 26,
+                    "end": 38,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "type": "paragraph",
+            "text": "Surfear las olas del Pacífico nicaragüense permitirá que te abstraigas por completo en un entorno cálido y natural, rodeado de palmeras y cielos con colores impresionantes. ",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "La zona se caracteriza por presentar una gran diversidad de olas, desde suaves y perfectas para longboarders hasta olas más grandes y tuberas para los más experimentados. ",
+            "spans": [
+                {
+                    "start": 96,
+                    "end": 109,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "header_images": [
+        {
+            "image": {
+                "dimensions": {
+                    "width": 3955,
+                    "height": 5932
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/46e8fa03-e9d7-49ad-8d22-9e9ddef44ca7_sunset.jpg?auto=compress,format",
+                "id": "ZCxABRAAACIAz6sm",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/801f28e5-8ff8-4564-b431-9a6662167493_foto+nahua+negro.jpg?auto=compress,format",
+                "id": "ZCw1URAAAB8Az5SQ",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/93177b23-e1ef-48e6-add2-437bc5d647b9_foto+pagina+surfing.jpg?auto=compress,format",
+                "id": "ZD11SRAAACMAlkYD",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 5967,
+                    "height": 3357
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/c12fec68-7e56-4214-b14f-472e4456679a_pblo+2.jpg?auto=compress,format",
+                "id": "ZDSPKBAAACMA6ibA",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        }
+    ],
+    "intro_title": [
+        {
+            "type": "heading2",
+            "text": "Surfea con Mellow",
+            "spans": []
+        }
+    ],
+    "intro_description": [
+        {
+            "type": "paragraph",
+            "text": "Con nuestro coche 4x4, te trasladaremos hasta los mejores surf spots para asegurarnos de que cada sesión de surf sea inolvidable.  Para aquellos menos experimentados, tenemos clases individualizadas para que ellos también puedan coger la ola de su vida en Nicaragua. ",
+            "spans": [
+                {
+                    "start": 58,
+                    "end": 68,
+                    "type": "em"
+                },
+                {
+                    "start": 130,
+                    "end": 131,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "intro_image": {
+        "dimensions": {
+            "width": 6000,
+            "height": 4000
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/784781ae-242a-45c1-ab51-a863db07368b_long+nahua.jpg?auto=compress,format",
+        "id": "ZCw2uBAAACMAz5dh",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "slides_intro_title": [
+        {
+            "type": "paragraph",
+            "text": "Nuestra manera de enseñar a surfear es única ",
+            "spans": [
+                {
+                    "start": 39,
+                    "end": 44,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "slides_intro_image": {
+        "dimensions": {
+            "width": 5938,
+            "height": 3341
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/119fc581-310b-4126-ba48-881e00deb4c5_foto+teaching+2.jpg?auto=compress,format",
+        "id": "ZDibrBAAACIAgr5H",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "slides_scroll_text": [
+        {
+            "type": "heading6",
+            "text": "Desliza para descubrirlo",
+            "spans": []
+        }
+    ],
+    "slides": [
+        {
+            "item_image": {},
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "Clases de remada",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Surfear el océano es a veces un gran desafío y sobre todo cuando hay olas grandes y fuertes corrientes, esto dificulta coger olas y maniobrar. Para prepararte a la vida marina, te invitamos a participar en unas sesiones de entrenamiento en la piscina que te harán desarrollar las habilidades necesarias para que tu remada y tu duck diving sean más eficientes. Nos queremos asegurar de que estés bien preparado para  empezar a surfear. ",
+                    "spans": [
+                        {
+                            "start": 327,
+                            "end": 338,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5933,
+                    "height": 3647
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/c35898ea-2340-4610-8950-70bfd7bcd1ab_learning+apostillo.jpg?auto=compress,format",
+                "id": "ZD6_CRAAACEAnE8r",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "Clases en la playa",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Antes de entrar al agua se llevará a cabo una breve guía sobre los conceptos básicos del surf; nuestros monitores te explicarán cómo rompen las olas y qué debemos tener en cuenta a la hora de remar una, entre otras muchas cosas. \n\nPara los principiantes, las lecciones se realizan con mayor profundidad con el fin de potenciar la seguridad y confianza necesarias  para surfear sin que nada te pare. ",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {},
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "La teoría en el surf ",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "En Mellow creemos que el surf es mucho más que el acto físico de surfear las olas. Como amantes de este deporte, nos comprometemos a enseñarte las herramientas necesarias para enriquecer al máximo tu experiencia. Por eso, ofrecemos unas clases teóricas de surf en las que aprenderás técnicas y conocimientos básicos sobre el mar y sobre algunas maniobras. Por supuesto, también dejaremos abierta la puerta para todas las preguntas y dudas que puedan surgir a lo largo de tu estancia para que así puedas disfrutar de tu surfing al completo. ",
+                    "spans": [
+                        {
+                            "start": 519,
+                            "end": 527,
+                            "type": "em"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                }
+            ]
+        }
+    ],
+    "surf_spots_title": [
+        {
+            "type": "paragraph",
+            "text": "Nuestras localizaciones de surf",
+            "spans": [
+                {
+                    "start": 9,
+                    "end": 24,
+                    "type": "strong"
+                },
+                {
+                    "start": 27,
+                    "end": 31,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "surf_spots": [
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5513,
+                    "height": 3675
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/99dda01c-b9a1-442f-8faf-ffba4f6aba20_surfing.jpg?auto=compress,format",
+                "id": "ZCy9wBAAACMA0IPD",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "NAHUALAPA",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Nahualapa es una de las mejores playas de la zona y tiene olas estables  continuamente; es mayormente un beach break - rompiente de arena- pero al estar rodeada de rocas ofrece unas perfectas izquierdas y unas largas derechas. Cuando el oleaje es más pequeño, la ola es perfecta para principiantes e intermedios. Cuando el oleaje es más potente, las olas pueden ser más desafiantes. También es una rompiente perfecta para el longboard.",
+                    "spans": [
+                        {
+                            "start": 104,
+                            "end": 116,
+                            "type": "em"
+                        },
+                        {
+                            "start": 425,
+                            "end": 434,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 3969,
+                    "height": 5954
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/d9b1b0f1-fc79-4a3a-aec4-2a9ffdecef6f_foto+aposantillo+lessons.jpg?auto=compress,format",
+                "id": "ZC3pLhAAACEA0oES",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "APOSENTILLO",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Aposentillo es una playa de arena cuyas olas son surfeables a lo largo de todo el año. Es un lugar ideal para las personas que acaban de comenzar a surfear pero también una playa divertida para los que ya conocen la ola. En nuestra opinión, Aposentillo te obsequia con los mejores sunsets de la zona.  ",
+                    "spans": [
+                        {
+                            "start": 281,
+                            "end": 289,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/ce9933cc-eb8e-4c1e-a842-7da16172507b_foto+isla.jpg?auto=compress,format",
+                "id": "ZEBM2xAAACEAo4TM",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "LA ISLA",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "La Isla no es solo alucinante por su larga ola izquierda -que te deja boquiabierto- sino también porque la aventura de atravesar el estero para llegar hasta esa isla remota es una experiencia enriquecedora en sí misma. La izquierda de la isla es larguísima, ¡al día siguiente te dolerán los brazos de tanto remar!",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5400,
+                    "height": 3600
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/6f3d1f11-dec0-4031-b404-31471466dc66_foto+boom+web+1.jpg?auto=compress,format",
+                "id": "ZD67whAAACIAnD5c",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "EL BOOM",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": " El Boom es una de las playas con más con más tubos de Nicaragua, un verdadero sueño para los surfistas. Este surf spot es relativamente consistente y muchos se despiertan con ganas de desayunar un tubo antes de empezar su día. ",
+                    "spans": [
+                        {
+                            "start": 110,
+                            "end": 120,
+                            "type": "em"
+                        },
+                        {
+                            "start": 185,
+                            "end": 202,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5184,
+                    "height": 3456
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/56d2c04e-4695-41aa-8e5a-6ef0fd5374c6_birja+surfeando.jpg?auto=compress,format",
+                "id": "ZEAVlRAAACIAooOF",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "COCO LOCO",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Si lo que buscas una ola larga para surfear, Coco Loco es tu lugar. Esta rompiente seduce por su suave y larga izquierda, de hecho, con un buen oleaje, es una de las mejores de la zona. ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5559,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/dcb507ba-2109-4fe3-ab39-30a51e765238_foto+jiquillo.jpg?auto=compress,format",
+                "id": "ZEAlCBAAACMAospQ",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "JIQUILILLO",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Jiquilillo es la ola perfecta y sin gente para sesiones de surf en marea baja. Puedes disfrutar de olas que rompen de derecha tanto como de izquierda. Es una bonita experiencia en un lugar apartado y exclusivo. ",
+                    "spans": []
+                }
+            ]
+        }
+    ],
+    "meta_title": [],
+    "meta_description": [],
+    "meta_image": {}
+}

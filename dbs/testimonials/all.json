@@ -1,0 +1,110 @@
+{
+    "_id": "testimonials",
+    "slug": "testimonials",
+    "translations": {
+        "en": {
+            "title": [
+                {
+                    "type": "heading1",
+                    "text": "What people say",
+                    "spans": []
+                }
+            ],
+            "items": [
+                {
+                    "image": {},
+                    "quote": [
+                        {
+                            "type": "paragraph",
+                            "text": "‘’It was my second time with Mellow in Nicaragua. I had to come back as I enjoyed my last time so much. The vibes are great in this Retreat. I made a lot of new friends! It is a true retreat for the soul.‘’",
+                            "spans": [
+                                {
+                                    "start": 39,
+                                    "end": 48,
+                                    "type": "em"
+                                },
+                                {
+                                    "start": 161,
+                                    "end": 168,
+                                    "type": "em"
+                                }
+                            ]
+                        }
+                    ],
+                    "name": [
+                        {
+                            "type": "heading6",
+                            "text": "Anisa Niemeijer",
+                            "spans": []
+                        }
+                    ]
+                }
+            ]
+        },
+        "es": {
+            "title": [
+                {
+                    "type": "heading1",
+                    "text": "Lo que la gente opina de nosotros ",
+                    "spans": []
+                }
+            ],
+            "items": [
+                {
+                    "image": {},
+                    "quote": [
+                        {
+                            "type": "paragraph",
+                            "text": "\"Fue mi segunda vez en Mellow Nicaragua. Necesitaba pasar unos días tan increíbles como los que pasé en el primer viaje. El ambiente es genial es este resort. Hice un montón de nuevas amistades! Es simplemente un verdadero retiro para el alma.\"",
+                            "spans": [
+                                {
+                                    "start": 151,
+                                    "end": 157,
+                                    "type": "em"
+                                }
+                            ]
+                        }
+                    ],
+                    "name": [
+                        {
+                            "type": "heading6",
+                            "text": "Anisa Niemeijer",
+                            "spans": []
+                        }
+                    ]
+                }
+            ]
+        },
+        "fr": {
+            "title": [
+                {
+                    "type": "heading1",
+                    "text": "Ce que les gens disent à propos de nous",
+                    "spans": []
+                }
+            ],
+            "items": [
+                {
+                    "image": {},
+                    "quote": [
+                        {
+                            "type": "paragraph",
+                            "text": "\"C'est la deuxième fois que je me rends à Mellow Nicaragua. J'avais besoin de passer quelques jours aussi extraordinaires que lors de mon premier voyage. L'atmosphère est excellente dans cet endroit. Je me suis fait beaucoup de nouveaux amis ! C'est tout simplement un véritable retrait pour l'âme.\"",
+                            "spans": []
+                        }
+                    ],
+                    "name": [
+                        {
+                            "type": "heading6",
+                            "text": "Anisa Niemeijer",
+                            "spans": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "published": true,
+    "createdAt": "2025-05-09T13:38:43.090+00:00",
+    "updatedAt": "2025-05-09T13:38:43.090+00:00"
+}

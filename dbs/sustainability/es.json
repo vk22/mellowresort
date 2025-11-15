@@ -1,0 +1,543 @@
+{
+    "title": [
+        {
+            "type": "paragraph",
+            "text": "Estamos comprometidos con mejorar el futuro de la comunidad local",
+            "spans": [
+                {
+                    "start": 8,
+                    "end": 22,
+                    "type": "strong"
+                },
+                {
+                    "start": 26,
+                    "end": 44,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "body": [
+        {
+            "primary": {
+                "section_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Nuestra perspectiva ",
+                        "spans": []
+                    }
+                ],
+                "section_description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Queremos poner en práctica nuestra mentalidad - orientada en la gente local -, empezando por el vecindario. El objetivo es empoderar a la comunidad que nos rodea involucrándonos con ellos directamente, entendiendo sus necesidades e identificando las oportunidades de crecimiento.  La idea es que poco a poco nuestros esfuerzos se intensifiquen y así poder solventar algunas de sus necesidades económicas, educacionales y/o sanitarias. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Nuestro propósito es crear oportunidades laborales, proporcionar un acceso a la educación y ofrecer mentorías a los talentos locales. Creemos que un enfoque basado en proactividad y en la cooperación puede ser efectivo y ganar independencia, fortaleza y autonomía con el paso del tiempo.  ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": " Aunque seguimos pensando en la mejor manera de emprender proyectos en base a nuestra filosofía,  todos nuestros movimientos actuales siguen manteniendo presentes el objetivo de lograr un impacto positivo y duradero.",
+                        "spans": []
+                    }
+                ],
+                "button_text": [],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": false,
+                "is_dark": true,
+                "section_image": {
+                    "dimensions": {
+                        "width": 3947,
+                        "height": 5921
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/1ab17a71-5aee-4864-b69b-23fefe9b3efa_constructor.jpg?auto=compress,format",
+                    "id": "ZDngzxAAACAAhke4",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                }
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$958804cc-1e15-4362-a0e4-64901f6d7da0",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [
+                    {
+                        "type": "heading2",
+                        "text": "Nuestra perspectiva ",
+                        "spans": []
+                    }
+                ],
+                "sectionDescription": [
+                    {
+                        "type": "paragraph",
+                        "text": "Queremos poner en práctica nuestra mentalidad - orientada en la gente local -, empezando por el vecindario. El objetivo es empoderar a la comunidad que nos rodea involucrándonos con ellos directamente, entendiendo sus necesidades e identificando las oportunidades de crecimiento.  La idea es que poco a poco nuestros esfuerzos se intensifiquen y así poder solventar algunas de sus necesidades económicas, educacionales y/o sanitarias. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Nuestro propósito es crear oportunidades laborales, proporcionar un acceso a la educación y ofrecer mentorías a los talentos locales. Creemos que un enfoque basado en proactividad y en la cooperación puede ser efectivo y ganar independencia, fortaleza y autonomía con el paso del tiempo.  ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": " Aunque seguimos pensando en la mejor manera de emprender proyectos en base a nuestra filosofía,  todos nuestros movimientos actuales siguen manteniendo presentes el objetivo de lograr un impacto positivo y duradero.",
+                        "spans": []
+                    }
+                ],
+                "buttonText": [],
+                "imagePosition": false,
+                "isDark": true,
+                "sectionImage": {
+                    "dimensions": {
+                        "width": 3947,
+                        "height": 5921
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/1ab17a71-5aee-4864-b69b-23fefe9b3efa_constructor.jpg?auto=compress,format",
+                    "id": "ZDngzxAAACAAhke4",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "title": [
+                    {
+                        "type": "heading2",
+                        "text": "Nuestra perspectiva ",
+                        "spans": []
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Queremos poner en práctica nuestra mentalidad - orientada en la gente local -, empezando por el vecindario. El objetivo es empoderar a la comunidad que nos rodea involucrándonos con ellos directamente, entendiendo sus necesidades e identificando las oportunidades de crecimiento.  La idea es que poco a poco nuestros esfuerzos se intensifiquen y así poder solventar algunas de sus necesidades económicas, educacionales y/o sanitarias. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Nuestro propósito es crear oportunidades laborales, proporcionar un acceso a la educación y ofrecer mentorías a los talentos locales. Creemos que un enfoque basado en proactividad y en la cooperación puede ser efectivo y ganar independencia, fortaleza y autonomía con el paso del tiempo.  ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": " Aunque seguimos pensando en la mejor manera de emprender proyectos en base a nuestra filosofía,  todos nuestros movimientos actuales siguen manteniendo presentes el objetivo de lograr un impacto positivo y duradero.",
+                        "spans": []
+                    }
+                ],
+                "image": {
+                    "dimensions": {
+                        "width": 3947,
+                        "height": 5921
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/1ab17a71-5aee-4864-b69b-23fefe9b3efa_constructor.jpg?auto=compress,format",
+                    "id": "ZDngzxAAACAAhke4",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "reverse": false,
+                "buttonExternal": true
+            },
+            "name": "text-and-image"
+        },
+        {
+            "primary": {
+                "section_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Los niños, el futuro",
+                        "spans": []
+                    }
+                ],
+                "section_description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Como todos sabemos, la verdadera esencia del futuro son los niños. Estos representan dos de los seis millones de los habitantes de Nicaragua. Creemos firmemente que otorgar oportunidades a los más jóvenes es una de las claves para conseguir el impacto positivo que deseamos en la comunidad. Enseñándoles conocimientos generales, clases semanales de inglés y cursos de medicina preventiva podemos, progresivamente, mejorar el bienestar general de todos. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Así, con un un apoyo y asesoramiento adecuado dirigido a las familias locales, se puede llegar a crear un futuro mejor para los jóvenes. Cuantos más recursos disponibles tengan presentes más posibilidades tendrán para continuar sus estudios y cumplir sus objetivos y sus sueños. La juventud es por lo tanto una de nuestras prioridades ya que de su aprendizaje pueden beneficiarse otros muchos,  teniendo un gran impacto en la comunidad en su conjunto.",
+                        "spans": []
+                    }
+                ],
+                "button_text": [],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": true,
+                "is_dark": true,
+                "section_image": {
+                    "dimensions": {
+                        "width": 2877,
+                        "height": 1939
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/8b4dc916-84a1-452a-b303-1e501d136e57_foto+nena.jpg?auto=compress,format",
+                    "id": "ZEBN0hAAACAAo4mE",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                }
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$cf6bc88b-1309-43a7-9d4b-daeef8d1231b",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [
+                    {
+                        "type": "heading2",
+                        "text": "Los niños, el futuro",
+                        "spans": []
+                    }
+                ],
+                "sectionDescription": [
+                    {
+                        "type": "paragraph",
+                        "text": "Como todos sabemos, la verdadera esencia del futuro son los niños. Estos representan dos de los seis millones de los habitantes de Nicaragua. Creemos firmemente que otorgar oportunidades a los más jóvenes es una de las claves para conseguir el impacto positivo que deseamos en la comunidad. Enseñándoles conocimientos generales, clases semanales de inglés y cursos de medicina preventiva podemos, progresivamente, mejorar el bienestar general de todos. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Así, con un un apoyo y asesoramiento adecuado dirigido a las familias locales, se puede llegar a crear un futuro mejor para los jóvenes. Cuantos más recursos disponibles tengan presentes más posibilidades tendrán para continuar sus estudios y cumplir sus objetivos y sus sueños. La juventud es por lo tanto una de nuestras prioridades ya que de su aprendizaje pueden beneficiarse otros muchos,  teniendo un gran impacto en la comunidad en su conjunto.",
+                        "spans": []
+                    }
+                ],
+                "buttonText": [],
+                "imagePosition": true,
+                "isDark": true,
+                "sectionImage": {
+                    "dimensions": {
+                        "width": 2877,
+                        "height": 1939
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/8b4dc916-84a1-452a-b303-1e501d136e57_foto+nena.jpg?auto=compress,format",
+                    "id": "ZEBN0hAAACAAo4mE",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "title": [
+                    {
+                        "type": "heading2",
+                        "text": "Los niños, el futuro",
+                        "spans": []
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Como todos sabemos, la verdadera esencia del futuro son los niños. Estos representan dos de los seis millones de los habitantes de Nicaragua. Creemos firmemente que otorgar oportunidades a los más jóvenes es una de las claves para conseguir el impacto positivo que deseamos en la comunidad. Enseñándoles conocimientos generales, clases semanales de inglés y cursos de medicina preventiva podemos, progresivamente, mejorar el bienestar general de todos. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Así, con un un apoyo y asesoramiento adecuado dirigido a las familias locales, se puede llegar a crear un futuro mejor para los jóvenes. Cuantos más recursos disponibles tengan presentes más posibilidades tendrán para continuar sus estudios y cumplir sus objetivos y sus sueños. La juventud es por lo tanto una de nuestras prioridades ya que de su aprendizaje pueden beneficiarse otros muchos,  teniendo un gran impacto en la comunidad en su conjunto.",
+                        "spans": []
+                    }
+                ],
+                "image": {
+                    "dimensions": {
+                        "width": 2877,
+                        "height": 1939
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/8b4dc916-84a1-452a-b303-1e501d136e57_foto+nena.jpg?auto=compress,format",
+                    "id": "ZEBN0hAAACAAo4mE",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "reverse": true,
+                "buttonExternal": true
+            },
+            "name": "text-and-image"
+        },
+        {
+            "primary": {
+                "image": {
+                    "dimensions": {
+                        "width": 6000,
+                        "height": 4000
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/85161730-9054-4bb8-acc1-f7598eb918d1_kids+are+the+future.jpg?auto=compress,format",
+                    "id": "ZEBMsxAAACIAo4QH",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "video": {
+                    "link_type": "Any"
+                },
+                "is_dark": true
+            },
+            "items": [
+                {}
+            ],
+            "id": "media$13aea19a-83b9-4ed8-8941-68a6d0548754",
+            "slice_type": "media",
+            "slice_label": null,
+            "data": {
+                "image": {
+                    "dimensions": {
+                        "width": 6000,
+                        "height": 4000
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/85161730-9054-4bb8-acc1-f7598eb918d1_kids+are+the+future.jpg?auto=compress,format",
+                    "id": "ZEBMsxAAACIAo4QH",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "video": {
+                    "link_type": "Any"
+                },
+                "isDark": true
+            },
+            "name": "media-section"
+        },
+        {
+            "primary": {
+                "section_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Proyectos en marcha",
+                        "spans": []
+                    }
+                ],
+                "section_description": [
+                    {
+                        "type": "paragraph",
+                        "text": "A día de hoy, ofrecemos clases de inglés básico gratis a aproximadamente 20 alumnos. De hecho, estas clases de inglés ya empiezan a dar sus frutos.  Se pueden observar mejoras notables en las habilidades lingüísticas de estos niños así como en su confianza a la hora de comunicarse y expresarse con los demás. \n\nLas edades de nuestros alumnos oscilan entre los 4 y los 18 años, pero nuestra intención es que a medida que nuestra capacidad y recursos crezcan, la clases y otros cursos se amplíen para llegar a más lugareños. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "",
+                        "spans": []
+                    }
+                ],
+                "button_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Saber más",
+                        "spans": []
+                    }
+                ],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": false,
+                "is_dark": true,
+                "section_image": {}
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$f69f53ed-a3a5-4376-a2c6-2a50069f27c8",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [
+                    {
+                        "type": "heading2",
+                        "text": "Proyectos en marcha",
+                        "spans": []
+                    }
+                ],
+                "sectionDescription": [
+                    {
+                        "type": "paragraph",
+                        "text": "A día de hoy, ofrecemos clases de inglés básico gratis a aproximadamente 20 alumnos. De hecho, estas clases de inglés ya empiezan a dar sus frutos.  Se pueden observar mejoras notables en las habilidades lingüísticas de estos niños así como en su confianza a la hora de comunicarse y expresarse con los demás. \n\nLas edades de nuestros alumnos oscilan entre los 4 y los 18 años, pero nuestra intención es que a medida que nuestra capacidad y recursos crezcan, la clases y otros cursos se amplíen para llegar a más lugareños. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "",
+                        "spans": []
+                    }
+                ],
+                "buttonText": [
+                    {
+                        "type": "heading6",
+                        "text": "Saber más",
+                        "spans": []
+                    }
+                ],
+                "imagePosition": false,
+                "isDark": true,
+                "sectionImage": {},
+                "title": [
+                    {
+                        "type": "heading2",
+                        "text": "Proyectos en marcha",
+                        "spans": []
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "A día de hoy, ofrecemos clases de inglés básico gratis a aproximadamente 20 alumnos. De hecho, estas clases de inglés ya empiezan a dar sus frutos.  Se pueden observar mejoras notables en las habilidades lingüísticas de estos niños así como en su confianza a la hora de comunicarse y expresarse con los demás. \n\nLas edades de nuestros alumnos oscilan entre los 4 y los 18 años, pero nuestra intención es que a medida que nuestra capacidad y recursos crezcan, la clases y otros cursos se amplíen para llegar a más lugareños. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "",
+                        "spans": []
+                    }
+                ],
+                "image": {},
+                "reverse": false,
+                "buttonExternal": true
+            },
+            "name": "text-and-image"
+        },
+        {
+            "primary": {
+                "section_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Repoblación forestal",
+                        "spans": []
+                    }
+                ],
+                "section_description": [
+                    {
+                        "type": "paragraph",
+                        "text": "De todos los países que hemos visitado, creemos sinceramente que Nicaragua es uno de los más impresionantes. Su belleza natural es simplemente extraordinaria. Queremos contribuir a que siga siendo así y asegurarnos de que las generaciones futuras también puedan disfrutar de su encanto.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Por eso, por cada huésped que se aloje con nosotros plantaremos un árbol. Así, contribuiremos a que el entorno siga siendo tan rico y pletórico en los años venideros.",
+                        "spans": []
+                    }
+                ],
+                "button_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Planta un árbol con nosotros",
+                        "spans": []
+                    }
+                ],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": false,
+                "is_dark": true,
+                "section_image": {}
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$9b4c3eff-ebe1-4ae3-838a-d9f9e59bc464",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [
+                    {
+                        "type": "heading2",
+                        "text": "Repoblación forestal",
+                        "spans": []
+                    }
+                ],
+                "sectionDescription": [
+                    {
+                        "type": "paragraph",
+                        "text": "De todos los países que hemos visitado, creemos sinceramente que Nicaragua es uno de los más impresionantes. Su belleza natural es simplemente extraordinaria. Queremos contribuir a que siga siendo así y asegurarnos de que las generaciones futuras también puedan disfrutar de su encanto.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Por eso, por cada huésped que se aloje con nosotros plantaremos un árbol. Así, contribuiremos a que el entorno siga siendo tan rico y pletórico en los años venideros.",
+                        "spans": []
+                    }
+                ],
+                "buttonText": [
+                    {
+                        "type": "heading6",
+                        "text": "Planta un árbol con nosotros",
+                        "spans": []
+                    }
+                ],
+                "imagePosition": false,
+                "isDark": true,
+                "sectionImage": {},
+                "title": [
+                    {
+                        "type": "heading2",
+                        "text": "Repoblación forestal",
+                        "spans": []
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "De todos los países que hemos visitado, creemos sinceramente que Nicaragua es uno de los más impresionantes. Su belleza natural es simplemente extraordinaria. Queremos contribuir a que siga siendo así y asegurarnos de que las generaciones futuras también puedan disfrutar de su encanto.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Por eso, por cada huésped que se aloje con nosotros plantaremos un árbol. Así, contribuiremos a que el entorno siga siendo tan rico y pletórico en los años venideros.",
+                        "spans": []
+                    }
+                ],
+                "image": {},
+                "reverse": false,
+                "buttonExternal": true
+            },
+            "name": "text-and-image"
+        }
+    ],
+    "meta_title": [],
+    "meta_description": [],
+    "meta_image": {}
+}

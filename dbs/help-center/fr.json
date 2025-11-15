@@ -1,0 +1,271 @@
+{
+    "contact_title": [
+        {
+            "type": "heading2",
+            "text": "Contact us",
+            "spans": []
+        }
+    ],
+    "contact_items": [
+        {
+            "item_icon": {
+                "dimensions": {
+                    "width": 80,
+                    "height": 80
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/c6791945-6ae5-44d9-b5db-effffd3d9434_phone.png?auto=compress,format",
+                "id": "ZMyoAxIAACkAPifi",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading5",
+                    "text": "Call Us",
+                    "spans": []
+                }
+            ],
+            "item_subtitle": [
+                {
+                    "type": "paragraph",
+                    "text": "Cell: +505 8214 5599",
+                    "spans": []
+                }
+            ],
+            "item_link": {
+                "link_type": "Any"
+            }
+        },
+        {
+            "item_icon": {
+                "dimensions": {
+                    "width": 80,
+                    "height": 80
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/72e80db3-9ac9-4436-95f8-f49c5ead6a1a_whatsapp.png?auto=compress,format",
+                "id": "ZMyoAxIAACkAPifj",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading5",
+                    "text": "Whatsapp",
+                    "spans": []
+                }
+            ],
+            "item_subtitle": [
+                {
+                    "type": "paragraph",
+                    "text": "Mon-Sat: 8am - 10pm CST",
+                    "spans": []
+                }
+            ],
+            "item_link": {
+                "link_type": "Web",
+                "key": "ac81d2f1-66af-4643-ac45-ef41b9bfc204",
+                "url": "https://wa.me/50582145599"
+            }
+        },
+        {
+            "item_icon": {
+                "dimensions": {
+                    "width": 80,
+                    "height": 80
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/f43eb62c-b788-4a8b-901f-654d6733db47_mail.png?auto=compress,format",
+                "id": "ZMyoAxIAACkAPifk",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading5",
+                    "text": "Email",
+                    "spans": []
+                }
+            ],
+            "item_subtitle": [
+                {
+                    "type": "paragraph",
+                    "text": "Mon-Sat: 8am - 10pm CST",
+                    "spans": []
+                }
+            ],
+            "item_link": {
+                "link_type": "Web",
+                "key": "21a1c18c-e1f0-4b6c-ba91-9ef54a41ca37",
+                "url": "mailto:nathan@mellowresort.com"
+            }
+        }
+    ],
+    "sections": [
+        {
+            "section_title": [
+                {
+                    "type": "heading2",
+                    "text": "How it works",
+                    "spans": []
+                }
+            ],
+            "section_description": [
+                {
+                    "type": "heading4",
+                    "text": "How to book\n",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "On each page of our website you are able to find the \"Book Now\" button which will bring you to a website where you are able to book your stay at Mellow. ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "heading4",
+                    "text": "Single stay or an all-inclusive retreat",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "We both offer single stays at our resort or you can also book an organized retreat for a week of adventure. ",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "section_title": [
+                {
+                    "type": "heading2",
+                    "text": "Careers",
+                    "spans": []
+                }
+            ],
+            "section_description": [
+                {
+                    "type": "heading4",
+                    "text": "Content Creator",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "We are currently seeking a skilled content creator to assist us in establishing a strong connection between our resort and potential guests. The ideal candidate should possess prior experience in assisting brands with effective audience communication, as well as generating compelling content and strategies to attract new guests to stay with us!",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Email Us ",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 9,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 0,
+                            "end": 9,
+                            "type": "hyperlink",
+                            "data": {
+                                "link_type": "Web",
+                                "url": "mailto:nathan@mellowresort.com"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "heading4",
+                    "text": "Surf Coach",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "We are looking for certified surf coaches that have a rich experience in teaching. We are looking for someone that has a passion for teaching and is friendly and warm in character. ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Email Us ",
+                    "spans": [
+                        {
+                            "start": 0,
+                            "end": 9,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 0,
+                            "end": 9,
+                            "type": "hyperlink",
+                            "data": {
+                                "link_type": "Web",
+                                "url": "https://Email Us"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                }
+            ]
+        }
+    ],
+    "meta_title": [
+        {
+            "type": "heading2",
+            "text": "Help center | Mellow Resort ",
+            "spans": [],
+            "direction": "ltr"
+        }
+    ],
+    "meta_description": [
+        {
+            "type": "heading6",
+            "text": "Access comprehensive information and get assistance for planning your stay at Mellow Resort. Contact our support team for further help.",
+            "spans": [],
+            "direction": "ltr"
+        }
+    ],
+    "meta_image": {}
+}

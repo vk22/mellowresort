@@ -1,0 +1,509 @@
+{
+    "title": [
+        {
+            "type": "paragraph",
+            "text": "Emerge in the joy of riding waves",
+            "spans": [
+                {
+                    "start": 10,
+                    "end": 18,
+                    "type": "strong"
+                },
+                {
+                    "start": 28,
+                    "end": 33,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "type": "paragraph",
+            "text": "Surfing the waves in Pacific Nicaragua offers an opportunity to fully immerse yourself in a warm and natural environment, surrounded by palm trees and breathtakingly colorful skies. ",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "The area offers consistent an diverse range of waves; from mellow longboarding waves to perfect a-frame barrels. ",
+            "spans": []
+        }
+    ],
+    "header_images": [
+        {
+            "image": {
+                "dimensions": {
+                    "width": 3955,
+                    "height": 5932
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/a747bb58-4c1b-4560-843a-c8d78df560d7_copia+sunset.jpg?auto=compress,format",
+                "id": "ZCxRtBAAACIAz82w",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/801f28e5-8ff8-4564-b431-9a6662167493_foto+nahua+negro.jpg?auto=compress,format",
+                "id": "ZCw1URAAAB8Az5SQ",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/93177b23-e1ef-48e6-add2-437bc5d647b9_foto+pagina+surfing.jpg?auto=compress,format",
+                "id": "ZD11SRAAACMAlkYD",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 5967,
+                    "height": 3357
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/c12fec68-7e56-4214-b14f-472e4456679a_pblo+2.jpg?auto=compress,format",
+                "id": "ZDSPKBAAACMA6ibA",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        }
+    ],
+    "intro_title": [
+        {
+            "type": "heading2",
+            "text": "Surfing with Mellow",
+            "spans": []
+        }
+    ],
+    "intro_description": [
+        {
+            "type": "paragraph",
+            "text": "With our 4x4 vehicle, we will take you to the best surf spots to make sure that every surf session is unforgettable.  For those less experienced, we offer personalized surf lessons and guidance to help you catch the wave of your lifetime. ",
+            "spans": []
+        }
+    ],
+    "intro_image": {
+        "dimensions": {
+            "width": 6000,
+            "height": 4000
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/784781ae-242a-45c1-ab51-a863db07368b_long+nahua.jpg?auto=compress,format",
+        "id": "ZCw2uBAAACMAz5dh",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "slides_intro_title": [
+        {
+            "type": "paragraph",
+            "text": "Our unique way of coaching surf",
+            "spans": [
+                {
+                    "start": 4,
+                    "end": 10,
+                    "type": "em"
+                },
+                {
+                    "start": 11,
+                    "end": 26,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "slides_intro_image": {
+        "dimensions": {
+            "width": 5938,
+            "height": 3341
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/1d2200c9-9b26-4b49-8937-ff864241ce30_foto+teaching+2.jpg?auto=compress,format&rect=634,288,4328,2435&w=5938&h=3341",
+        "id": "ZCy2uxAAACMA0Hip",
+        "edit": {
+            "x": -869,
+            "y": -395,
+            "zoom": 1.3719536220282131,
+            "background": "#fff"
+        }
+    },
+    "slides_scroll_text": [
+        {
+            "type": "heading6",
+            "text": "Scroll to discover",
+            "spans": []
+        }
+    ],
+    "slides": [
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 2661,
+                    "height": 3991
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/86506407-262b-4104-bcaf-89aee35993f8_sam-wermut-35muyqODIHA-unsplash.jpg?auto=compress,format",
+                "id": "ZKafbBIAACIA3P7H",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "Paddle School",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Navigating the ocean can be sometimes a big challenge, especially when there are big  incoming waves and strong currents, making it difficult to catch waves and maneuver correctly. To prepare you for the real deal, we offer a variety of pool training sessions that teach essential skills like efficient paddling and duck diving. We'll make sure you're well-prepared to enter the ocean to catch the waves.",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5933,
+                    "height": 3647
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/c35898ea-2340-4610-8950-70bfd7bcd1ab_learning+apostillo.jpg?auto=compress,format&rect=1057,207,4876,2997&w=5933&h=3647",
+                "id": "ZD6_CRAAACEAnE8r",
+                "edit": {
+                    "x": -1286,
+                    "y": -251,
+                    "zoom": 1.216907160282135,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "Beach Lessons",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Before entering the water we will brief and guide you through the basics of surfing so that you receive the guidance needed to start your session right. We will explain how the wave breaks, what to take into account while paddling out and much more useful advices. For the beginners, the lessons will be deeper so that you can be well prepared to enter the ocean. ",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 3685,
+                    "height": 5528
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/5e08a6a0-7f41-4f46-ba28-b452f84c7d09_banano+leave.jpg?auto=compress,format&rect=4,0,3678,5517&w=3685&h=5528",
+                "id": "ZDc0ChAAACEAgG7E",
+                "edit": {
+                    "x": -4,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "Surf Theory",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "At Mellow, we believe that surfing is more than just the physical act of riding waves. As surf lovers, we are committed to providing you the knowledge and skills you need to enhance your surfing experience. That's why we offer surf theory classes, where you'll learn about surf techniques, ocean mechanics and identify manouvers. \n\nOf course, we will also leave the door open for all the questions or doubts that may arise during your stay so you can both improve and enjoy your surfing to the fullest.",
+                    "spans": []
+                }
+            ]
+        }
+    ],
+    "surf_spots_title": [
+        {
+            "type": "paragraph",
+            "text": "Our local Surf spots",
+            "spans": [
+                {
+                    "start": 4,
+                    "end": 9,
+                    "type": "em"
+                },
+                {
+                    "start": 10,
+                    "end": 14,
+                    "type": "strong"
+                },
+                {
+                    "start": 15,
+                    "end": 20,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "surf_spots": [
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5513,
+                    "height": 3675
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/99dda01c-b9a1-442f-8faf-ffba4f6aba20_surfing.jpg?auto=compress,format",
+                "id": "ZCy9wBAAACMA0IPD",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "NAHUALAPA",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Nahualapa is one of the best and consistent beaches around the area that is mostly a beach break peeling left and right while the beach is surrounded by rocks offering perfect left and right long point breaks. When the swell is smaller the wave is perfect for beginners and intermediates and when the swell gets bigger it can offer long advanced waves. It is a perfect break for longboarding too. ",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 3682,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/71b3053d-72c0-40b1-98fa-59fc5a32d716_23032023+fotos+APOSENTILLO.jpg?auto=compress,format",
+                "id": "ZExLjhEAACoAo6fH",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "APOSENTILLO",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "The waves of Aposentillo are the softest waves around the area and is working consistenly over the year. It is the perfect spot for people that just started off surfing and a fun place to play around as more advanced surfer alike. In our opinion, Aposentillo offers  one of the best sunsets in the whole area. ",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/ce9933cc-eb8e-4c1e-a842-7da16172507b_foto+isla.jpg?auto=compress,format",
+                "id": "ZEBM2xAAACEAo4TM",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "LA ISLA",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "La Isla is not only worth going to for its long peeling lefts that blows your mind but also the adventure of going through the estuary to visit this remote island is a rich experience itself. The left is so long that your arms will be sore the next day from all the paddling!",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5400,
+                    "height": 3600
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/6f3d1f11-dec0-4031-b404-31471466dc66_foto+boom+web+1.jpg?auto=compress,format",
+                "id": "ZD67whAAACIAnD5c",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "THE BOOM",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "The Boom is famous world-wide for its barreling waves, a true surfer's dream. The break is relatively consistent and many are lucky enough to catch a barrel for breakfast and be satisfied until the next day - and go for more-. ",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5184,
+                    "height": 3456
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/56d2c04e-4695-41aa-8e5a-6ef0fd5374c6_birja+surfeando.jpg?auto=compress,format",
+                "id": "ZEAVlRAAACIAooOF",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "COCO LOCO",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "If you're seeking a long left-hand ride, Coco Loco is the spot for you. This point break delivers nice, long lefts, and with a swell, it's one of the best waves  in the area.",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5559,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/47c396e1-eaf8-4077-a9a1-35076cacb263_foto+jiquillo.jpg?auto=compress,format",
+                "id": "ZEAk5hAAACIAosmw",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "JIQULILLO",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Jiquillilo offers the perfect uncrowded waves for low-tide surf sessions. You can enjoy watching the waves break from left to right. It's a beautiful experience in a secluded and exclusive spot.",
+                    "spans": []
+                }
+            ]
+        }
+    ],
+    "meta_title": [
+        {
+            "type": "heading2",
+            "text": "Surfing at Mellow Resort | World-Class Spots in Nicaragua",
+            "spans": [],
+            "direction": "ltr"
+        }
+    ],
+    "meta_description": [
+        {
+            "type": "heading6",
+            "text": "Explore the exceptional surf spots around Mellow Resort in Nicaragua, suitable for all levels, from beginners to seasoned surfers.",
+            "spans": [],
+            "direction": "ltr"
+        }
+    ],
+    "meta_image": {}
+}

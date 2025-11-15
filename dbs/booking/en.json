@@ -1,0 +1,654 @@
+{
+    "intro_title": [
+        {
+            "type": "paragraph",
+            "text": "Hi there!",
+            "spans": [
+                {
+                    "start": 3,
+                    "end": 9,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "intro_description": [
+        {
+            "type": "paragraph",
+            "text": "Happy to see that you decided to join our Mellow Adventure!",
+            "spans": []
+        }
+    ],
+    "choose_title": [
+        {
+            "type": "paragraph",
+            "text": "Choose your Adventure ",
+            "spans": [
+                {
+                    "start": 7,
+                    "end": 11,
+                    "type": "strong"
+                },
+                {
+                    "start": 12,
+                    "end": 21,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "choose_description": [
+        {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+        }
+    ],
+    "special_retreat_title": [
+        {
+            "type": "paragraph",
+            "text": "Select your special Retreat ...",
+            "spans": [
+                {
+                    "start": 7,
+                    "end": 19,
+                    "type": "strong"
+                },
+                {
+                    "start": 20,
+                    "end": 27,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "adventures": [
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 2230,
+                    "height": 2015
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/ea58892f-997c-4bd7-b5e4-cf78d89ab9d0_caba%C3%B1aa.png?auto=compress,format",
+                "id": "ZDnLsxAAACMAhesv",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "transparent"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading6",
+                    "text": "Stay in our Cabañas",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Our carefully crafted cabins provide a comfortable stay. Book a single stay with breakfast included and add any extras on-site with us. ",
+                    "spans": []
+                }
+            ],
+            "item_link": {
+                "id": "YteLxhAAACAAoX4F",
+                "type": "our_place",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "our-place",
+                "first_publication_date": "2022-07-20T04:59:54+0000",
+                "last_publication_date": "2024-11-04T19:54:25+0000",
+                "link_type": "Document",
+                "key": "32ba8e0c-f4a8-43db-96aa-99449e20bf8c",
+                "isBroken": false
+            }
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 3349,
+                    "height": 3349
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/ccd72566-a7fe-4074-b1e4-5dc31b16541d_mar.jpg?auto=compress,format",
+                "id": "ZDc0CBAAACIAgG66",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading6",
+                    "text": "Standard All-In Retreat",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Our first standard retreat will be in the beginning of December 2023. This surf retreat will offer you an unforgettable holidays full of surf, adventure, and fun!",
+                    "spans": []
+                }
+            ],
+            "item_link": {
+                "id": "YwvvhhAAACMAttbH",
+                "type": "standard_retreat",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "standard-retreat",
+                "first_publication_date": "2022-08-28T23:41:55+0000",
+                "last_publication_date": "2024-11-04T19:27:19+0000",
+                "link_type": "Document",
+                "key": "05af5712-6b42-497b-93f4-cc20e9d74ccc",
+                "isBroken": false
+            }
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5793,
+                    "height": 3862
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/5b82952f-ce44-4311-990a-b269f68c89c0_special+guest.jpg?auto=compress,format",
+                "id": "ZDB6IBAAACMA1_HV",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading6",
+                    "text": "Retreat with a Special Guest",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Our retreats with special guests are coming soon! With a variety of unique retreats on the horizon, there is something special for everyone.",
+                    "spans": []
+                }
+            ],
+            "item_link": {
+                "id": "Yxwd7BEAACQANIDT",
+                "type": "special_retreat_overview",
+                "tags": [],
+                "lang": "en-us",
+                "slug": "special-retreat-overview",
+                "first_publication_date": "2022-09-10T05:17:36+0000",
+                "last_publication_date": "2022-09-10T05:21:12+0000",
+                "link_type": "Document",
+                "key": "da7d197b-f68b-42f7-b366-e7373a7b022b",
+                "isBroken": false
+            }
+        }
+    ],
+    "thanks_title": [
+        {
+            "type": "paragraph",
+            "text": "Thank you!",
+            "spans": [
+                {
+                    "start": 6,
+                    "end": 10,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "thanks_description": [
+        {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+        }
+    ],
+    "body": [
+        {
+            "primary": {
+                "title": [
+                    {
+                        "type": "paragraph",
+                        "text": "Book a stay with us",
+                        "spans": [
+                            {
+                                "start": 0,
+                                "end": 6,
+                                "type": "strong"
+                            },
+                            {
+                                "start": 7,
+                                "end": 11,
+                                "type": "em"
+                            }
+                        ]
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "A stay in one of our Cabaña allows you to enjoy our amazing suroundings and everything that comes with it. Wake up en enjoy our breakfast that is included. Check-in is from 12:00 pm.",
+                        "spans": []
+                    }
+                ],
+                "booking_information_title": [
+                    {
+                        "type": "heading5",
+                        "text": "Booking Information",
+                        "spans": []
+                    }
+                ],
+                "check_in_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Check-in",
+                        "spans": []
+                    }
+                ],
+                "check_out_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Check-out",
+                        "spans": []
+                    }
+                ],
+                "guests_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Guests",
+                        "spans": []
+                    }
+                ],
+                "contact_title": [
+                    {
+                        "type": "heading6",
+                        "text": "Contact Information",
+                        "spans": []
+                    }
+                ],
+                "first_name_text": [
+                    {
+                        "type": "heading6",
+                        "text": "First name",
+                        "spans": []
+                    }
+                ],
+                "last_name_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Last name",
+                        "spans": []
+                    }
+                ],
+                "email_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Email",
+                        "spans": []
+                    }
+                ],
+                "country_code_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Country Code",
+                        "spans": []
+                    }
+                ],
+                "phone_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Phone number",
+                        "spans": []
+                    }
+                ],
+                "newsletter_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Keep me up to date on news and exclusive offers",
+                        "spans": []
+                    }
+                ],
+                "send_button_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Send Booking Request",
+                        "spans": []
+                    }
+                ]
+            },
+            "items": [
+                {
+                    "option_title": [
+                        {
+                            "type": "heading3",
+                            "text": "Private Room",
+                            "spans": []
+                        }
+                    ],
+                    "option_price": [
+                        {
+                            "type": "heading6",
+                            "text": "From $190 PRPN",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "option_title": [
+                        {
+                            "type": "heading3",
+                            "text": "Shared Room",
+                            "spans": []
+                        }
+                    ],
+                    "option_price": [
+                        {
+                            "type": "heading6",
+                            "text": "From $145 PPPN",
+                            "spans": []
+                        }
+                    ]
+                }
+            ],
+            "id": "stay_form$2b9543cb-357d-4672-af45-d48943a3980b",
+            "slice_type": "stay_form",
+            "slice_label": null
+        },
+        {
+            "primary": {
+                "title": [
+                    {
+                        "type": "paragraph",
+                        "text": "Book a retreat with us",
+                        "spans": [
+                            {
+                                "start": 0,
+                                "end": 6,
+                                "type": "strong"
+                            },
+                            {
+                                "start": 7,
+                                "end": 14,
+                                "type": "em"
+                            }
+                        ]
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "We like to keep things simple and stress free, which is why our 7 day retreats are all-inclusive. This offers the opportunity to truly reset, connect with yourself, and reach your surf and yoga goals.",
+                        "spans": []
+                    }
+                ],
+                "booking_information_title": [
+                    {
+                        "type": "heading5",
+                        "text": "Booking Information",
+                        "spans": []
+                    }
+                ],
+                "dates_title": [
+                    {
+                        "type": "paragraph",
+                        "text": "Please select your desired dates. Do remember due to the nature of Mellow our weekly retreats are usually from Saturday to Saturday.",
+                        "spans": []
+                    }
+                ],
+                "check_in_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Desired Arrival Date",
+                        "spans": []
+                    }
+                ],
+                "check_out_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Desired Departure Date",
+                        "spans": []
+                    }
+                ],
+                "guests_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Guests",
+                        "spans": []
+                    }
+                ],
+                "contact_title": [
+                    {
+                        "type": "heading6",
+                        "text": "Contact Information",
+                        "spans": []
+                    }
+                ],
+                "first_name_text": [
+                    {
+                        "type": "heading6",
+                        "text": "First name",
+                        "spans": []
+                    }
+                ],
+                "last_name_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Last name",
+                        "spans": []
+                    }
+                ],
+                "email_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Email",
+                        "spans": []
+                    }
+                ],
+                "country_code_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Country code",
+                        "spans": []
+                    }
+                ],
+                "phone_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Phone number",
+                        "spans": []
+                    }
+                ],
+                "newsletter_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Keep me up to date on news and exclusive offers.",
+                        "spans": []
+                    }
+                ],
+                "send_button_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Send Booking Request.",
+                        "spans": []
+                    }
+                ]
+            },
+            "items": [
+                {
+                    "option_title": [
+                        {
+                            "type": "heading2",
+                            "text": "Private Room",
+                            "spans": []
+                        }
+                    ],
+                    "option_price": [
+                        {
+                            "type": "heading6",
+                            "text": "From $2990 pp",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "option_title": [
+                        {
+                            "type": "heading2",
+                            "text": "Shared Room",
+                            "spans": []
+                        }
+                    ],
+                    "option_price": [
+                        {
+                            "type": "heading6",
+                            "text": "From $2190 pp",
+                            "spans": []
+                        }
+                    ]
+                }
+            ],
+            "id": "standard_retreat_form$fa702e65-3848-444a-90dc-66a1990e48e8",
+            "slice_type": "standard_retreat_form",
+            "slice_label": null
+        },
+        {
+            "primary": {
+                "title": [
+                    {
+                        "type": "paragraph",
+                        "text": "Book an special retreat",
+                        "spans": [
+                            {
+                                "start": 0,
+                                "end": 5,
+                                "type": "strong"
+                            },
+                            {
+                                "start": 8,
+                                "end": 16,
+                                "type": "em"
+                            }
+                        ]
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Our retreats with special guests are simply unique. Besides the fact that you will be assured of a few days of happiness and adventure, you will share moments with people who are looking for the same thing as you, what could be more special than that?",
+                        "spans": []
+                    }
+                ],
+                "dates_title": [
+                    {
+                        "type": "paragraph",
+                        "text": "Select Date",
+                        "spans": []
+                    }
+                ],
+                "amount_of_people": [
+                    {
+                        "type": "heading6",
+                        "text": "Select Amount of People",
+                        "spans": []
+                    }
+                ],
+                "guests_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Guests",
+                        "spans": []
+                    }
+                ],
+                "available_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Available",
+                        "spans": []
+                    }
+                ],
+                "full_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Full",
+                        "spans": []
+                    }
+                ],
+                "contact_title": [
+                    {
+                        "type": "heading6",
+                        "text": "Contact Information",
+                        "spans": []
+                    }
+                ],
+                "first_name_text": [
+                    {
+                        "type": "heading6",
+                        "text": "First name",
+                        "spans": []
+                    }
+                ],
+                "last_name_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Last name",
+                        "spans": []
+                    }
+                ],
+                "email_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Email",
+                        "spans": []
+                    }
+                ],
+                "country_code_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Country code",
+                        "spans": []
+                    }
+                ],
+                "phone_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Phone number",
+                        "spans": []
+                    }
+                ],
+                "newsletter_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Keep me up to date on news and exclusive offers",
+                        "spans": []
+                    }
+                ],
+                "send_button_text": [
+                    {
+                        "type": "heading6",
+                        "text": "Send Booking Request",
+                        "spans": []
+                    }
+                ]
+            },
+            "items": [
+                {}
+            ],
+            "id": "special_retreat_form$fc6ec6e7-d10f-485e-8f9f-3b853170a64e",
+            "slice_type": "special_retreat_form",
+            "slice_label": null
+        }
+    ]
+}

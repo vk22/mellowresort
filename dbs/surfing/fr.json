@@ -1,0 +1,509 @@
+{
+    "title": [
+        {
+            "type": "paragraph",
+            "text": "Plongez dans la satisfaction de surfer des vagues",
+            "spans": [
+                {
+                    "start": 7,
+                    "end": 8,
+                    "type": "strong"
+                },
+                {
+                    "start": 16,
+                    "end": 28,
+                    "type": "strong"
+                },
+                {
+                    "start": 28,
+                    "end": 29,
+                    "type": "em"
+                },
+                {
+                    "start": 32,
+                    "end": 49,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "type": "paragraph",
+            "text": "Surfer les vagues du Pacifique nicaraguayen vous permettra de vous immerger dans un environnement naturel et chaleureux, entouré de palmiers et d'un ciel aux couleurs émerveillants. ",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "La région se caractérise par sa grande diversité de vagues, plus douces et parfaites pour les longboarders aux grosses et tubulaires pour les plus experimentés.",
+            "spans": [
+                {
+                    "start": 94,
+                    "end": 106,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "header_images": [
+        {
+            "image": {
+                "dimensions": {
+                    "width": 3955,
+                    "height": 5932
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/46e8fa03-e9d7-49ad-8d22-9e9ddef44ca7_sunset.jpg?auto=compress,format",
+                "id": "ZCxABRAAACIAz6sm",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/801f28e5-8ff8-4564-b431-9a6662167493_foto+nahua+negro.jpg?auto=compress,format",
+                "id": "ZCw1URAAAB8Az5SQ",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/93177b23-e1ef-48e6-add2-437bc5d647b9_foto+pagina+surfing.jpg?auto=compress,format",
+                "id": "ZD11SRAAACMAlkYD",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        },
+        {
+            "image": {
+                "dimensions": {
+                    "width": 5967,
+                    "height": 3357
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/c12fec68-7e56-4214-b14f-472e4456679a_pblo+2.jpg?auto=compress,format",
+                "id": "ZDSPKBAAACMA6ibA",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            }
+        }
+    ],
+    "intro_title": [
+        {
+            "type": "heading2",
+            "text": "Surfez avec Mellow",
+            "spans": []
+        }
+    ],
+    "intro_description": [
+        {
+            "type": "paragraph",
+            "text": "Avec notre voiture 4x4, vous arriverez aux meilleurs spots de surf afin de que chaque séance soit inoubliable.  Pour les surfeurs débutants, nous proposons des leçons guidées et  individualisées afin qu'ils puissent aussi attraper la vague de leur vie au Nicaragua.",
+            "spans": [
+                {
+                    "start": 53,
+                    "end": 58,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "intro_image": {
+        "dimensions": {
+            "width": 6000,
+            "height": 4000
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/784781ae-242a-45c1-ab51-a863db07368b_long+nahua.jpg?auto=compress,format",
+        "id": "ZCw2uBAAACMAz5dh",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "slides_intro_title": [
+        {
+            "type": "paragraph",
+            "text": "Notre façon d'instruire le surf est unique",
+            "spans": [
+                {
+                    "start": 6,
+                    "end": 11,
+                    "type": "strong"
+                },
+                {
+                    "start": 12,
+                    "end": 23,
+                    "type": "em"
+                },
+                {
+                    "start": 36,
+                    "end": 42,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "slides_intro_image": {
+        "dimensions": {
+            "width": 5938,
+            "height": 3341
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/119fc581-310b-4126-ba48-881e00deb4c5_foto+teaching+2.jpg?auto=compress,format",
+        "id": "ZDibrBAAACIAgr5H",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "slides_scroll_text": [
+        {
+            "type": "heading6",
+            "text": "Glisser pour le découvrir",
+            "spans": []
+        }
+    ],
+    "slides": [
+        {
+            "item_image": {},
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "Leçons de pagaie",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Surfer l'océan est parfois un grand défi, surtout lorsqu'il y a de grosses vagues et de forts courants. Ces facteurs, parmi d'autres, rendent difficile la prise de vagues et les manœuvres. Pour vous préparer à la vie en mer, nous vous invitons à participer à des séances d'entraînement à la piscine qui vous aideront à développer les compétences nécessaires pour rendre votre pagayage et votre plongée en canard plus efficaces. Nous voulons nous assurer que vous êtes bien préparé pour commencer à surfer.",
+                    "spans": [
+                        {
+                            "start": 394,
+                            "end": 411,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5933,
+                    "height": 3647
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/c35898ea-2340-4610-8950-70bfd7bcd1ab_learning+apostillo.jpg?auto=compress,format",
+                "id": "ZD6_CRAAACEAnE8r",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "Leçons a la plage",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Avant de se jeter a l'eau, vous aurez un guide concis mais sur les bases du surf. Nos instructeurs vous expliqueront notamment comment est-ce que les vagues se brisent et ce qu'il faut prendre en compte lorsque l'on pagaie une vague. Pour les débutants, les leçons sont plus approfondies afin de renforcer la sécurité et la confiance nécessaires pour surfer sans que rien ne vous arrête.",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {},
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "La théorie du surf ",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Chez Mellow, nous croyons que le surf est bien plus que l'acte physique de chevaucher les vagues. En tant qu'amoureux de ce sport, nous nous engageons à vous enseigner les outils nécessaires pour enrichir au maximum votre expérience. À ce titre, nous proposons des cours théoriques de surf dans lesquels vous allez apprendre des techniques et des connaissances de base sur la mer et sur certaines manœuvres. Bien entendu, nous laissons la porte ouverte à toutes les questions et à tous les doutes qui peuvent surgir pendant votre séjour, afin que vous puissiez profiter au maximum de votre surf.",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                }
+            ]
+        }
+    ],
+    "surf_spots_title": [
+        {
+            "type": "paragraph",
+            "text": "Nos points de surf",
+            "spans": [
+                {
+                    "start": 4,
+                    "end": 10,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "surf_spots": [
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5513,
+                    "height": 3675
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/99dda01c-b9a1-442f-8faf-ffba4f6aba20_surfing.jpg?auto=compress,format",
+                "id": "ZCy9wBAAACMA0IPD",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "NAHUALAPA",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Nahualapa est l'une des meilleures plages de la région, avec des bonnes vagues en permanence. Il s'agit principalement d'un beach break - mais aussi elle est entourée de rochers ce qui facilite l'apparition de gauches parfaites et de longues droites. Lorsque la houle est plus faible, la vague est parfaite pour les débutants et les intermédiaires. Lorsque la houle est plus puissante, les vagues peuvent être plus difficiles. C'est également un spot parfait pour le longboard.",
+                    "spans": [
+                        {
+                            "start": 124,
+                            "end": 135,
+                            "type": "em"
+                        },
+                        {
+                            "start": 446,
+                            "end": 450,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 3969,
+                    "height": 5954
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/d9b1b0f1-fc79-4a3a-aec4-2a9ffdecef6f_foto+aposantillo+lessons.jpg?auto=compress,format",
+                "id": "ZC3pLhAAACEA0oES",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "APOSENTILLO",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Aposentillo est une plage de sable avec des vagues gentilles pendant toute l'année. C'est un endroit idéal pour les personnes qui débutent avec le surf, mais aussi une plage amusante pour ceux qui connaissent déjà ses vagues. Selon nous, Aposentillo offre les meilleurs couchers de soleil de la région. ",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/ce9933cc-eb8e-4c1e-a842-7da16172507b_foto+isla.jpg?auto=compress,format",
+                "id": "ZEBM2xAAACEAo4TM",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "LA ISLA",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "L'Île n'est pas seulement étonnante en raison de sa longue et stupéfiante vague de gauche, mais aussi parce que l'aventure de la traversée au long l'estuaire pour atteindre cette île isolée est une expérience enrichissante en soi. Le vague de l'île est si long que le lendemain vous aurez mal aux bras à force de pagayer!",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5400,
+                    "height": 3600
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/6f3d1f11-dec0-4031-b404-31471466dc66_foto+boom+web+1.jpg?auto=compress,format",
+                "id": "ZD67whAAACIAnD5c",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "THE BOOM",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": " \"The Boom\" est l'une des plages du Nicaragua où l'on trouve l'une des plus belles vagues, un véritable rêve pour les surfeurs. Cet endroit est relativement régulier, de nombreux surfeurs se réveillent et jouissent de ce paradis avant de commencer leur journée.",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5184,
+                    "height": 3456
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/56d2c04e-4695-41aa-8e5a-6ef0fd5374c6_birja+surfeando.jpg?auto=compress,format",
+                "id": "ZEAVlRAAACIAooOF",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "COCO LOCO",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Si vous cherchez une longue vague à surfer, Coco Loco est l'endroit qu'il vous faut. Ce break séduit par sa gauche douce et longue. En fait, avec une bonne houle, c'est l'un des meilleurs de la région.",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5559,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/dcb507ba-2109-4fe3-ab39-30a51e765238_foto+jiquillo.jpg?auto=compress,format",
+                "id": "ZEAlCBAAACMAospQ",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading2",
+                    "text": "JIQUILILLO",
+                    "spans": []
+                }
+            ],
+            "item_description": [
+                {
+                    "type": "paragraph",
+                    "text": "Jiquilillo est une vague parfaite et peu fréquentée , elle est idéale pour les seánces de surf à marée basse. Vous pouvez profiter des vagues qui déferlent à droite comme à gauche. Vous aurez surement une expérience plaisante dans un endroit isolé et exclusif.",
+                    "spans": []
+                }
+            ]
+        }
+    ],
+    "meta_title": [],
+    "meta_description": [],
+    "meta_image": {}
+}

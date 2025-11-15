@@ -1,0 +1,365 @@
+{
+    "title": [
+        {
+            "type": "paragraph",
+            "text": "We are committed to bringing brighter future to the local community",
+            "spans": [
+                {
+                    "start": 7,
+                    "end": 16,
+                    "type": "em"
+                },
+                {
+                    "start": 17,
+                    "end": 44,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "body": [
+        {
+            "primary": {
+                "section_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Our approach",
+                        "spans": []
+                    }
+                ],
+                "section_description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Our strategy involves radiating a local-oriented mindset, starting with our neighbors. Our goal is to empower the community by engaging with them directly, understanding their needs and identifying opportunities for growth. We plan to achieve this by taking small steps at first, gradually expanding our efforts to address economic, educational, and healthcare needs.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Our aim is to support the community's growth by creating job opportunities, providing access to education, and offering mentorship to local talent. We believe that a proactive approach of building the community daily is more effective than a reactive approach, as it leads to greater independence and strength over time.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "We are still developing the best approach to this philosophy, but we remain committed to making a lasting impact by continuously improving our methods.",
+                        "spans": []
+                    }
+                ],
+                "button_text": [],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": false,
+                "is_dark": false,
+                "section_image": {
+                    "dimensions": {
+                        "width": 3947,
+                        "height": 5921
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/1ab17a71-5aee-4864-b69b-23fefe9b3efa_constructor.jpg?auto=compress,format",
+                    "id": "ZDngzxAAACAAhke4",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                }
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$2f7d2c66-3a18-4d73-86a7-6ffb5c01de3d",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [
+                    {
+                        "type": "heading2",
+                        "text": "Our approach",
+                        "spans": []
+                    }
+                ],
+                "sectionDescription": [
+                    {
+                        "type": "paragraph",
+                        "text": "Our strategy involves radiating a local-oriented mindset, starting with our neighbors. Our goal is to empower the community by engaging with them directly, understanding their needs and identifying opportunities for growth. We plan to achieve this by taking small steps at first, gradually expanding our efforts to address economic, educational, and healthcare needs.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Our aim is to support the community's growth by creating job opportunities, providing access to education, and offering mentorship to local talent. We believe that a proactive approach of building the community daily is more effective than a reactive approach, as it leads to greater independence and strength over time.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "We are still developing the best approach to this philosophy, but we remain committed to making a lasting impact by continuously improving our methods.",
+                        "spans": []
+                    }
+                ],
+                "buttonText": [],
+                "imagePosition": false,
+                "isDark": false,
+                "sectionImage": {
+                    "dimensions": {
+                        "width": 3947,
+                        "height": 5921
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/1ab17a71-5aee-4864-b69b-23fefe9b3efa_constructor.jpg?auto=compress,format",
+                    "id": "ZDngzxAAACAAhke4",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "title": [
+                    {
+                        "type": "heading2",
+                        "text": "Our approach",
+                        "spans": []
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Our strategy involves radiating a local-oriented mindset, starting with our neighbors. Our goal is to empower the community by engaging with them directly, understanding their needs and identifying opportunities for growth. We plan to achieve this by taking small steps at first, gradually expanding our efforts to address economic, educational, and healthcare needs.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Our aim is to support the community's growth by creating job opportunities, providing access to education, and offering mentorship to local talent. We believe that a proactive approach of building the community daily is more effective than a reactive approach, as it leads to greater independence and strength over time.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "We are still developing the best approach to this philosophy, but we remain committed to making a lasting impact by continuously improving our methods.",
+                        "spans": []
+                    }
+                ],
+                "image": {
+                    "dimensions": {
+                        "width": 3947,
+                        "height": 5921
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/1ab17a71-5aee-4864-b69b-23fefe9b3efa_constructor.jpg?auto=compress,format",
+                    "id": "ZDngzxAAACAAhke4",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "reverse": false,
+                "buttonExternal": true
+            },
+            "name": "text-and-image"
+        },
+        {
+            "primary": {
+                "section_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Kids are the future",
+                        "spans": []
+                    }
+                ],
+                "section_description": [
+                    {
+                        "type": "paragraph",
+                        "text": "At the heart of our future lies the children, who represent two out of the six million people living in Nicaragua. We firmly believe that providing opportunities for children is key to making a positive impact on the community. By offering general knowledge sharing such as weekly English classes and preventive medical courses that teach children how to brush their teeth, we can gradually improve the community's overall well-being.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Furthermore, by supporting local families and providing guidance, we can help create a brighter future for the children. With more resources available to them, children will have a better chance to pursue their studies and achieve their dreams. Our focus will therefore be primarily on the children, as we believe this will have the greatest impact on the community as a whole.",
+                        "spans": []
+                    }
+                ],
+                "button_text": [],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": true,
+                "is_dark": false,
+                "section_image": {
+                    "dimensions": {
+                        "width": 2877,
+                        "height": 1939
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/8b4dc916-84a1-452a-b303-1e501d136e57_foto+nena.jpg?auto=compress,format",
+                    "id": "ZEBN0hAAACAAo4mE",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                }
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$163f6ddf-f50b-4739-9a35-bd3275ea83d0",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [
+                    {
+                        "type": "heading2",
+                        "text": "Kids are the future",
+                        "spans": []
+                    }
+                ],
+                "sectionDescription": [
+                    {
+                        "type": "paragraph",
+                        "text": "At the heart of our future lies the children, who represent two out of the six million people living in Nicaragua. We firmly believe that providing opportunities for children is key to making a positive impact on the community. By offering general knowledge sharing such as weekly English classes and preventive medical courses that teach children how to brush their teeth, we can gradually improve the community's overall well-being.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Furthermore, by supporting local families and providing guidance, we can help create a brighter future for the children. With more resources available to them, children will have a better chance to pursue their studies and achieve their dreams. Our focus will therefore be primarily on the children, as we believe this will have the greatest impact on the community as a whole.",
+                        "spans": []
+                    }
+                ],
+                "buttonText": [],
+                "imagePosition": true,
+                "isDark": false,
+                "sectionImage": {
+                    "dimensions": {
+                        "width": 2877,
+                        "height": 1939
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/8b4dc916-84a1-452a-b303-1e501d136e57_foto+nena.jpg?auto=compress,format",
+                    "id": "ZEBN0hAAACAAo4mE",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "title": [
+                    {
+                        "type": "heading2",
+                        "text": "Kids are the future",
+                        "spans": []
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "At the heart of our future lies the children, who represent two out of the six million people living in Nicaragua. We firmly believe that providing opportunities for children is key to making a positive impact on the community. By offering general knowledge sharing such as weekly English classes and preventive medical courses that teach children how to brush their teeth, we can gradually improve the community's overall well-being.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Furthermore, by supporting local families and providing guidance, we can help create a brighter future for the children. With more resources available to them, children will have a better chance to pursue their studies and achieve their dreams. Our focus will therefore be primarily on the children, as we believe this will have the greatest impact on the community as a whole.",
+                        "spans": []
+                    }
+                ],
+                "image": {
+                    "dimensions": {
+                        "width": 2877,
+                        "height": 1939
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/8b4dc916-84a1-452a-b303-1e501d136e57_foto+nena.jpg?auto=compress,format",
+                    "id": "ZEBN0hAAACAAo4mE",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "reverse": true,
+                "buttonExternal": true
+            },
+            "name": "text-and-image"
+        },
+        {
+            "primary": {
+                "image": {
+                    "dimensions": {
+                        "width": 6000,
+                        "height": 4000
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/85161730-9054-4bb8-acc1-f7598eb918d1_kids+are+the+future.jpg?auto=compress,format",
+                    "id": "ZEBMsxAAACIAo4QH",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "video": {
+                    "link_type": "Any"
+                },
+                "is_dark": false
+            },
+            "items": [
+                {}
+            ],
+            "id": "media$94232328-75e3-497a-9cf9-818f5736875b",
+            "slice_type": "media",
+            "slice_label": null,
+            "data": {
+                "image": {
+                    "dimensions": {
+                        "width": 6000,
+                        "height": 4000
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/85161730-9054-4bb8-acc1-f7598eb918d1_kids+are+the+future.jpg?auto=compress,format",
+                    "id": "ZEBMsxAAACIAo4QH",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "video": {
+                    "link_type": "Any"
+                },
+                "isDark": false
+            },
+            "name": "media-section"
+        }
+    ],
+    "meta_title": [
+        {
+            "type": "heading2",
+            "text": "Sustainability | Mellow Resort",
+            "spans": [],
+            "direction": "ltr"
+        }
+    ],
+    "meta_description": [
+        {
+            "type": "heading6",
+            "text": "Learn about Mellow Resort's commitment to sustainability through eco-friendly practices and support for local communities in Nicaragua.",
+            "spans": [],
+            "direction": "ltr"
+        }
+    ],
+    "meta_image": {}
+}

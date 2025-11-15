@@ -1,0 +1,268 @@
+{
+    "title": [
+        {
+            "type": "paragraph",
+            "text": "Mellow means \"to become softer and more developed in a pleasing way over time\"",
+            "spans": []
+        }
+    ],
+    "description": [
+        {
+            "type": "paragraph",
+            "text": "In the summer of 2020,  Pablo and Kinpok met each other at a surfcamp in Spain. ",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "Although we came from two different backgrounds - Pablo as creator of one surfcamp and Kinpok coming from a finance background- ,  we both connected very well and became good friends rightaway. As the friendship grew, so did our dreams, and as it happen, we both figured out that our dream was to merge surf and hospitality. From this idea and that moment, the ball started rolling.",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "\"By fate, we ended up in Nicaragua at the end of that same year. Immediately upon arrival, we fell in love with the tropical nature, the culture, and the kind local people. After just one week, we decided to settle in Nicaragua and build a project that has now turned into Mellow Resort. The entire resort was built with the help of the local community, which was one of the main sources of inspiration throughout the process. In these years, we have matured and grown - becoming more calm and relaxed, experiencing amazing and unforgettable adventures, and meeting incredible people. Everything has changed us. Our main objective now is to share our life-changing experiences with our guests so that everyone can experience the \"mellow\" process with us.\"",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+        }
+    ],
+    "slides": [
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 4829,
+                    "height": 3219
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/572ff3c5-01ba-4b3a-b548-1672d1cd87af_pablo+y+lupe.jpg?auto=compress,format",
+                "id": "ZDc0CBAAACMAgG69",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading6",
+                    "text": "Our promise to you",
+                    "spans": []
+                }
+            ],
+            "item_subtitle": [
+                {
+                    "type": "paragraph",
+                    "text": "Build connections that last",
+                    "spans": [
+                        {
+                            "start": 6,
+                            "end": 17,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 23,
+                            "end": 27,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "item_hover_text": [
+                {
+                    "type": "paragraph",
+                    "text": "Genuine friendships enriches and inspires and can fill up your heart with joy. At Mellow we foster an environment where connections are build both with other guests, staff and the local community. ",
+                    "spans": []
+                },
+                {
+                    "type": "paragraph",
+                    "text": "At Mellow you will have the opportunity to discover the local sense of fulfillment and genuine friendliness and build deep relationships with the locals. ",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 6000,
+                    "height": 3376
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/b9927684-c43a-436b-91e0-a951916de77f_foto+masaje+1.jpg?auto=compress,format",
+                "id": "ZDc0ChAAACEAgG7F",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading6",
+                    "text": "Our promise to you",
+                    "spans": []
+                }
+            ],
+            "item_subtitle": [
+                {
+                    "type": "paragraph",
+                    "text": "Reconnect to disconnect",
+                    "spans": []
+                }
+            ],
+            "item_hover_text": [
+                {
+                    "type": "paragraph",
+                    "text": "In the fast-paces world where we can often be overwhelmed with responsibilities and situations that are out of our control, we offer a place for you to retreat and to surround yourself with nature, tranquility and space to stand still to think and reflect.",
+                    "spans": []
+                }
+            ]
+        },
+        {
+            "item_image": {
+                "dimensions": {
+                    "width": 5832,
+                    "height": 4000
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/mellow-sa/cb647226-8789-40ac-9d89-86761e2204ce_foto+piscina.jpg?auto=compress,format",
+                "id": "ZC0EBhAAAB8A0Owu",
+                "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                }
+            },
+            "item_title": [
+                {
+                    "type": "heading6",
+                    "text": "We want you",
+                    "spans": []
+                }
+            ],
+            "item_subtitle": [
+                {
+                    "type": "paragraph",
+                    "text": "To discover new passions and expand your horizon",
+                    "spans": [
+                        {
+                            "start": 12,
+                            "end": 25,
+                            "type": "em"
+                        },
+                        {
+                            "start": 29,
+                            "end": 36,
+                            "type": "strong"
+                        },
+                        {
+                            "start": 41,
+                            "end": 48,
+                            "type": "em"
+                        }
+                    ]
+                }
+            ],
+            "item_hover_text": [
+                {
+                    "type": "paragraph",
+                    "text": "At Mellow we would like to offer you the opportunity to explore surf, adventures and nature as you have never done before.",
+                    "spans": []
+                }
+            ]
+        }
+    ],
+    "our_mission_title": [
+        {
+            "type": "paragraph",
+            "text": "Our mission is to inspire through spaces and through our local oriented mindset",
+            "spans": [
+                {
+                    "start": 4,
+                    "end": 11,
+                    "type": "em"
+                },
+                {
+                    "start": 18,
+                    "end": 40,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "our_mission_description": [
+        {
+            "type": "paragraph",
+            "text": "Places are the perfect gateways to inspire and connect people. Our mission is to inspire and create unique, warm environments where people can come together. \n\nAs you step into our resort, you will immediately notice the creative blend of the local environment with modern design, which has served as a great source of inspiration for us. We believe that spaces are not just physical, but also have the power to generate emotional experiences that can last a lifetime.",
+            "spans": []
+        },
+        {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+        }
+    ],
+    "our_mission_image": {
+        "dimensions": {
+            "width": 4000,
+            "height": 6000
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/840f1d22-8ff2-4ffe-aea0-e982312b8fc8_nachito+y+marliton.jpg?auto=compress,format",
+        "id": "ZDh5YRAAACIAgoqu",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "we_are_mellow_title": [
+        {
+            "type": "paragraph",
+            "text": "At Mellow we create places where you can disconnect to reconnect ",
+            "spans": [
+                {
+                    "start": 10,
+                    "end": 52,
+                    "type": "strong"
+                },
+                {
+                    "start": 55,
+                    "end": 65,
+                    "type": "strong"
+                }
+            ]
+        }
+    ],
+    "video_cover": {
+        "dimensions": {
+            "width": 6000,
+            "height": 3376
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/mellow-sa/de19d8f4-2978-4bd4-b88a-b37714b67e6d_foto+caballos.jpg?auto=compress,format",
+        "id": "ZCzSkBAAACMA0KMk",
+        "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "#fff"
+        }
+    },
+    "video": {
+        "link_type": "Any"
+    },
+    "meta_title": [],
+    "meta_description": [],
+    "meta_image": {}
+}

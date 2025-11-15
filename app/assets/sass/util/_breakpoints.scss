@@ -1,0 +1,27 @@
+@use "sass:map";
+@use "sass:meta";
+
+$breakpoints: (
+  'mobile-extra-small': (max-width: 340px),
+  'mobile-small': (max-width: 374px),
+  'mobile': (max-width: 480px),
+  'mobile-medium': (max-width: 580px),
+  'tablet-small': (max-width: 740px),
+  'tablet': (max-width: 890px),
+  'tablet-big': (max-width: 970px),
+  'desktop': (max-width: 1024px),
+  'desktop-medium': (max-width: 1280px),
+  'desktop-large': (max-width: 1580px),
+  'desktop-extra-large': (min-width: 1920px)
+);
+
+@mixin respond-to($name) {
+  @if map.has-key($breakpoints, $name) {
+    $query: map.get($breakpoints, $name);
+    @media #{meta.inspect($query)} {
+      @content;
+    }
+  } @else {
+    @warn "⚠️ Breakpoint `#{$name}` not found in `$breakpoints` map.";
+  }
+}

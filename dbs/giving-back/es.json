@@ -1,0 +1,661 @@
+{
+    "title": [
+        {
+            "type": "paragraph",
+            "text": "Queremos dejar huella en la comunidad",
+            "spans": [
+                {
+                    "start": 15,
+                    "end": 21,
+                    "type": "strong"
+                },
+                {
+                    "start": 28,
+                    "end": 37,
+                    "type": "em"
+                }
+            ]
+        }
+    ],
+    "body": [
+        {
+            "primary": {
+                "section_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Nos mantenemos cerca",
+                        "spans": []
+                    }
+                ],
+                "section_description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Consideramos que nuestro progreso debe estar al unísono del crecimiento colectivo, nos comprometemos a darles apoyo y formación. Somos conscientes de que nuestros actos pueden tener un impacto duradero y estamos decididos a que este sea positivo. Por ende, adoptamos una actitud que se centra en el localismo, priorizando la creación de empleo, el desarrollo de habilidades personales y la educación. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Primamos la contratación de empleados locales y les concedemos oportunidades de crecimiento económico, personal y laboral. Mediante la formación y el asesoramiento, queremos que nuestros trabajadores alcancen su máximo potencial. ",
+                        "spans": []
+                    }
+                ],
+                "button_text": [],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": false,
+                "is_dark": true,
+                "section_image": {
+                    "dimensions": {
+                        "width": 4000,
+                        "height": 6000
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/bd2389f7-fb32-4b2c-ba77-9c171ffa6715_trabajador+madera.jpg?auto=compress,format",
+                    "id": "ZEAVIhAAACIAooGe",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                }
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$f7558733-95dd-4f8b-a0b9-a9de4831afe4",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [
+                    {
+                        "type": "heading2",
+                        "text": "Nos mantenemos cerca",
+                        "spans": []
+                    }
+                ],
+                "sectionDescription": [
+                    {
+                        "type": "paragraph",
+                        "text": "Consideramos que nuestro progreso debe estar al unísono del crecimiento colectivo, nos comprometemos a darles apoyo y formación. Somos conscientes de que nuestros actos pueden tener un impacto duradero y estamos decididos a que este sea positivo. Por ende, adoptamos una actitud que se centra en el localismo, priorizando la creación de empleo, el desarrollo de habilidades personales y la educación. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Primamos la contratación de empleados locales y les concedemos oportunidades de crecimiento económico, personal y laboral. Mediante la formación y el asesoramiento, queremos que nuestros trabajadores alcancen su máximo potencial. ",
+                        "spans": []
+                    }
+                ],
+                "buttonText": [],
+                "imagePosition": false,
+                "isDark": true,
+                "sectionImage": {
+                    "dimensions": {
+                        "width": 4000,
+                        "height": 6000
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/bd2389f7-fb32-4b2c-ba77-9c171ffa6715_trabajador+madera.jpg?auto=compress,format",
+                    "id": "ZEAVIhAAACIAooGe",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "title": [
+                    {
+                        "type": "heading2",
+                        "text": "Nos mantenemos cerca",
+                        "spans": []
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Consideramos que nuestro progreso debe estar al unísono del crecimiento colectivo, nos comprometemos a darles apoyo y formación. Somos conscientes de que nuestros actos pueden tener un impacto duradero y estamos decididos a que este sea positivo. Por ende, adoptamos una actitud que se centra en el localismo, priorizando la creación de empleo, el desarrollo de habilidades personales y la educación. ",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Primamos la contratación de empleados locales y les concedemos oportunidades de crecimiento económico, personal y laboral. Mediante la formación y el asesoramiento, queremos que nuestros trabajadores alcancen su máximo potencial. ",
+                        "spans": []
+                    }
+                ],
+                "image": {
+                    "dimensions": {
+                        "width": 4000,
+                        "height": 6000
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/bd2389f7-fb32-4b2c-ba77-9c171ffa6715_trabajador+madera.jpg?auto=compress,format",
+                    "id": "ZEAVIhAAACIAooGe",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "reverse": false
+            },
+            "name": "text-and-image"
+        },
+        {
+            "primary": {
+                "section_title": [
+                    {
+                        "type": "heading2",
+                        "text": "Oportunidades",
+                        "spans": []
+                    }
+                ],
+                "section_description": [],
+                "button_text": [],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": false,
+                "is_dark": true,
+                "section_image": {
+                    "dimensions": {
+                        "width": 6000,
+                        "height": 3376
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/86510cb8-0012-4596-b4a7-1bc874f59625_foto+traajador.jpg?auto=compress,format",
+                    "id": "ZDsDfhAAACMAi02W",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                }
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$d90daecc-2c9e-4f95-88b4-7091b9069ffe",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [
+                    {
+                        "type": "heading2",
+                        "text": "Oportunidades",
+                        "spans": []
+                    }
+                ],
+                "sectionDescription": [],
+                "buttonText": [],
+                "imagePosition": false,
+                "isDark": true,
+                "sectionImage": {
+                    "dimensions": {
+                        "width": 6000,
+                        "height": 3376
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/86510cb8-0012-4596-b4a7-1bc874f59625_foto+traajador.jpg?auto=compress,format",
+                    "id": "ZDsDfhAAACMAi02W",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "title": [
+                    {
+                        "type": "heading2",
+                        "text": "Oportunidades",
+                        "spans": []
+                    }
+                ],
+                "description": [],
+                "image": {
+                    "dimensions": {
+                        "width": 6000,
+                        "height": 3376
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/86510cb8-0012-4596-b4a7-1bc874f59625_foto+traajador.jpg?auto=compress,format",
+                    "id": "ZDsDfhAAACMAi02W",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "reverse": false
+            },
+            "name": "text-and-image"
+        },
+        {
+            "primary": {
+                "image": {
+                    "dimensions": {
+                        "width": 3077,
+                        "height": 4616
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/df4e9cf8-33b6-49c9-90b1-bab87e1c46a1_foto+palma.jpg?auto=compress,format",
+                    "id": "ZDnjehAAACEAhlKo",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "video": {
+                    "link_type": "Any"
+                },
+                "is_dark": true
+            },
+            "items": [
+                {}
+            ],
+            "id": "media$a6f82ad1-bfec-4ad1-ae03-5d060768626e",
+            "slice_type": "media",
+            "slice_label": null,
+            "data": {
+                "image": {
+                    "dimensions": {
+                        "width": 3077,
+                        "height": 4616
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/mellow-sa/df4e9cf8-33b6-49c9-90b1-bab87e1c46a1_foto+palma.jpg?auto=compress,format",
+                    "id": "ZDnjehAAACEAhlKo",
+                    "edit": {
+                        "x": 0,
+                        "y": 0,
+                        "zoom": 1,
+                        "background": "#fff"
+                    }
+                },
+                "video": {
+                    "link_type": "Any"
+                },
+                "isDark": true
+            },
+            "name": "media-section"
+        },
+        {
+            "primary": {
+                "icons_title": [
+                    {
+                        "type": "paragraph",
+                        "text": "Nuestros principios para crear un cambio positivo",
+                        "spans": [
+                            {
+                                "start": 25,
+                                "end": 31,
+                                "type": "strong"
+                            },
+                            {
+                                "start": 34,
+                                "end": 41,
+                                "type": "em"
+                            },
+                            {
+                                "start": 41,
+                                "end": 49,
+                                "type": "strong"
+                            }
+                        ]
+                    }
+                ],
+                "is_dark": true
+            },
+            "items": [
+                {
+                    "item_icon": {
+                        "dimensions": {
+                            "width": 108,
+                            "height": 135
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/79e7a444-2269-4040-931b-c7add950aa63_giving+back+icon.jpg?auto=compress,format",
+                        "id": "ZDth1RAAACMAjO-8",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading5",
+                            "text": "Apoyamos a la comunidad",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "El corazón de Mellow es la comunidad local. Consideramos tan importante su progreso como el nuestro. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "item_icon": {
+                        "dimensions": {
+                            "width": 148,
+                            "height": 161
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/57ffa365-d5a3-4a70-b0bf-f6d4bdf8b928_foto+sustainbilit.jpg?auto=compress,format",
+                        "id": "ZDWnpxAAACIAfdab",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading5",
+                            "text": "Somos conscientes del medioambiente",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Nos esforzamos por actuar sosteniblemente, asegurándonos de que nuestros pasos protegen y respetan a la naturaleza. ",
+                            "spans": []
+                        }
+                    ]
+                },
+                {
+                    "item_icon": {
+                        "dimensions": {
+                            "width": 128,
+                            "height": 128
+                        },
+                        "alt": null,
+                        "copyright": null,
+                        "url": "https://images.prismic.io/mellow-sa/76d4bd46-90e5-4ce1-8315-9c813a2e1cb4_foto+giving+back.jpg?auto=compress,format",
+                        "id": "ZDWnlhAAACMAfdaC",
+                        "edit": {
+                            "x": 0,
+                            "y": 0,
+                            "zoom": 1,
+                            "background": "#fff"
+                        }
+                    },
+                    "item_title": [
+                        {
+                            "type": "heading5",
+                            "text": "Actuamos a nivel local",
+                            "spans": []
+                        }
+                    ],
+                    "item_description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Nos gusta relacionarnos con  nuestro entorno mas cercano y asegurarnos de que creamos un impacto positivo en él. ",
+                            "spans": []
+                        }
+                    ]
+                }
+            ],
+            "id": "icons_section$850e58fb-17cb-4fe4-a1ee-32fb13ee1807",
+            "slice_type": "icons_section",
+            "slice_label": null,
+            "data": {
+                "iconsTitle": [
+                    {
+                        "type": "paragraph",
+                        "text": "Nuestros principios para crear un cambio positivo",
+                        "spans": [
+                            {
+                                "start": 25,
+                                "end": 31,
+                                "type": "strong"
+                            },
+                            {
+                                "start": 34,
+                                "end": 41,
+                                "type": "em"
+                            },
+                            {
+                                "start": 41,
+                                "end": 49,
+                                "type": "strong"
+                            }
+                        ]
+                    }
+                ],
+                "isDark": true,
+                "title": [
+                    {
+                        "type": "paragraph",
+                        "text": "Nuestros principios para crear un cambio positivo",
+                        "spans": [
+                            {
+                                "start": 25,
+                                "end": 31,
+                                "type": "strong"
+                            },
+                            {
+                                "start": 34,
+                                "end": 41,
+                                "type": "em"
+                            },
+                            {
+                                "start": 41,
+                                "end": 49,
+                                "type": "strong"
+                            }
+                        ]
+                    }
+                ],
+                "items": [
+                    {
+                        "item_icon": {
+                            "dimensions": {
+                                "width": 108,
+                                "height": 135
+                            },
+                            "alt": null,
+                            "copyright": null,
+                            "url": "https://images.prismic.io/mellow-sa/79e7a444-2269-4040-931b-c7add950aa63_giving+back+icon.jpg?auto=compress,format",
+                            "id": "ZDth1RAAACMAjO-8",
+                            "edit": {
+                                "x": 0,
+                                "y": 0,
+                                "zoom": 1,
+                                "background": "#fff"
+                            }
+                        },
+                        "item_title": [
+                            {
+                                "type": "heading5",
+                                "text": "Apoyamos a la comunidad",
+                                "spans": []
+                            }
+                        ],
+                        "item_description": [
+                            {
+                                "type": "paragraph",
+                                "text": "El corazón de Mellow es la comunidad local. Consideramos tan importante su progreso como el nuestro. ",
+                                "spans": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_icon": {
+                            "dimensions": {
+                                "width": 148,
+                                "height": 161
+                            },
+                            "alt": null,
+                            "copyright": null,
+                            "url": "https://images.prismic.io/mellow-sa/57ffa365-d5a3-4a70-b0bf-f6d4bdf8b928_foto+sustainbilit.jpg?auto=compress,format",
+                            "id": "ZDWnpxAAACIAfdab",
+                            "edit": {
+                                "x": 0,
+                                "y": 0,
+                                "zoom": 1,
+                                "background": "#fff"
+                            }
+                        },
+                        "item_title": [
+                            {
+                                "type": "heading5",
+                                "text": "Somos conscientes del medioambiente",
+                                "spans": []
+                            }
+                        ],
+                        "item_description": [
+                            {
+                                "type": "paragraph",
+                                "text": "Nos esforzamos por actuar sosteniblemente, asegurándonos de que nuestros pasos protegen y respetan a la naturaleza. ",
+                                "spans": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_icon": {
+                            "dimensions": {
+                                "width": 128,
+                                "height": 128
+                            },
+                            "alt": null,
+                            "copyright": null,
+                            "url": "https://images.prismic.io/mellow-sa/76d4bd46-90e5-4ce1-8315-9c813a2e1cb4_foto+giving+back.jpg?auto=compress,format",
+                            "id": "ZDWnlhAAACMAfdaC",
+                            "edit": {
+                                "x": 0,
+                                "y": 0,
+                                "zoom": 1,
+                                "background": "#fff"
+                            }
+                        },
+                        "item_title": [
+                            {
+                                "type": "heading5",
+                                "text": "Actuamos a nivel local",
+                                "spans": []
+                            }
+                        ],
+                        "item_description": [
+                            {
+                                "type": "paragraph",
+                                "text": "Nos gusta relacionarnos con  nuestro entorno mas cercano y asegurarnos de que creamos un impacto positivo en él. ",
+                                "spans": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            "name": "icons-section"
+        },
+        {
+            "primary": {
+                "section_title": [
+                    {
+                        "type": "heading2",
+                        "text": "La granja de Mellow",
+                        "spans": []
+                    }
+                ],
+                "section_description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Tenemos una idea apasionante entre manos: la granja Mellow. Nuestro objetivo es cultivar frutas y verduras ecológicas y funcionar como proveedores de nuestro restaurante, ofreciendo a nuestros clientes productos frescos y deliciosos.  Con el tiempo y si la granja fructifica, la idea es suministrar a otros hoteles y familias de la zona para que ellos también puedan disfrutar de una alimentos cultivados de manera sostenible.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Aunque es un proyecto en fase de elaboración, pensamos hacerlo realidad. Hasta entonces, nuestra labor es encargarnos de consolidar el plan para que todo salga a pedir de boca. Mantente informado de nuestros avances en esta nueva y emocionante iniciativa.",
+                        "spans": []
+                    }
+                ],
+                "button_text": [],
+                "button_link": {
+                    "link_type": "Any"
+                },
+                "image_position": false,
+                "is_dark": true,
+                "section_image": {}
+            },
+            "items": [
+                {}
+            ],
+            "id": "text_and_image$01b697c0-6e0b-46e2-92e0-a586916618da",
+            "slice_type": "text_and_image",
+            "slice_label": null,
+            "data": {
+                "sectionTitle": [
+                    {
+                        "type": "heading2",
+                        "text": "La granja de Mellow",
+                        "spans": []
+                    }
+                ],
+                "sectionDescription": [
+                    {
+                        "type": "paragraph",
+                        "text": "Tenemos una idea apasionante entre manos: la granja Mellow. Nuestro objetivo es cultivar frutas y verduras ecológicas y funcionar como proveedores de nuestro restaurante, ofreciendo a nuestros clientes productos frescos y deliciosos.  Con el tiempo y si la granja fructifica, la idea es suministrar a otros hoteles y familias de la zona para que ellos también puedan disfrutar de una alimentos cultivados de manera sostenible.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Aunque es un proyecto en fase de elaboración, pensamos hacerlo realidad. Hasta entonces, nuestra labor es encargarnos de consolidar el plan para que todo salga a pedir de boca. Mantente informado de nuestros avances en esta nueva y emocionante iniciativa.",
+                        "spans": []
+                    }
+                ],
+                "buttonText": [],
+                "imagePosition": false,
+                "isDark": true,
+                "sectionImage": {},
+                "title": [
+                    {
+                        "type": "heading2",
+                        "text": "La granja de Mellow",
+                        "spans": []
+                    }
+                ],
+                "description": [
+                    {
+                        "type": "paragraph",
+                        "text": "Tenemos una idea apasionante entre manos: la granja Mellow. Nuestro objetivo es cultivar frutas y verduras ecológicas y funcionar como proveedores de nuestro restaurante, ofreciendo a nuestros clientes productos frescos y deliciosos.  Con el tiempo y si la granja fructifica, la idea es suministrar a otros hoteles y familias de la zona para que ellos también puedan disfrutar de una alimentos cultivados de manera sostenible.",
+                        "spans": []
+                    },
+                    {
+                        "type": "paragraph",
+                        "text": "Aunque es un proyecto en fase de elaboración, pensamos hacerlo realidad. Hasta entonces, nuestra labor es encargarnos de consolidar el plan para que todo salga a pedir de boca. Mantente informado de nuestros avances en esta nueva y emocionante iniciativa.",
+                        "spans": []
+                    }
+                ],
+                "image": {},
+                "reverse": false
+            },
+            "name": "text-and-image"
+        }
+    ],
+    "meta_title": [],
+    "meta_description": [],
+    "meta_image": {}
+}
