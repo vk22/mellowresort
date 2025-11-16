@@ -42,7 +42,7 @@ function show() {
 
 function breakText() {
   const item = root.value;
-  console.log('breakText ', item)
+  // console.log('breakText ', item)
   if (!item) return;
   const words = [];
   if(item.innerText.trim() !== '') {

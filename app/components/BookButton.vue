@@ -11,7 +11,7 @@
       isDisabled && $style.isDisabled
     ]"
   >
-    <div ref="overlay" :class="$style.overlay" @click="close"></div>
+    <div ref="overlayEl" :class="$style.overlay" @click="close"></div>
 
     <div v-show="hasInfo" :class="$style.info" :style="{ background: currentColor }" @click="handleInfoClick">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 19">
@@ -19,10 +19,10 @@
       </svg>
     </div>
 
-    <div ref="content" :class="$style.content">
-      <div ref="buttons" :class="$style.buttons">
+    <div ref="contentEl" :class="$style.content">
+      <div ref="buttonsEl" :class="$style.buttons">
         <div
-          ref="leftButton"
+          ref="leftBtnEl"
           :class="$style.leftButton"
           @click="open"
           data-cursor-pointer
@@ -33,7 +33,7 @@
         </div>
 
         <div
-          ref="rightButton"
+          ref="rightBtnEl"
           :class="$style.rightButton"
           data-cursor-pointer
           @mouseenter="hoverRight = true"
@@ -45,11 +45,12 @@
         </div>
       </div>
 
-      <!-- <div ref="list" :class="$style.list">
+      <div ref="listEl" :class="$style.list">
+        <!-- {{ state.listTitle }} -->
         <MainTitle
           ref="listTitle"
           :class="$style.listTitle"
-          :text="listTitle"
+          :text="state.listTitle"
           :mask="false"
           :style="{ background: currentColor }"
         />
@@ -58,7 +59,7 @@
             <MainTitle :class="$style.itemTitle" :text="item.item_title" :mask="false" />
           </li>
         </ul>
-      </div> -->
+      </div>
 
       <div ref="BGs" :class="$style.BGs">
         <div ref="leftBG" :class="$style.left"></div>
@@ -85,7 +86,7 @@ const props = defineProps({
 })
 
 // --------------------- refs к DOM
-const overlay    = ref(null)
+const overlayEl    = ref(null)
 const contentEl  = ref(null)
 const buttonsEl  = ref(null)
 const leftBtnEl  = ref(null)
@@ -145,18 +146,7 @@ const { data, success } = await useFetch('/api/menu', {
   // SSR по умолчанию включён в Nuxt 3, когда useFetch вызывается в setup
 })
 
-/**
- * ОЖИДАЕМЫЙ ФОРМАТ от вашего API (можете поправить маппинг ниже под ваш ответ):
- * {
- *   menu: {
- *     book_title: "…",            // string
- *     book_button: "…",           // string
- *     contact_title: "…",         // string
- *     contact_items: [{ item_title: "…", item_link: { url, target } }, ...],
- *     book_button_link: { url, target }
- *   }
- * }
- */
+
 const mapApi = () => {
   const menu = data.value?.data.data || {}
 
@@ -219,6 +209,12 @@ function updatePos() {
 
 function resize() {
   state.footerHeight = document.getElementById('footer')?.offsetHeight || window.innerHeight + 100
+  console.log('overlayEl ', overlayEl.value)
+  console.log('buttonsEl ', buttonsEl.value)
+  console.log('leftBtnEl ', leftBtnEl.value)
+  console.log('rightBtnEl ', rightBtnEl.value)
+  console.log('listEl ', listEl.value)
+  console.log('contentEl ', contentEl.value)
 
   if (!buttonsEl.value || !leftBtnEl.value || !rightBtnEl.value || !listEl.value || !contentEl.value) return
 
@@ -243,13 +239,14 @@ function resize() {
   root.style.setProperty('--content-width', `${state.contentWidth}px`)
 
   // фиксация overlay top/left (как в старой версии)
-  if (overlay.value) {
-    let top  = Number((overlay.value.style.top || '').replace('px', '')) || 0
-    let left = Number((overlay.value.style.left || '').replace('px', '')) || 0
-    top  = top  - overlay.value.getBoundingClientRect().top
-    left = left - overlay.value.getBoundingClientRect().left
-    overlay.value.style.top  = `${top}px`
-    overlay.value.style.left = `${left}px`
+  
+  if (overlayEl.value) {
+    let top  = Number((overlayEl.value.style.top || '').replace('px', '')) || 0
+    let left = Number((overlayEl.value.style.left || '').replace('px', '')) || 0
+    top  = top  - overlayEl.value.getBoundingClientRect().top
+    left = left - overlayEl.value.getBoundingClientRect().left
+    overlayEl.value.style.top  = `${top}px`
+    overlayEl.value.style.left = `${left}px`
   }
 }
 
